@@ -43,3 +43,5 @@ Totoro的日语翻译是一个终身维护的双语翻译档案。
 理解するという行為を放棄できないから翻訳しています。
 
 ---  2026.1.22  ---
+
+![支持一下我](https://raw.githubusercontent.com/totoroJyunn/translation-totoro/main/Totoro的个人资料/支持一下我.jpg)
