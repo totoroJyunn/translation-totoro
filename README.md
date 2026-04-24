@@ -44,4 +44,4 @@ Totoro的日语翻译是一个终身维护的双语翻译档案。
 
 ---  2026.1.22  ---
 
-<img src="https://raw.githubusercontent.com/totoroJyunn/translation-totoro/main/profile/support.jpg" width="30%">
+<img src="https://github.com/totoroJyunn/translation-totoro/blob/main/Totoro的个人资料/支持一下我.jpg?raw=true" width="30%">
