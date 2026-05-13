@@ -1,0 +1,124 @@
+为了更好地完成这项任务，我先为自己设定了如下的提示词（执行计划）：
+
+🤖 内部执行提示词 (Self-Prompts)
+
+1.  任务目标：根据用户提供的中日双语字幕片段，在Simone de Beauvoir（西蒙娜·德·波伏瓦）的著作《La Vieillesse》（老之将至 /
+    衰老）的法语原文本中，精准定位并提取对应的法语原句。
+2.  难点排查：
+      - 字幕 45-46 是波伏瓦最著名的金句，但这句出自《第二性》（Le Deuxième Sexe），我需要核实它是否在提供的《La
+        Vieillesse》文本中被引用。如果不在，我仍需提供准确的法语原句并说明出处。
+      - 由于中日字幕是意译，我需要提取核心关键词进行法语逆向翻译匹配。例如：“废品”对应 déchet / rebut /
+        laissé-pour-compte；“引退”对应 retraite；“童话”对应 contes；“禁忌”对应 tabous。
+3.  定位策略：
+      - Sub 78-98: 寻找包含 "15到20年" (quinze ou vingt)、"废品" (déchet /
+        laissé-pour-compte)、"文明的失败" (échec de notre civilisation)、"丑闻/骇人听闻"
+        (scandale) 的段落。（预计在引言或结论中）。
+      - Sub 110-117: 寻找 "人继续作为人" (homme demeure un homme)、"退休/现役"
+        (inactifs)、"真实面目" (se démasque)。
+      - Sub 159-164: 寻找 "40岁" (40 ans)、"镜子" (miroir)、"不相信" (incrédule /
+        surprise)。
+      - Sub 186-192: 寻找 "遇见/认不出" (rencontrer / reconnaît à peine)、"改变" (changé)。
+      - Sub 256-263: 寻找 "引退" (retraite)、"坟墓" (tombeau)、海明威 (Hemingway)。
+      - Sub 291-298: 寻找 "老妇人" (vieille femme)、"童话" (contes)、"仙女" (fée)。
+      - Sub 356-362: 寻找 "无性征" (plus sexuée)、"少女" (fillette)、"禁忌"
+        (tabous)、"跳舞喝酒抽烟" (danses, boire, fumer)。
+      - Sub 367-372: 寻找 "复杂的现实" (complexe vérité)、"他者" (l'autre)。
+4.  输出格式：将字幕与法语原句一一对应，并标注该句在原书中所处的章节位置，方便用户核对。
+
+🎯 执行结果 (对应的法语原文)
+
+根据上述计划，我在您提供的文本中为您找到了对应的法语原文。以下是精准的匹配结果：
+
+字幕 45-46
+
+“人不是生来就是女人，而是长成女人的。” / 人は女に生まれるのではない 女になるんだ
+
+  - 法语原文 : « On ne naît pas femme : on le devient. »
+  - 注：这句举世闻名的金句并不在您提供的《La Vieillesse》（衰老）这本文本中，它出自波伏瓦的另一部名著《Le Deuxième
+    Sexe》（第二性）的第二卷开头。导演或字幕制作者在这里应该是作为背景引用了波伏瓦最著名的话。
+
+字幕 78 / 91-98
+
+衰老是文明中骇人听闻（丑闻）的事实。 / 老いは文明の言語道断（スキャンダル）の事実
+人在其生命的最后十五到二十年里竟沦为一件废品这一事实，清楚地表明了我们的文明所遭受的挫折。这种摧残人的体制正是我们自己的体制，揭露它的人应该将这种荒谬绝伦的事实暴露在光天化日之下。
+
+  - 法语原文 : « Que pendant les quinze ou vingt dernières années de sa vie un homme
+    ne soit plus qu’un laissé-pour-compte, cela manifeste l’échec de notre
+    civilisation : cette évidence nous prendrait à la gorge si nous considérions
+    les vieillards comme des hommes, ayant une vie d’homme derrière eux, et non
+    comme des cadavres ambulants. Ceux qui dénoncent le système mutilant qui est
+    le nôtre devraient mettre en lumière ce scandale. »
+  - 位置 : Introduction (引言结尾部分)
+
+字幕 110-117
+
+在老年期为了让人能继续作为一个'人'存在，社会应该是怎样的呢。也就是说
+他必须在此前的一生中始终被当作一个'人'来对待。通过如何对待那些从现役生活中退场的成员，社会会暴露出它的真实面目。
+
+  - 法语原文 : « que devrait être une société pour que dans sa vieillesse un homme
+    demeure un homme ? La réponse est simple : il faudrait qu’il ait toujours
+    été traité en homme. Par le sort qu’elle assigne à ses membres inactifs,
+    la société se démasque ; »
+  - 位置 : Conclusion (结论部分)
+
+字幕 159-164
+
+衰老会让我们措手不及。早在40岁的时候，我呆立在镜子前：“我已经40岁了”，当我对自己喃喃说出这句话时，我完全无法相信。
+
+  - 法语原文 : « "L’âge s’empare de nous par surprise." [...] Déjà à 40 ans, je suis
+    restée incrédule quand, plantée devant un miroir, je me suis dit : "J’ai 40
+    ans." »
+  - 位置 : DEUXIÈME PARTIE, Chapitre V (第二部 第五章开头部分。注：第一句"L’âge s’empare de nous
+    par surprise"是波伏瓦引用歌德的话。)
+
+字幕 186-192
+
+当我们遇见某人几乎认不出来时，对方也一脸错愕地看着我们。我们心里会想“他变化真大啊”，同时也会想“对方肯定也觉得我变化真大吧！”
+
+  - 法语原文 : « Chacun a fait cette expérience : rencontrer quelqu’un qu’on
+    reconnaît à peine et qui pose sur nous un regard perplexe ; on se dit :
+    qu’il a changé ! que j’ai dû changer ! »
+  - 位置 : DEUXIÈME PARTIE, Chapitre V (第二部 第五章)
+
+字幕 256-263
+
+他说
+“引退”这个词是这个世界上最令人厌恶的词。无论是自己选择还是命运强加于我们，引退，意味着放弃自己的工作，放弃那使我们之所以成为我们的工作，这无异于走向坟墓。
+
+  - 法语原文 : « « La pire mort pour quelqu’un, a écrit Hemingway, est de perdre ce
+    qui forme le centre de sa vie et qui fait de lui ce qu’il est vraiment.
+    Retraite est le mot le plus répugnant de la langue. Qu’on choisisse de le
+    faire ou que le sort nous y oblige, prendre sa retraite et abandonner ses
+    occupations — ces occupations qui nous font ce que nous sommes — équivaut à
+    descendre au tombeau. » »
+  - 位置 : PREMIÈRE PARTIE, Chapitre IV (第一部 第四章。注：这是波伏瓦引用海明威 Hemingway 的话。)
+
+字幕 291-298
+
+在童话中，老妇人仅仅因为是女性就已显得可疑，她们总是代表不祥的存在。如果说她有时会行善，那其实她的外表不过是假象，不久便会褪去这层伪装化身为闪耀着青春与美丽的仙女现出真身。
+
+  - 法语原文 : « Dans ces contes, la vieille femme — que déjà sa féminité rend
+    suspecte — est toujours un être maléfique. Si jamais elle fait le bien,
+    c’est qu’en vérité son corps n’est qu’un déguisement — elle s’en dépouille
+    et apparaît comme une fée éblouissante de jeunesse et de beauté. »
+  - 位置 : PREMIÈRE PARTIE, Chapitre III (第一部 第三章)
+
+字幕 356-362
+
+高龄期以后，女性不再具有性征，与未达青春期的少女归为同类。和少女一样，被免除某些饮食上的禁忌。由于月经的忌讳，此前强加于她的种种禁忌都被解除了，她可以加入舞蹈、喝酒、吸烟、能与男性并肩而坐。
+
+  - 法语原文 : « ...après la ménopause, la femme n’est plus sexuée ; elle devient
+    l’homologue de la fillette impubère et échappe, comme celle-ci, à certains
+    tabous alimentaires. Les interdits qui pesaient sur elle, à cause de la
+    souillure mensuelle, sont levés. Elle peut prendre part aux danses, boire,
+    fumer, s’asseoir à côté des hommes. »
+  - 位置 : PREMIÈRE PARTIE, Chapitre II (第一部 第二章结尾部分)
+
+字幕 367-372
+
+那样说，是忽视了衰老这一复杂的现实。在我之中，衰老的是他者，也就是我之于他者们所是的那种东西，而且这个他者就是我。
+
+  - 法语原文 : « C’est méconnaître la complexe vérité de la vieillesse : [...] En
+    moi, c’est l’autre qui est âgé, c’est-à-dire celui que je suis pour les
+    autres : et cet autre, c’est moi. »
+  - 位置 : DEUXIÈME PARTIE, Chapitre V (第二部 第五章开头部分)
