@@ -46,7 +46,7 @@ for file in *.mp4; do
 
         # 3. 运行 whisper-cli，加入 -ot 参数跳过前面的音频
         echo "[2/4] 正在生成后续字幕..."
-        whisper-cli -m "$MODEL_PATH" -f "$wav_file" -l fr -osrt -et 2.0 -lpt -0.5 -ot "$offset_ms"
+        whisper-cli -m "$MODEL_PATH" -f "$wav_file" -l japanese -osrt -et 2.0 -lpt -0.5 -ot "$offset_ms"
         
         # whisper 生成的临时字幕文件默认名为 filename.wav.srt
         gen_srt="${wav_file}.srt"
