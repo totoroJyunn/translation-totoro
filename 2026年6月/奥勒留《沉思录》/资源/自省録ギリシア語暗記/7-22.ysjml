@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ysj>
+    <head>
+        <version>3</version>
+        <srt-meta>
+            <sub-font>PingFangSC-Regular</sub-font>
+            <sub-font-size>45</sub-font-size>
+            <sub-color>#FFFFFF</sub-color>
+            <sub-bold>no</sub-bold>
+            <sub-italic>no</sub-italic>
+            <sub-border-size>3</sub-border-size>
+            <sub-border-color>#000000</sub-border-color>
+            <sub-shadow-offset>0</sub-shadow-offset>
+            <sub-shadow-color>#000000</sub-shadow-color>
+            <sub-align-x>center</sub-align-x>
+            <sub-align-y>bottom</sub-align-y>
+            <sub-spacing>0</sub-spacing>
+            <sub-margin-x>25</sub-margin-x>
+            <sub-margin-y>22</sub-margin-y>
+        </srt-meta>
+        <meta>
+            <title>人人译视界字幕工程文件，人人译视界-智能协同翻译平台</title>
+            <format>srt</format>
+            <charset>UTF-8</charset>
+            <source-lang>el</source-lang>
+            <target-lang>jp</target-lang>
+            <target-dub>target</target-dub>
+            <video>
+                <path>/Users/ttl/Desktop/2026年6月/自省録/资源/自省録ギリシア語暗記/7-22.mp4</path>
+            </video>
+            <lock lock-time="0" pwd="" lock-content="0" t=""/>
+            <task type="1" token="" id=""/>
+            <replace-space enable="false">
+                <orig middleCheck="false" middleReplaceChars="、，；,;" tailCheck="false" tailReplaceChars="。？！.?!" middleReplaceCount="1"/>
+                <trans middleCheck="false" middleReplaceChars="、，；,;" tailCheck="false" tailReplaceChars="。？！.?!" middleReplaceCount="1"/>
+            </replace-space>
+            <correction updateTime="0">
+                <id/>
+                <path/>
+            </correction>
+            <marks>
+                <mark top="" inUse="1" builtin="1" color="#4affff">默认标记</mark>
+                <mark top="" builtin="1" color="#339966">硬字幕</mark>
+                <mark top="" builtin="1" color="#ccffff">歌词</mark>
+                <mark top="" builtin="1" color="#ffcccc">遮幅</mark>
+                <mark top="" builtin="1" color="#ffff99">敏感词</mark>
+                <mark top="" builtin="1" color="#ccccff">翻译错误</mark>
+                <mark top="翻译错误" builtin="1" color="#ff9966">错译</mark>
+                <mark top="翻译错误" builtin="1" color="#ff6666">表达不当</mark>
+                <mark top="翻译错误" builtin="1" color="#ffcccc">语法错误</mark>
+                <mark top="" builtin="1" color="#ffcc99">低错</mark>
+                <mark top="低错" builtin="1" color="#ccff99">漏译</mark>
+                <mark top="低错" builtin="1" color="#cccccc">格式错误</mark>
+                <mark top="低错" builtin="1" color="#99ccff">标点错误</mark>
+                <mark top="低错" builtin="1" color="#66cc99">断句不合理</mark>
+                <mark top="低错" builtin="1" color="#ff9900">字符长度不合规</mark>
+                <mark top="" builtin="1" color="#ccff00">听写错误</mark>
+                <mark top="听写错误" builtin="1" color="#cc3399">听错</mark>
+                <mark top="听写错误" builtin="1" color="#993366">漏听</mark>
+                <mark top="" builtin="1" color="#666633">时间轴错误</mark>
+                <mark top="时间轴错误" builtin="1" color="#cccc99">时间轴不准</mark>
+                <mark top="时间轴错误" builtin="1" color="#009966">时间轴重叠</mark>
+                <mark top="" builtin="1" color="#0099cc">小语种</mark>
+                <mark top="小语种" builtin="1" color="#006600">英语</mark>
+                <mark top="小语种" builtin="1" color="#336699">法语</mark>
+                <mark top="小语种" builtin="1" color="#ff0033">西语</mark>
+                <mark top="小语种" builtin="1" color="#663399">俄语</mark>
+                <mark top="小语种" builtin="1" color="#333333">韩语</mark>
+                <mark top="小语种" builtin="1" color="#996666">日语</mark>
+            </marks>
+            <characters/>
+            <detect-slices/>
+            <dub-dictionaries/>
+            <dubSerialNo/>
+        </meta>
+    </head>
+    <body stage="SubtitleEdit">
+        <part lastModifyTime="0" updateMethod="0">
+            <t index="1" vertical="0" torder="1" time="" hasRuby="0" id="">
+                <start-time>00:00:00,000</start-time>
+                <end-time>00:00:01,752</end-time>
+                <translation>κβʹ.</translation>
+                <original>22</original>
+                <spell/>
+            </t>
+            <t index="2" vertical="0" torder="1" time="" hasRuby="0" id="">
+                <start-time>00:00:01,752</start-time>
+                <end-time>00:00:04,776</end-time>
+                <translation>Ἴδιον ἀνθρώπου φιλεῖν καὶ τοὺς πταίοντας·</translation>
+                <original>つまずく人びとをも愛するのが人間の特権である。</original>
+                <spell/>
+            </t>
+            <t index="3" vertical="0" torder="1" time="" hasRuby="0" id="">
+                <start-time>00:00:04,776</start-time>
+                <end-time>00:00:07,920</end-time>
+                <translation>τοῦτο δὲ γίνεται, ἐὰν συμπροσπίπτῃ σοι,</translation>
+                <original>これに到達するにはつぎのことを考えればよいだろう</original>
+                <spell/>
+            </t>
+            <t index="4" vertical="0" torder="1" time="" hasRuby="0" id="">
+                <start-time>00:00:07,920</start-time>
+                <end-time>00:00:10,296</end-time>
+                <translation>ὅτι καὶ συγγενεῖς,</translation>
+                <original>彼らは君と同胞であり、</original>
+                <spell/>
+            </t>
+            <t index="5" vertical="0" torder="1" time="" hasRuby="0" id="">
+                <start-time>00:00:10,296</start-time>
+                <end-time>00:00:13,703</end-time>
+                <translation>καὶ δι᾽ ἄγνοιαν καὶ ἄκοντες ἁμαρτάνουσι,</translation>
+                <original>無知のために知らずに罪を犯してしまったのである。</original>
+                <spell/>
+            </t>
+            <t index="6" vertical="0" torder="1" time="" hasRuby="0" id="">
+                <start-time>00:00:13,703</start-time>
+                <end-time>00:00:16,896</end-time>
+                <translation>καὶ ὡς μετ᾽ ὀλίγον ἀμφότεροι τεθνήξεσθε,</translation>
+                <original>間もなく彼らも君も死んでしまう。</original>
+                <spell/>
+            </t>
+            <t index="7" vertical="0" torder="1" time="" hasRuby="0" id="">
+                <start-time>00:00:16,896</start-time>
+                <end-time>00:00:20,376</end-time>
+                <translation>καὶ πρὸ πάντων, ὅτι οὐκ ἔβλαψέ σε·</translation>
+                <original>またなによりもまず彼は君に少しも害を与えはしなかった。</original>
+                <spell/>
+            </t>
+            <t index="8" vertical="0" torder="1" time="" hasRuby="0" id="">
+                <start-time>00:00:20,376</start-time>
+                <end-time>00:00:24,576</end-time>
+                <translation>οὐ γὰρ τὸ ἡγεμονικόν σου χεῖρον ἐποίησεν, ἢ πρότερον ἦν.</translation>
+                <original>なぜならば、彼は君の指導理性を以前よりも悪くしなかったから。</original>
+                <spell/>
+            </t>
+        </part>
+    </body>
+</ysj>
