@@ -1,0 +1,627 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ysj>
+    <head>
+        <version>3</version>
+        <srt-meta>
+            <sub-font>PingFangSC-Regular</sub-font>
+            <sub-font-size>45</sub-font-size>
+            <sub-color>#FFFFFF</sub-color>
+            <sub-bold>no</sub-bold>
+            <sub-italic>no</sub-italic>
+            <sub-border-size>3</sub-border-size>
+            <sub-border-color>#000000</sub-border-color>
+            <sub-shadow-offset>0</sub-shadow-offset>
+            <sub-shadow-color>#000000</sub-shadow-color>
+            <sub-align-x>center</sub-align-x>
+            <sub-align-y>bottom</sub-align-y>
+            <sub-spacing>0</sub-spacing>
+            <sub-margin-x>25</sub-margin-x>
+            <sub-margin-y>22</sub-margin-y>
+        </srt-meta>
+        <meta>
+            <title>人人译视界字幕工程文件，人人译视界-智能协同翻译平台</title>
+            <format>srt</format>
+            <charset>UTF-8</charset>
+            <source-lang>de</source-lang>
+            <target-lang>jp</target-lang>
+            <target-dub>target</target-dub>
+            <video>
+                <path>/Users/ttl/Desktop/totoro's life/translation-totoro/2026年7月/毎日の暗記/7.9/7.10_auto.mp4</path>
+            </video>
+            <lock t="" pwd="" lock-content="0" lock-time="0"/>
+            <task token="" id="" type="1"/>
+            <replace-space enable="false">
+                <orig middleCheck="false" middleReplaceChars="、，；,;" tailCheck="false" tailReplaceChars="。？！.?!" middleReplaceCount="1"/>
+                <trans middleCheck="false" middleReplaceChars="、，；,;" tailCheck="false" tailReplaceChars="。？！.?!" middleReplaceCount="1"/>
+            </replace-space>
+            <correction updateTime="0">
+                <id/>
+                <path/>
+            </correction>
+            <marks>
+                <mark top="" inUse="1" builtin="1" color="#4affff">默认标记</mark>
+                <mark top="" builtin="1" color="#339966">硬字幕</mark>
+                <mark top="" builtin="1" color="#ccffff">歌词</mark>
+                <mark top="" builtin="1" color="#ffcccc">遮幅</mark>
+                <mark top="" builtin="1" color="#ffff99">敏感词</mark>
+                <mark top="" builtin="1" color="#ccccff">翻译错误</mark>
+                <mark top="翻译错误" builtin="1" color="#ff9966">错译</mark>
+                <mark top="翻译错误" builtin="1" color="#ff6666">表达不当</mark>
+                <mark top="翻译错误" builtin="1" color="#ffcccc">语法错误</mark>
+                <mark top="" builtin="1" color="#ffcc99">低错</mark>
+                <mark top="低错" builtin="1" color="#ccff99">漏译</mark>
+                <mark top="低错" builtin="1" color="#cccccc">格式错误</mark>
+                <mark top="低错" builtin="1" color="#99ccff">标点错误</mark>
+                <mark top="低错" builtin="1" color="#66cc99">断句不合理</mark>
+                <mark top="低错" builtin="1" color="#ff9900">字符长度不合规</mark>
+                <mark top="" builtin="1" color="#ccff00">听写错误</mark>
+                <mark top="听写错误" builtin="1" color="#cc3399">听错</mark>
+                <mark top="听写错误" builtin="1" color="#993366">漏听</mark>
+                <mark top="" builtin="1" color="#666633">时间轴错误</mark>
+                <mark top="时间轴错误" builtin="1" color="#cccc99">时间轴不准</mark>
+                <mark top="时间轴错误" builtin="1" color="#009966">时间轴重叠</mark>
+                <mark top="" builtin="1" color="#0099cc">小语种</mark>
+                <mark top="小语种" builtin="1" color="#006600">英语</mark>
+                <mark top="小语种" builtin="1" color="#336699">法语</mark>
+                <mark top="小语种" builtin="1" color="#ff0033">西语</mark>
+                <mark top="小语种" builtin="1" color="#663399">俄语</mark>
+                <mark top="小语种" builtin="1" color="#333333">韩语</mark>
+                <mark top="小语种" builtin="1" color="#996666">日语</mark>
+            </marks>
+            <characters/>
+            <detect-slices/>
+            <dub-dictionaries/>
+            <dubSerialNo/>
+        </meta>
+    </head>
+    <body stage="SubtitleEdit">
+        <part updateMethod="0" lastModifyTime="0">
+            <t id="" vertical="0" index="1" time="" hasRuby="0" torder="1">
+                <start-time>00:00:00,000</start-time>
+                <end-time>00:00:03,120</end-time>
+                <translation>Von den Freuden- und Leidenschaften</translation>
+                <original>关于欢乐与植有痛苦的激情</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="2" time="" hasRuby="0" torder="1">
+                <start-time>00:00:03,120</start-time>
+                <end-time>00:00:06,336</end-time>
+                <translation>Mein Bruder, wenn du eine Tugend hast,</translation>
+                <original>我的兄弟，倘若你有一种美德，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="3" time="" hasRuby="0" torder="1">
+                <start-time>00:00:06,336</start-time>
+                <end-time>00:00:08,712</end-time>
+                <translation>und es deine Tugend ist,</translation>
+                <original>且她是你的美德，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="4" time="" hasRuby="0" torder="1">
+                <start-time>00:00:08,712</start-time>
+                <end-time>00:00:11,904</end-time>
+                <translation>so hast du sie mit Niemandem gemeinsam.</translation>
+                <original>那么你就无法与任何人共有她。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="5" time="" hasRuby="0" torder="1">
+                <start-time>00:00:11,904</start-time>
+                <end-time>00:00:16,079</end-time>
+                <translation>Freilich, du willst sie bei Namen nennen und liebkosen;</translation>
+                <original>当然，你会想给她起个名字，爱抚她；</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="6" time="" hasRuby="0" torder="1">
+                <start-time>00:00:16,079</start-time>
+                <end-time>00:00:18,671</end-time>
+                <translation>du willst sie am Ohre zupfen</translation>
+                <original>你会想扯扯她的耳朵，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="7" time="" hasRuby="0" torder="1">
+                <start-time>00:00:18,671</start-time>
+                <end-time>00:00:21,383</end-time>
+                <translation>und Kurzweil mit ihr treiben.</translation>
+                <original>与她嬉戏。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="8" time="" hasRuby="0" torder="1">
+                <start-time>00:00:21,383</start-time>
+                <end-time>00:00:23,063</end-time>
+                <translation>Und siehe!</translation>
+                <original>但，瞧啊！</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="9" time="" hasRuby="0" torder="1">
+                <start-time>00:00:23,063</start-time>
+                <end-time>00:00:26,615</end-time>
+                <translation>Nun hast du ihren Namen mit dem Volke gemeinsam</translation>
+                <original>现在，现在你与大众共有她的名。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="10" time="" hasRuby="0" torder="1">
+                <start-time>00:00:26,615</start-time>
+                <end-time>00:00:30,359</end-time>
+                <translation>und bist Volk und Heerde geworden mit deiner Tugend!</translation>
+                <original>你凭你的美德变成了大众和畜群。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="11" time="" hasRuby="0" torder="1">
+                <start-time>00:00:30,359</start-time>
+                <end-time>00:00:33,167</end-time>
+                <translation>Besser thätest du, zu sagen:</translation>
+                <original>倘若你这样说会更好：</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="12" time="" hasRuby="0" torder="1">
+                <start-time>00:00:33,167</start-time>
+                <end-time>00:00:36,263</end-time>
+                <translation>„unaussprechbar ist und namenlos,</translation>
+                <original>“那是我不可言说的和无名的，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="13" time="" hasRuby="0" torder="1">
+                <start-time>00:00:36,263</start-time>
+                <end-time>00:00:40,319</end-time>
+                <translation>und Süsse macht und auch noch der Hunger meiner Eingeweide ist.“</translation>
+                <original>会为我带甘甜的，但仍存在于我五脏六腑的饥渴。“</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="14" time="" hasRuby="0" torder="1">
+                <start-time>00:00:40,319</start-time>
+                <end-time>00:00:44,351</end-time>
+                <translation>Deine Tugend sei zu hoch für die Vertraulichkeit der Namen:</translation>
+                <original>你的美德高高在上，难以拥有一个植有亲昵感的名字。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="15" time="" hasRuby="0" torder="1">
+                <start-time>00:00:44,351</start-time>
+                <end-time>00:00:46,871</end-time>
+                <translation>und musst du von ihr reden,</translation>
+                <original>而你又必须谈论她，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="16" time="" hasRuby="0" torder="1">
+                <start-time>00:00:46,871</start-time>
+                <end-time>00:00:49,127</end-time>
+                <translation>so schäme dich nicht,</translation>
+                <original>那么便无需感到任何羞愧，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="17" time="" hasRuby="0" torder="1">
+                <start-time>00:00:49,127</start-time>
+                <end-time>00:00:51,335</end-time>
+                <translation>von ihr zu stammeln.</translation>
+                <original>结结巴巴地说就好。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="18" time="" hasRuby="0" torder="1">
+                <start-time>00:00:51,335</start-time>
+                <end-time>00:00:53,735</end-time>
+                <translation>So sprich und stammle:</translation>
+                <original>就那么说去吧，结巴去吧：</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="19" time="" hasRuby="0" torder="1">
+                <start-time>00:00:53,735</start-time>
+                <end-time>00:00:55,871</end-time>
+                <translation>„Das ist mein Gutes,</translation>
+                <original>“这是我的美好之物，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="20" time="" hasRuby="0" torder="1">
+                <start-time>00:00:55,871</start-time>
+                <end-time>00:00:57,743</end-time>
+                <translation>das liebe ich,</translation>
+                <original>我爱她，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="21" time="" hasRuby="0" torder="1">
+                <start-time>00:00:57,743</start-time>
+                <end-time>00:01:00,191</end-time>
+                <translation>so gefällt es mir ganz,</translation>
+                <original>她令我彻底沉醉，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="22" time="" hasRuby="0" torder="1">
+                <start-time>00:01:00,191</start-time>
+                <end-time>00:01:02,831</end-time>
+                <translation>so allein will ich das Gute.</translation>
+                <original>于是我只要这善。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="23" time="" hasRuby="0" torder="1">
+                <start-time>00:01:02,831</start-time>
+                <end-time>00:01:06,143</end-time>
+                <translation>Nicht will ich es als eines Gottes Gesetz,</translation>
+                <original>我不希望视她作某个神明的律法，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="24" time="" hasRuby="0" torder="1">
+                <start-time>00:01:06,143</start-time>
+                <end-time>00:01:10,271</end-time>
+                <translation>nicht will ich es als eine MenschenSatzung und -Nothdurft:</translation>
+                <original>不希望视她作某类人的规章和需要；</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="25" time="" hasRuby="0" torder="1">
+                <start-time>00:01:10,271</start-time>
+                <end-time>00:01:14,472</end-time>
+                <translation>kein Wegweiser sei es mir für Über-Erden und Paradiese.</translation>
+                <original>不是一个于我而言的，通向“超越大地之处”和天堂的路标。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="26" time="" hasRuby="0" torder="1">
+                <start-time>00:01:14,472</start-time>
+                <end-time>00:01:17,136</end-time>
+                <translation>Eine irdische Tugend ist es,</translation>
+                <original>她是一种接地气的美德，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="27" time="" hasRuby="0" torder="1">
+                <start-time>00:01:17,136</start-time>
+                <end-time>00:01:20,592</end-time>
+                <translation>die ich liebe: wenig Klugheit ist darin</translation>
+                <original>我所爱的：其中少有精明</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="28" time="" hasRuby="0" torder="1">
+                <start-time>00:01:20,592</start-time>
+                <end-time>00:01:23,376</end-time>
+                <translation>und am wenigsten die Vernunft Aller.</translation>
+                <original>更少有万人共通的理性。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="29" time="" hasRuby="0" torder="1">
+                <start-time>00:01:23,376</start-time>
+                <end-time>00:01:26,832</end-time>
+                <translation>Aber dieser Vogel baute bei mir sich das Nest:</translation>
+                <original>可这只鸟在我这里给自己筑了巢；</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="30" time="" hasRuby="0" torder="1">
+                <start-time>00:01:26,832</start-time>
+                <end-time>00:01:29,664</end-time>
+                <translation>darum liebe und herze ich ihn,</translation>
+                <original>因此我爱他拥他入怀。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="31" time="" hasRuby="0" torder="1">
+                <start-time>00:01:29,664</start-time>
+                <end-time>00:01:33,120</end-time>
+                <translation>—nun sitze er bei mir auf seinen goldnen Eiern.“</translation>
+                <original>——现在，他坐在他那金色的蛋上。”</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="32" time="" hasRuby="0" torder="1">
+                <start-time>00:01:33,120</start-time>
+                <end-time>00:01:36,648</end-time>
+                <translation>So sollst du stammeln und deine Tugend loben.</translation>
+                <original>因此你要结结巴巴地说，赞美你的美德。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="33" time="" hasRuby="0" torder="1">
+                <start-time>00:01:36,648</start-time>
+                <end-time>00:01:39,264</end-time>
+                <translation>Einst hattest du Leidenschaften</translation>
+                <original>曾经你有植有痛苦的激情</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="34" time="" hasRuby="0" torder="1">
+                <start-time>00:01:39,264</start-time>
+                <end-time>00:01:41,592</end-time>
+                <translation>und nanntest sie böse.</translation>
+                <original>并声称它是邪恶的。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="35" time="" hasRuby="0" torder="1">
+                <start-time>00:01:41,592</start-time>
+                <end-time>00:01:44,784</end-time>
+                <translation>Aber jetzt hast du nur noch deine Tugenden:</translation>
+                <original>而当下你也就只有你的美德们了。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="36" time="" hasRuby="0" torder="1">
+                <start-time>00:01:44,784</start-time>
+                <end-time>00:01:47,616</end-time>
+                <translation>die wuchsen aus deinen Leidenschaften.</translation>
+                <original>它们生长自你的激情。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="37" time="" hasRuby="0" torder="1">
+                <start-time>00:01:47,616</start-time>
+                <end-time>00:01:51,696</end-time>
+                <translation>Du legtest dein höchstes Ziel diesen Leidenschaften an’s Herz:</translation>
+                <original>你将你的最高的目标深值于这些植有痛苦的激情的心中</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="38" time="" hasRuby="0" torder="1">
+                <start-time>00:01:51,696</start-time>
+                <end-time>00:01:55,392</end-time>
+                <translation>da wurden sie deine Tugenden und Freudenschaften.</translation>
+                <original>于是它们成为了你的美德和植有快乐的激情</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="39" time="" hasRuby="0" torder="1">
+                <start-time>00:01:55,392</start-time>
+                <end-time>00:01:59,016</end-time>
+                <translation>Und ob du aus dem Geschlechte der Jähzornigen wärest</translation>
+                <original>且不论你是拥有易怒者的血统，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="40" time="" hasRuby="0" torder="1">
+                <start-time>00:01:59,016</start-time>
+                <end-time>00:02:01,680</end-time>
+                <translation>oder aus dem der Wollüstigen</translation>
+                <original>或是纵欲者的</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="41" time="" hasRuby="0" torder="1">
+                <start-time>00:02:01,680</start-time>
+                <end-time>00:02:04,296</end-time>
+                <translation>oder der Glaubens-Wüthigen</translation>
+                <original>或是狂信者的</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="42" time="" hasRuby="0" torder="1">
+                <start-time>00:02:04,296</start-time>
+                <end-time>00:02:06,696</end-time>
+                <translation>oder der Rachsüchtigen:</translation>
+                <original>又或是复仇狂的</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="43" time="" hasRuby="0" torder="1">
+                <start-time>00:02:06,696</start-time>
+                <end-time>00:02:10,512</end-time>
+                <translation>Am Ende wurden alle deine Leidenschaften zu Tugenden</translation>
+                <original>最终，你所有植有痛苦的激情成了美德</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="44" time="" hasRuby="0" torder="1">
+                <start-time>00:02:10,512</start-time>
+                <end-time>00:02:13,152</end-time>
+                <translation>und alle deine Teufel zu Engeln.</translation>
+                <original>且你所有的恶魔成了天使。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="45" time="" hasRuby="0" torder="1">
+                <start-time>00:02:13,152</start-time>
+                <end-time>00:02:16,488</end-time>
+                <translation>Einst hattest du wilde Hunde in deinem Keller:</translation>
+                <original>曾经，你有野狗在你的地下室中：</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="46" time="" hasRuby="0" torder="1">
+                <start-time>00:02:16,488</start-time>
+                <end-time>00:02:19,800</end-time>
+                <translation>aber am Ende verwandelten sie sich zu Vögeln，</translation>
+                <original>最终它们自己成了鸟</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="47" time="" hasRuby="0" torder="1">
+                <start-time>00:02:19,800</start-time>
+                <end-time>00:02:22,200</end-time>
+                <translation>成了温婉的歌女。</translation>
+                <original>und lieblichen Sängerinnen.</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="48" time="" hasRuby="0" torder="1">
+                <start-time>00:02:22,200</start-time>
+                <end-time>00:02:25,800</end-time>
+                <translation>Aus deinen Giften brautest du dir deinen Balsam;</translation>
+                <original>从你的毒物中酿造你的香膏；</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="49" time="" hasRuby="0" torder="1">
+                <start-time>00:02:25,800</start-time>
+                <end-time>00:02:28,704</end-time>
+                <translation>deine Kuh Trübsal melktest du,</translation>
+                <original>你为你忧愁的母牛挤奶</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="50" time="" hasRuby="0" torder="1">
+                <start-time>00:02:28,704</start-time>
+                <end-time>00:02:32,136</end-time>
+                <translation>—nun trinkst du die süsse Milch ihres Euters.</translation>
+                <original>——现在，你喝着她乳房甜美的乳汁。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="51" time="" hasRuby="0" torder="1">
+                <start-time>00:02:32,136</start-time>
+                <end-time>00:02:35,640</end-time>
+                <translation>Und nichts Böses wächst mehr fürderhin aus dir,</translation>
+                <original>并且从今往后不再会有任何罪恶从你之中生出，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="52" time="" hasRuby="0" torder="1">
+                <start-time>00:02:35,640</start-time>
+                <end-time>00:02:37,060</end-time>
+                <translation>es sei denn das Böse, </translation>
+                <original>除非是那种邪恶，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="53" time="" hasRuby="0" torder="1">
+                <start-time>00:02:37,060</start-time>
+                <end-time>00:02:40,128</end-time>
+                <translation>das aus dem Kampfe deiner Tugenden wächst.</translation>
+                <original>那种从你的美德的斗争间生出来的。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="54" time="" hasRuby="0" torder="1">
+                <start-time>00:02:40,128</start-time>
+                <end-time>00:02:43,031</end-time>
+                <translation>Mein Bruder, wenn du Glück hast,</translation>
+                <original>我的兄弟，如果你幸运的话，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="55" time="" hasRuby="0" torder="1">
+                <start-time>00:02:43,031</start-time>
+                <end-time>00:02:46,200</end-time>
+                <translation>so hast du Eine Tugend und nicht mehr:</translation>
+                <original>那你只要唯一一个美德，仅此而已。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="56" time="" hasRuby="0" torder="1">
+                <start-time>00:02:46,200</start-time>
+                <end-time>00:02:49,079</end-time>
+                <translation>so gehst du leichter über die Brücke.</translation>
+                <original>那你就能更轻松的过桥。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="57" time="" hasRuby="0" torder="1">
+                <start-time>00:02:49,079</start-time>
+                <end-time>00:02:52,896</end-time>
+                <translation>Auszeichnend ist es, viele Tugenden zu haben,</translation>
+                <original>那是值得称赞的，当你有很多美德时，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="58" time="" hasRuby="0" torder="1">
+                <start-time>00:02:52,896</start-time>
+                <end-time>00:02:55,296</end-time>
+                <translation>aber ein schweres Loos;</translation>
+                <original>但那是沉重的命运；</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="59" time="" hasRuby="0" torder="1">
+                <start-time>00:02:55,296</start-time>
+                <end-time>00:02:58,896</end-time>
+                <translation>und Mancher gieng in die Wüste und tödtete sich,</translation>
+                <original>且有人去到了沙漠，杀死了自己，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="60" time="" hasRuby="0" torder="1">
+                <start-time>00:02:58,896</start-time>
+                <end-time>00:03:01,103</end-time>
+                <translation>weil er müde war，</translation>
+                <original>因为他疲惫了。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="61" time="" hasRuby="0" torder="1">
+                <start-time>00:03:01,103</start-time>
+                <end-time>00:03:04,631</end-time>
+                <translation>Schlacht und Schlachtfeld von Tugenden zu sein.</translation>
+                <original>疲于美德们的战斗，疲于成为美德们的战场。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="62" time="" hasRuby="0" torder="1">
+                <start-time>00:03:04,631</start-time>
+                <end-time>00:03:08,351</end-time>
+                <translation>Mein Bruder, ist Krieg und Schlacht böse?</translation>
+                <original>我的兄弟，战争和战斗是罪恶的么？</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="63" time="" hasRuby="0" torder="1">
+                <start-time>00:03:08,351</start-time>
+                <end-time>00:03:11,135</end-time>
+                <translation>Aber nothwendig ist diess Böse,</translation>
+                <original>但这份罪恶会是必要的，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="64" time="" hasRuby="0" torder="1">
+                <start-time>00:03:11,135</start-time>
+                <end-time>00:03:14,471</end-time>
+                <translation>nothwendig ist der Neid und das Misstrauen</translation>
+                <original>嫉羡和不信是必要的，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="65" time="" hasRuby="0" torder="1">
+                <start-time>00:03:14,471</start-time>
+                <end-time>00:03:17,712</end-time>
+                <translation>und die Verleumdung unter deinen Tugenden.</translation>
+                <original>你美德之间的互相诽谤也是必要的。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="66" time="" hasRuby="0" torder="1">
+                <start-time>00:03:17,712</start-time>
+                <end-time>00:03:22,176</end-time>
+                <translation>Siehe, wie jede deiner Tugenden begehrlich ist nach dem Höchsten:</translation>
+                <original>看啊，你的每一个美德都无比渴求那最高地位。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="67" time="" hasRuby="0" torder="1">
+                <start-time>00:03:22,176</start-time>
+                <end-time>00:03:26,303</end-time>
+                <translation>sie will deinen ganzen Geist, dass er ihr Herold sei,</translation>
+                <original>想要你全部的精神，成为它自身的使者，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="68" time="" hasRuby="0" torder="1">
+                <start-time>00:03:26,303</start-time>
+                <end-time>00:03:30,239</end-time>
+                <translation>sie will deine ganze Kraft in Zorn, Hass und Liebe.</translation>
+                <original>想要你的一切力量，你的愤怒、你的憎恶、你的爱。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="69" time="" hasRuby="0" torder="1">
+                <start-time>00:03:30,239</start-time>
+                <end-time>00:03:33,576</end-time>
+                <translation>Eifersüchtig ist jede Tugend auf die andre,</translation>
+                <original>每一种美德都嫉妒另一种美德对你的占有，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="70" time="" hasRuby="0" torder="1">
+                <start-time>00:03:33,576</start-time>
+                <end-time>00:03:36,840</end-time>
+                <translation>und ein furchtbares Ding ist Eifersucht.</translation>
+                <original>嫉妒是件可怕事物。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="71" time="" hasRuby="0" torder="1">
+                <start-time>00:03:36,840</start-time>
+                <end-time>00:03:40,680</end-time>
+                <translation>Auch Tugenden können an der Eifersucht zu Grunde gehn.</translation>
+                <original>连美德都可能因嫉妒而走向灭亡。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="72" time="" hasRuby="0" torder="1">
+                <start-time>00:03:40,680</start-time>
+                <end-time>00:03:43,800</end-time>
+                <translation>Wen die Flamme der Eifersucht umringt,</translation>
+                <original>被嫉妒之火包围的人</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="73" time="" hasRuby="0" torder="1">
+                <start-time>00:03:43,800</start-time>
+                <end-time>00:03:47,280</end-time>
+                <translation>der wendet zuletzt, gleich dem Scorpione,</translation>
+                <original>最终像蝎子一样转向自己，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="74" time="" hasRuby="0" torder="1">
+                <start-time>00:03:47,280</start-time>
+                <end-time>00:03:50,448</end-time>
+                <translation>gegen sich selber den vergifteten Stachel.</translation>
+                <original>将自己的毒针刺向自己。</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="75" time="" hasRuby="0" torder="1">
+                <start-time>00:03:50,448</start-time>
+                <end-time>00:03:56,400</end-time>
+                <translation>Ach, mein Bruder, sahst du noch nie eine Tugend sich selber verleumden und erstechen?</translation>
+                <original>啊，我的兄弟，难道你没见过一种德性诽谤自己，并刺杀自己么？</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="76" time="" hasRuby="0" torder="1">
+                <start-time>00:03:56,400</start-time>
+                <end-time>00:04:00,168</end-time>
+                <translation>Der Mensch ist Etwas, das überwunden werden muss:</translation>
+                <original>人是某种，必须被超越的事物：</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="77" time="" hasRuby="0" torder="1">
+                <start-time>00:04:00,168</start-time>
+                <end-time>00:04:03,432</end-time>
+                <translation>und darum sollst du deine Tugenden lieben,</translation>
+                <original>因此你要爱你的美德们，</original>
+                <spell/>
+            </t>
+            <t id="" vertical="0" index="78" time="" hasRuby="0" torder="1">
+                <start-time>00:04:03,432</start-time>
+                <end-time>00:04:06,312</end-time>
+                <translation>—denn du wirst an ihnen zu Grunde gehn.—</translation>
+                <original>—因为你将因它们走向灭亡。—</original>
+                <spell/>
+            </t>
+        </part>
+    </body>
+</ysj>
