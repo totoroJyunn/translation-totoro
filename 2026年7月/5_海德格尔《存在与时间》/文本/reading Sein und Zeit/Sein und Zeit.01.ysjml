@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ysj>
+    <head>
+        <version>3</version>
+        <srt-meta>
+            <sub-font>PingFangSC-Regular</sub-font>
+            <sub-font-size>45</sub-font-size>
+            <sub-color>#FFFFFF</sub-color>
+            <sub-bold>no</sub-bold>
+            <sub-italic>no</sub-italic>
+            <sub-border-size>3</sub-border-size>
+            <sub-border-color>#000000</sub-border-color>
+            <sub-shadow-offset>0</sub-shadow-offset>
+            <sub-shadow-color>#000000</sub-shadow-color>
+            <sub-align-x>center</sub-align-x>
+            <sub-align-y>bottom</sub-align-y>
+            <sub-spacing>0</sub-spacing>
+            <sub-margin-x>25</sub-margin-x>
+            <sub-margin-y>22</sub-margin-y>
+        </srt-meta>
+        <meta>
+            <title>人人译视界字幕工程文件，人人译视界-智能协同翻译平台</title>
+            <format>srt</format>
+            <charset>UTF-8</charset>
+            <source-lang>de</source-lang>
+            <target-lang/>
+            <target-dub>target</target-dub>
+            <video>
+                <path>/Users/ttl/Desktop/totoro's life/translation-totoro/2026年7月/海德格尔《存在与时间》/文本/reading Sein und Zeit/Sein und Zeit.01.mp4</path>
+            </video>
+            <lock lock-time="0" pwd="" t="" lock-content="0"/>
+            <task type="1" id="" token=""/>
+            <replace-space enable="false">
+                <orig middleReplaceChars="、，；,;" tailReplaceChars="。？！.?!" middleReplaceCount="1" tailCheck="false" middleCheck="false"/>
+                <trans middleReplaceChars="、，；,;" tailReplaceChars="。？！.?!" middleReplaceCount="1" tailCheck="false" middleCheck="false"/>
+            </replace-space>
+            <correction updateTime="0">
+                <id/>
+                <path/>
+            </correction>
+            <marks>
+                <mark builtin="1" color="#4affff" inUse="1" top="">默认标记</mark>
+                <mark builtin="1" color="#339966" top="">硬字幕</mark>
+                <mark builtin="1" color="#ccffff" top="">歌词</mark>
+                <mark builtin="1" color="#ffcccc" top="">遮幅</mark>
+                <mark builtin="1" color="#ffff99" top="">敏感词</mark>
+                <mark builtin="1" color="#ccccff" top="">翻译错误</mark>
+                <mark builtin="1" color="#ff9966" top="翻译错误">错译</mark>
+                <mark builtin="1" color="#ff6666" top="翻译错误">表达不当</mark>
+                <mark builtin="1" color="#ffcccc" top="翻译错误">语法错误</mark>
+                <mark builtin="1" color="#ffcc99" top="">低错</mark>
+                <mark builtin="1" color="#ccff99" top="低错">漏译</mark>
+                <mark builtin="1" color="#cccccc" top="低错">格式错误</mark>
+                <mark builtin="1" color="#99ccff" top="低错">标点错误</mark>
+                <mark builtin="1" color="#66cc99" top="低错">断句不合理</mark>
+                <mark builtin="1" color="#ff9900" top="低错">字符长度不合规</mark>
+                <mark builtin="1" color="#ccff00" top="">听写错误</mark>
+                <mark builtin="1" color="#cc3399" top="听写错误">听错</mark>
+                <mark builtin="1" color="#993366" top="听写错误">漏听</mark>
+                <mark builtin="1" color="#666633" top="">时间轴错误</mark>
+                <mark builtin="1" color="#cccc99" top="时间轴错误">时间轴不准</mark>
+                <mark builtin="1" color="#009966" top="时间轴错误">时间轴重叠</mark>
+                <mark builtin="1" color="#0099cc" top="">小语种</mark>
+                <mark builtin="1" color="#006600" top="小语种">英语</mark>
+                <mark builtin="1" color="#336699" top="小语种">法语</mark>
+                <mark builtin="1" color="#ff0033" top="小语种">西语</mark>
+                <mark builtin="1" color="#663399" top="小语种">俄语</mark>
+                <mark builtin="1" color="#333333" top="小语种">韩语</mark>
+                <mark builtin="1" color="#996666" top="小语种">日语</mark>
+            </marks>
+            <characters/>
+            <detect-slices/>
+            <dub-dictionaries/>
+            <dubSerialNo/>
+        </meta>
+    </head>
+    <body stage="SubtitleEdit">
+        <part lastModifyTime="0" updateMethod="0">
+            <t torder="1" time="" id="" index="1" hasRuby="0" vertical="0">
+                <start-time>00:00:00,000</start-time>
+                <end-time>00:00:03,624</end-time>
+                <translation/>
+                <original>»Denn offenbar seid ihr doch schon lange mit dem vertraut,</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="2" hasRuby="0" vertical="0">
+                <start-time>00:00:03,624</start-time>
+                <end-time>00:00:06,096</end-time>
+                <translation/>
+                <original>was ihr eigentlich meint,</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="3" hasRuby="0" vertical="0">
+                <start-time>00:00:06,096</start-time>
+                <end-time>00:00:09,120</end-time>
+                <translation/>
+                <original>wenn ihr den Ausdruck seiend gebraucht,</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="4" hasRuby="0" vertical="0">
+                <start-time>00:00:09,120</start-time>
+                <end-time>00:00:12,624</end-time>
+                <translation/>
+                <original>wir jedoch glaubten es einst zwar zu verstehen,</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="5" hasRuby="0" vertical="0">
+                <start-time>00:00:12,624</start-time>
+                <end-time>00:00:15,960</end-time>
+                <translation/>
+                <original>jetzt aber sind wir in Verlegenheit gekommen«.</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="6" hasRuby="0" vertical="0">
+                <start-time>00:00:15,960</start-time>
+                <end-time>00:00:19,632</end-time>
+                <translation/>
+                <original>Haben wir heute eine Antwort auf die Frage nach dem,</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="7" hasRuby="0" vertical="0">
+                <start-time>00:00:19,632</start-time>
+                <end-time>00:00:23,448</end-time>
+                <translation/>
+                <original>was wir mit dem Wort »seiend« eigentlich meinen?</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="8" hasRuby="0" vertical="0">
+                <start-time>00:00:23,448</start-time>
+                <end-time>00:00:25,248</end-time>
+                <translation/>
+                <original>Keineswegs.</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="9" hasRuby="0" vertical="0">
+                <start-time>00:00:25,248</start-time>
+                <end-time>00:00:27,456</end-time>
+                <translation/>
+                <original>Und so gilt es denn,</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="10" hasRuby="0" vertical="0">
+                <start-time>00:00:27,456</start-time>
+                <end-time>00:00:29,592</end-time>
+                <translation/>
+                <original>die Frage nach dem Sinn</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="11" hasRuby="0" vertical="0">
+                <start-time>00:00:29,592</start-time>
+                <end-time>00:00:32,088</end-time>
+                <translation/>
+                <original>von Sein erneut zu stellen.</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="12" hasRuby="0" vertical="0">
+                <start-time>00:00:32,088</start-time>
+                <end-time>00:00:35,496</end-time>
+                <translation/>
+                <original>Sind wir denn heute auch nur in der Verlegenheit,</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="13" hasRuby="0" vertical="0">
+                <start-time>00:00:35,496</start-time>
+                <end-time>00:00:38,760</end-time>
+                <translation/>
+                <original>den Ausdruck »Sein« nicht zu verstehen?</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="14" hasRuby="0" vertical="0">
+                <start-time>00:00:38,760</start-time>
+                <end-time>00:00:40,560</end-time>
+                <translation/>
+                <original>Keineswegs.</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="15" hasRuby="0" vertical="0">
+                <start-time>00:00:40,560</start-time>
+                <end-time>00:00:43,056</end-time>
+                <translation/>
+                <original>Und so gilt es denn vordem,</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="16" hasRuby="0" vertical="0">
+                <start-time>00:00:43,056</start-time>
+                <end-time>00:00:45,792</end-time>
+                <translation/>
+                <original>allererst wieder ein Verständnis</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="17" hasRuby="0" vertical="0">
+                <start-time>00:00:45,792</start-time>
+                <end-time>00:00:48,720</end-time>
+                <translation/>
+                <original>für den Sinn dieser Frage zu wecken.</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="18" hasRuby="0" vertical="0">
+                <start-time>00:00:48,720</start-time>
+                <end-time>00:00:51,312</end-time>
+                <translation/>
+                <original>Die konkrete Ausarbeitung</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="19" hasRuby="0" vertical="0">
+                <start-time>00:00:51,312</start-time>
+                <end-time>00:00:53,519</end-time>
+                <translation/>
+                <original>der Frage nach dem Sinn</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="20" hasRuby="0" vertical="0">
+                <start-time>00:00:53,519</start-time>
+                <end-time>00:00:57,407</end-time>
+                <translation/>
+                <original>von »Sein« ist die Absicht der folgenden Abhandlung.</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="21" hasRuby="0" vertical="0">
+                <start-time>00:00:57,407</start-time>
+                <end-time>00:01:00,191</end-time>
+                <translation/>
+                <original>Die Interpretation der Zeit</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="22" hasRuby="0" vertical="0">
+                <start-time>00:01:00,191</start-time>
+                <end-time>00:01:06,744</end-time>
+                <translation/>
+                <original>als des möglichen Horizontes eines jeden Seinsverständnisses überhaupt ist ihr vorläufiges Ziel.</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="23" hasRuby="0" vertical="0">
+                <start-time>00:01:06,744</start-time>
+                <end-time>00:01:09,672</end-time>
+                <translation/>
+                <original>Das Absehen auf ein solches Ziel,</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="24" hasRuby="0" vertical="0">
+                <start-time>00:01:09,672</start-time>
+                <end-time>00:01:12,864</end-time>
+                <translation/>
+                <original>die in solchem Vorhaben beschlossenen</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="25" hasRuby="0" vertical="0">
+                <start-time>00:01:12,864</start-time>
+                <end-time>00:01:15,912</end-time>
+                <translation/>
+                <original>und von ihm geforderten Untersuchungen</original>
+                <spell/>
+            </t>
+            <t torder="1" time="" id="" index="26" hasRuby="0" vertical="0">
+                <start-time>00:01:15,912</start-time>
+                <end-time>00:01:20,280</end-time>
+                <translation/>
+                <original>und der Weg zu diesem Ziel bedürfen einer einleitenden Erläuterung.</original>
+                <spell/>
+            </t>
+        </part>
+    </body>
+</ysj>
