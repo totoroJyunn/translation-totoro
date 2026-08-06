@@ -1,0 +1,2821 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ysj>
+    <head>
+        <version>3</version>
+        <srt-meta>
+            <sub-font>PingFangSC-Regular</sub-font>
+            <sub-font-size>45</sub-font-size>
+            <sub-color>#FFFFFF</sub-color>
+            <sub-bold>no</sub-bold>
+            <sub-italic>no</sub-italic>
+            <sub-border-size>3</sub-border-size>
+            <sub-border-color>#000000</sub-border-color>
+            <sub-shadow-offset>0</sub-shadow-offset>
+            <sub-shadow-color>#000000</sub-shadow-color>
+            <sub-align-x>center</sub-align-x>
+            <sub-align-y>bottom</sub-align-y>
+            <sub-spacing>0</sub-spacing>
+            <sub-margin-x>25</sub-margin-x>
+            <sub-margin-y>22</sub-margin-y>
+        </srt-meta>
+        <meta>
+            <title>人人译视界字幕工程文件，人人译视界-智能协同翻译平台</title>
+            <format>srt</format>
+            <charset>UTF-8</charset>
+            <source-lang>jp</source-lang>
+            <target-lang>cn</target-lang>
+            <target-dub>target</target-dub>
+            <video>
+                <path>/Users/ttl/Desktop/totoro's life/translation-totoro/2026年8月/罗歇·凯卢瓦《战争论》/第1回/NHKオンデマンド _ １００分ｄｅ名著 ロジェ・カイヨワ“戦争論”　第１回「近代的戦争の誕生」.mp4</path>
+            </video>
+            <lock lock-time="0" lock-content="0" t="" pwd=""/>
+            <task token="" id="" type="1"/>
+            <replace-space enable="false">
+                <orig middleCheck="false" tailReplaceChars="。？！.?!" tailCheck="false" middleReplaceChars="、，；,;" middleReplaceCount="1"/>
+                <trans middleCheck="false" tailReplaceChars="。？！.?!" tailCheck="false" middleReplaceChars="、，；,;" middleReplaceCount="1"/>
+            </replace-space>
+            <correction updateTime="0">
+                <id/>
+                <path/>
+            </correction>
+            <marks>
+                <mark builtin="1" top="" inUse="1" color="#4affff">默认标记</mark>
+                <mark builtin="1" top="" color="#339966">硬字幕</mark>
+                <mark builtin="1" top="" color="#ccffff">歌词</mark>
+                <mark builtin="1" top="" color="#ffcccc">遮幅</mark>
+                <mark builtin="1" top="" color="#ffff99">敏感词</mark>
+                <mark builtin="1" top="" color="#ccccff">翻译错误</mark>
+                <mark builtin="1" top="翻译错误" color="#ff9966">错译</mark>
+                <mark builtin="1" top="翻译错误" color="#ff6666">表达不当</mark>
+                <mark builtin="1" top="翻译错误" color="#ffcccc">语法错误</mark>
+                <mark builtin="1" top="" color="#ffcc99">低错</mark>
+                <mark builtin="1" top="低错" color="#ccff99">漏译</mark>
+                <mark builtin="1" top="低错" color="#cccccc">格式错误</mark>
+                <mark builtin="1" top="低错" color="#99ccff">标点错误</mark>
+                <mark builtin="1" top="低错" color="#66cc99">断句不合理</mark>
+                <mark builtin="1" top="低错" color="#ff9900">字符长度不合规</mark>
+                <mark builtin="1" top="" color="#ccff00">听写错误</mark>
+                <mark builtin="1" top="听写错误" color="#cc3399">听错</mark>
+                <mark builtin="1" top="听写错误" color="#993366">漏听</mark>
+                <mark builtin="1" top="" color="#666633">时间轴错误</mark>
+                <mark builtin="1" top="时间轴错误" color="#cccc99">时间轴不准</mark>
+                <mark builtin="1" top="时间轴错误" color="#009966">时间轴重叠</mark>
+                <mark builtin="1" top="" color="#0099cc">小语种</mark>
+                <mark builtin="1" top="小语种" color="#006600">英语</mark>
+                <mark builtin="1" top="小语种" color="#336699">法语</mark>
+                <mark builtin="1" top="小语种" color="#ff0033">西语</mark>
+                <mark builtin="1" top="小语种" color="#663399">俄语</mark>
+                <mark builtin="1" top="小语种" color="#333333">韩语</mark>
+                <mark builtin="1" top="小语种" color="#996666">日语</mark>
+            </marks>
+            <characters/>
+            <detect-slices/>
+            <dub-dictionaries/>
+            <dubSerialNo/>
+        </meta>
+    </head>
+    <body stage="SubtitleEdit">
+        <part updateMethod="0" lastModifyTime="0">
+            <t index="1" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:00:01,700</start-time>
+                <end-time>00:00:05,350</end-time>
+                <translation>对人类而言 战争是什么？</translation>
+                <original>人間にとって戦争とは何か</original>
+                <spell/>
+            </t>
+            <t index="2" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:00:08,175</start-time>
+                <end-time>00:00:11,694</end-time>
+                <translation>试图回答人类这一根源性疑问的</translation>
+                <original>人類の根源的な疑問に答えを出そうとした</original>
+                <spell/>
+            </t>
+            <t index="3" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:00:11,694</start-time>
+                <end-time>00:00:14,500</end-time>
+                <translation>人类学家 罗歇·凯卢瓦</translation>
+                <original>人類学者ロジェ・カイヨワ</original>
+                <spell/>
+            </t>
+            <t index="4" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:00:16,875</start-time>
+                <end-time>00:00:19,269</end-time>
+                <translation>第二次世界大战结束后不久
+第二次世界大戦直後</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="5" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:00:19,269</start-time>
+                <end-time>00:00:24,074</end-time>
+                <translation>凯卢瓦直面战争的本质</translation>
+                <original>カイヨワは戦争の本質と真正面から向き合い</original>
+                <spell/>
+            </t>
+            <t index="6" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:00:24,074</start-time>
+                <end-time>00:00:26,020</end-time>
+                <translation>撰写了《战争论》
+戦争論を執筆しました</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="7" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:00:28,560</start-time>
+                <end-time>00:00:32,600</end-time>
+                <translation>为什么人类无法避免战争</translation>
+                <original>なぜ人類は戦争を避けることができないのか</original>
+                <spell/>
+            </t>
+            <t index="8" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:00:35,525</start-time>
+                <end-time>00:00:40,580</end-time>
+                <translation>（To：也刚好是8月但2019年）
+100分de名著 在八月将为你解读《战争论》</translation>
+                <original>100分で名著この8月戦争論を読み解いていきます</original>
+                <spell/>
+            </t>
+            <t index="9" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:00,875</start-time>
+                <end-time>00:01:06,700</end-time>
+                <translation>第1回 近代战争的诞生
+第1回　近代的戦争の誕生</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="10" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:07,320</start-time>
+                <end-time>00:01:09,800</end-time>
+                <translation>100分de名著 主持人安部美知子
+100分de名著司会の安部みちこです</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="11" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:09,800</start-time>
+                <end-time>00:01:11,100</end-time>
+                <translation>伊集院光
+伊集院光です</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="12" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:11,100</start-time>
+                <end-time>00:01:13,920</end-time>
+                <translation>本次要介绍的名著是这本</translation>
+                <original>今回ご紹介する名著はこちらです</original>
+                <spell/>
+            </t>
+            <t index="13" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:13,920</start-time>
+                <end-time>00:01:16,300</end-time>
+                <translation>罗歇·凯卢瓦的《战争论》</translation>
+                <original>ロジェ・カイヨワの戦争論</original>
+                <spell/>
+            </t>
+            <t index="14" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:16,300</start-time>
+                <end-time>00:01:18,500</end-time>
+                <translation>伊集院 你知道这本书吗？</translation>
+                <original>伊集院さんご存知でしたか?</original>
+                <spell/>
+            </t>
+            <t index="15" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:18,500</start-time>
+                <end-time>00:01:22,098</end-time>
+                <translation>说来惭愧 这本书的名字 还有…</translation>
+                <original>恥ずかしながらこの本の名前もそしてあの</original>
+                <spell/>
+            </t>
+            <t index="16" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:22,098</start-time>
+                <end-time>00:01:24,800</end-time>
+                <translation>作者的名字我可能也是第一次听说</translation>
+                <original>著者の名前も僕もしかしたら初めて聞くかもしれない</original>
+                <spell/>
+            </t>
+            <t index="17" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:24,800</start-time>
+                <end-time>00:01:27,203</end-time>
+                <translation>我也是第一次听说 第一次读</translation>
+                <original>私も初めてで初めて読みましたが</original>
+                <spell/>
+            </t>
+            <t index="18" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:27,203</start-time>
+                <end-time>00:01:32,375</end-time>
+                <translation>这是一本直面“人类该如何面对战争”这一重大问题的书</translation>
+                <original>人間は戦争とどう向き合うべきかという大きな問題に向き合った本なんですよね</original>
+                <spell/>
+            </t>
+            <t index="19" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:32,375</start-time>
+                <end-time>00:01:36,050</end-time>
+                <translation>本次我们将分4回来解读这本书</translation>
+                <original>今回はこの本を4回にわたって読み解いていきます</original>
+                <spell/>
+            </t>
+            <t index="20" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:36,050</start-time>
+                <end-time>00:01:38,000</end-time>
+                <translation>来介绍一下导读老师
+指南役のをご紹介します</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="21" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:38,000</start-time>
+                <end-time>00:01:41,600</end-time>
+                <translation>哲学家西谷修老师
+哲学者の西谷修さんです</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="22" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:41,600</start-time>
+                <end-time>00:01:43,800</end-time>
+                <translation>请多关照</translation>
+                <original>よろしくお願いいたします</original>
+                <spell/>
+            </t>
+            <t index="23" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:46,675</start-time>
+                <end-time>00:01:49,600</end-time>
+                <translation>哲学家西谷修
+哲学者の西谷修さん</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="24" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:51,225</start-time>
+                <end-time>00:01:58,150</end-time>
+                <translation>长年从哲学视角研究战争</translation>
+                <original>哲学的な視点から長年戦争について研究を続けてきました</original>
+                <spell/>
+            </t>
+            <t index="25" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:01:58,150</start-time>
+                <end-time>00:02:01,660</end-time>
+                <translation>他将凯卢瓦的《战争论》与现代社会联系起来</translation>
+                <original>カイヨワの戦争論を現代社会とつなげて</original>
+                <spell/>
+            </t>
+            <t index="26" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:01,660</start-time>
+                <end-time>00:02:03,720</end-time>
+                <translation>为我们通俗易懂地解读</translation>
+                <original>分かりやすく紐解きます</original>
+                <spell/>
+            </t>
+            <t index="27" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:04,975</start-time>
+                <end-time>00:02:08,750</end-time>
+                <translation>那么 首先从《战争论》的基本信息开始了解吧</translation>
+                <original>ではまず戦争論の基本情報から見ていきましょう</original>
+                <spell/>
+            </t>
+            <t index="28" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:08,750</start-time>
+                <end-time>00:02:13,750</end-time>
+                <translation>Bellone ou la Pente de la guerre
+书名是《战争论：潜伏在我们内心的女神贝罗娜》</translation>
+                <original>タイトルは戦争論我々の内に潜む女神ベローナ</original>
+                <spell/>
+            </t>
+            <t index="29" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:13,750</start-time>
+                <end-time>00:02:17,600</end-time>
+                <translation>作者是法国人类学家 罗歇·凯卢瓦（Roger Caillois）</translation>
+                <original>著者はフランスの人類学者でロジェ・カイヨワです</original>
+                <spell/>
+            </t>
+            <t index="30" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:17,600</start-time>
+                <end-time>00:02:21,975</end-time>
+                <translation>他在第二次世界大战结束后不久开始执笔
+第二次世界大戦直後から執筆しました</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="31" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:21,975</start-time>
+                <end-time>00:02:25,750</end-time>
+                <translation>针对“对人类而言战争是什么？”这一疑问</translation>
+                <original>人間にとって戦争とは何かという疑問に対して</original>
+                <spell/>
+            </t>
+            <t index="32" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:25,750</start-time>
+                <end-time>00:02:29,075</end-time>
+                <translation>他试图从人类学的视角来寻找答案</translation>
+                <original>人類学的な視点から答えを導き出そうとしたものです</original>
+                <spell/>
+            </t>
+            <t index="33" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:29,850</start-time>
+                <end-time>00:02:33,060</end-time>
+                <translation>这本书因获联合国教科文组织国际和平文学奖 
+でこの本はユネスコ国際平和文学賞を受賞し</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="34" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:33,060</start-time>
+                <end-time>00:02:35,325</end-time>
+                <translation>成了世界名著</translation>
+                <original>世界的名著となりました</original>
+                <spell/>
+            </t>
+            <t index="35" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:35,325</start-time>
+                <end-time>00:02:36,900</end-time>
+                <translation>首先呢 </translation>
+                <original>まずですね</original>
+                <spell/>
+            </t>
+            <t index="36" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:36,900</start-time>
+                <end-time>00:02:39,880</end-time>
+                <translation>这个副标题 潜藏于我们内心的</translation>
+                <original>この副題の我々の内に潜む</original>
+                <spell/>
+            </t>
+            <t index="37" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:39,880</start-time>
+                <end-time>00:02:42,200</end-time>
+                <translation>这个女神贝罗娜是？</translation>
+                <original>女神ベローナなんですが</original>
+                <spell/>
+            </t>
+            <t index="38" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:42,200</start-time>
+                <end-time>00:02:46,825</end-time>
+                <translation>贝罗娜是罗马神话中的战争女神</translation>
+                <original>ベローナというのはローマ神話の戦の女神なんですね</original>
+                <spell/>
+            </t>
+            <t index="39" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:46,825</start-time>
+                <end-time>00:02:50,800</end-time>
+                <translation>说到战争之神 大家可能会想到军神马尔斯</translation>
+                <original>あのう戦争といいますと軍神マルスというので </original>
+                <spell/>
+            </t>
+            <t index="40" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:50,800</start-time>
+                <end-time>00:02:52,750</end-time>
+                <translation>他可能更为人熟知</translation>
+                <original>よく知られていると思うんですけど</original>
+                <spell/>
+            </t>
+            <t index="41" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:52,750</start-time>
+                <end-time>00:02:55,720</end-time>
+                <translation>如果说马尔斯代表了战争的</translation>
+                <original>マルスの方が戦争のいわゆる</original>
+                <spell/>
+            </t>
+            <t index="42" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:55,720</start-time>
+                <end-time>00:02:59,075</end-time>
+                <translation>那种宏大、荣耀的话</translation>
+                <original>雄々しさとか栄光とかね</original>
+                <spell/>
+            </t>
+            <t index="43" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:02:59,075</start-time>
+                <end-time>00:03:01,850</end-time>
+                <translation>代表那些方面的话</translation>
+                <original>そういう面を代表するとしたら</original>
+                <spell/>
+            </t>
+            <t index="44" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:01,850</start-time>
+                <end-time>00:03:05,550</end-time>
+                <translation>那么“贝罗娜”则体现了那些不太被关注的</translation>
+                <original>ベローナの方はあまり目を向けられない</original>
+                <spell/>
+            </t>
+            <t index="45" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:05,550</start-time>
+                <end-time>00:03:08,375</end-time>
+                <translation>真实的相互厮杀、</translation>
+                <original>リアルな殺し合いだとか</original>
+                <spell/>
+            </t>
+            <t index="46" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:08,375</start-time>
+                <end-time>00:03:12,075</end-time>
+                <translation>血肉之躯的伤痛等</translation>
+                <original>生身のね肉が傷つくとか</original>
+                <spell/>
+            </t>
+            <t index="47" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:12,075</start-time>
+                <end-time>00:03:15,280</end-time>
+                <translation>体现这些方面的 </translation>
+                <original>そういう面を体現するのが</original>
+                <spell/>
+            </t>
+            <t index="48" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:15,280</start-time>
+                <end-time>00:03:18,260</end-time>
+                <translation>-就是女神贝罗娜呢 -战争阴暗的一面呢</translation>
+                <original>-この女神ベローナなんですね -影の方ですね</original>
+                <spell/>
+            </t>
+            <t index="49" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:18,260</start-time>
+                <end-time>00:03:22,700</end-time>
+                <translation>是的 其实这本书法语原题就是“贝罗娜”（Bellone）</translation>
+                <original>そうなんです実は本の元のタイトルはベローナっていうんですけれども</original>
+                <spell/>
+            </t>
+            <t index="50" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:22,700</start-time>
+                <end-time>00:03:23,850</end-time>
+                <translation>就直接是</translation>
+                <original>そのまんま</original>
+                <spell/>
+            </t>
+            <t index="51" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:23,850</start-time>
+                <end-time>00:03:26,489</end-time>
+                <translation>这其中 大概就体现了凯卢瓦</translation>
+                <original>そこにまあおそらくカイヨワのね</original>
+                <spell/>
+            </t>
+            <t index="52" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:26,489</start-time>
+                <end-time>00:03:29,025</end-time>
+                <translation>思考战争这件事时</translation>
+                <original>この戦争を考えるっていうことに</original>
+                <spell/>
+            </t>
+            <t index="53" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:29,025</start-time>
+                <end-time>00:03:33,375</end-time>
+                <translation>所持有的一种基本态度吧</translation>
+                <original>ついての基本的な姿勢っていうのが表されてるんじゃないかと</original>
+                <spell/>
+            </t>
+            <t index="54" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:33,375</start-time>
+                <end-time>00:03:35,225</end-time>
+                <translation>能从这个书名中看出来</translation>
+                <original>そういうタイトルです</original>
+                <spell/>
+            </t>
+            <t index="55" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:35,225</start-time>
+                <end-time>00:03:38,568</end-time>
+                <translation>另外 对于“战争是什么”这个疑问 </translation>
+                <original>あと戦争とは何かという疑問に対し</original>
+                <spell/>
+            </t>
+            <t index="56" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:38,568</start-time>
+                <end-time>00:03:40,970</end-time>
+                <translation>他是从人类学的视角来尝试探究这一点的</translation>
+                <original>人類学的な視点から答えを導き出そうとした</original>
+                <spell/>
+            </t>
+            <t index="57" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:40,970</start-time>
+                <end-time>00:03:43,973</end-time>
+                <translation>这跟历史学家谈论的战争 </translation>
+                <original>なんか歴史の学者が戦争の話をするとか</original>
+                <spell/>
+            </t>
+            <t index="58" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:43,973</start-time>
+                <end-time>00:03:46,440</end-time>
+                <translation>或者社会学家谈论的战争</translation>
+                <original>社会学者が戦争の話をするのとはちょっと</original>
+                <spell/>
+            </t>
+            <t index="59" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:46,440</start-time>
+                <end-time>00:03:48,550</end-time>
+                <translation>切入路径也会有所不同呢</translation>
+                <original>もあアプローチ違いますね</original>
+                <spell/>
+            </t>
+            <t index="60" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:48,550</start-time>
+                <end-time>00:03:50,947</end-time>
+                <translation>人类的生活呀
+人間の生活とかね</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="61" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:50,947</start-time>
+                <end-time>00:03:53,060</end-time>
+                <translation>或者说生存·社会的整体形态</translation>
+                <original>あるいは生存社会のあり方</original>
+                <spell/>
+            </t>
+            <t index="62" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:53,060</start-time>
+                <end-time>00:03:56,600</end-time>
+                <translation>全部都被投入到了战争之中</translation>
+                <original>全部が戦争の中に投入されたわけです</original>
+                <spell/>
+            </t>
+            <t index="63" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:03:56,600</start-time>
+                <end-time>00:04:00,625</end-time>
+                <translation>人类在文明的尽头 最终走向了这样的战争</translation>
+                <original>人類が文明の果てにこういう戦争に行き着いたと</original>
+                <spell/>
+            </t>
+            <t index="64" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:04:00,625</start-time>
+                <end-time>00:04:04,294</end-time>
+                <translation>这是不是可以说在人类之中</translation>
+                <original>そうすると人間の中に</original>
+                <spell/>
+            </t>
+            <t index="65" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:04:04,294</start-time>
+                <end-time>00:04:09,575</end-time>
+                <translation>具有一种一种奔向战争的倾向呢？</translation>
+                <original>その戦争へと向かう傾きがあるんではないかと</original>
+                <spell/>
+            </t>
+            <t index="66" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:09,575</start-time>
+                <end-time>00:04:11,934</end-time>
+                <translation>是说人类之中 本就有啊</translation>
+                <original>人間の中にもうあるんですね</original>
+                <spell/>
+            </t>
+            <t index="67" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:11,934</start-time>
+                <end-time>00:04:15,350</end-time>
+                <translation>那种趋向战争的性质</translation>
+                <original>その戦争に向かっていく性質というか</original>
+                <spell/>
+            </t>
+            <t index="68" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:15,350</start-time>
+                <end-time>00:04:18,150</end-time>
+                <translation>-难道不存在吗？ -反问！</translation>
+                <original>-あるんではないか　-ないか</original>
+                <spell/>
+            </t>
+            <t index="69" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:18,150</start-time>
+                <end-time>00:04:21,825</end-time>
+                <translation>可以说 正是因为有这种担忧 才要设想这一点</translation>
+                <original>むしろだからそちらの方を想定して</original>
+                <spell/>
+            </t>
+            <t index="70" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:21,825</start-time>
+                <end-time>00:04:24,900</end-time>
+                <translation>回顾过去的一切就会发现…</translation>
+                <original>起こったことを振り返ってみると</original>
+                <spell/>
+            </t>
+            <t index="71" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:24,900</start-time>
+                <end-time>00:04:27,450</end-time>
+                <translation>总觉得有些可怕 莫名的</translation>
+                <original>ちょっと怖いななんか</original>
+                <spell/>
+            </t>
+            <t index="72" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:27,450</start-time>
+                <end-time>00:04:32,740</end-time>
+                <translation>那么首先 让我们来看看凯卢瓦撰写《战争论》的背景吧</translation>
+                <original>ではまずはカイヨワが戦争論を執筆したその背景を見てみましょう</original>
+                <spell/>
+            </t>
+            <t index="73" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:34,240</start-time>
+                <end-time>00:04:36,359</end-time>
+                <translation>罗歇·凯卢瓦</translation>
+                <original>ロジェ・カイヨワ</original>
+                <spell/>
+            </t>
+            <t index="74" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:36,359</start-time>
+                <end-time>00:04:39,825</end-time>
+                <translation>他出生于1913年</translation>
+                <original>彼が生まれたのは1913年</original>
+                <spell/>
+            </t>
+            <t index="75" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:39,825</start-time>
+                <end-time>00:04:43,625</end-time>
+                <translation>第一次世界大战爆发的前一年
+第一次世界大戦が始まる前の年でした</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="76" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:45,500</start-time>
+                <end-time>00:04:50,750</end-time>
+                <translation>第一次世界大战颠覆了欧洲的价值观
+第一次世界大戦はヨーロッパの価値観を転換させ</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="77" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:50,750</start-time>
+                <end-time>00:04:53,140</end-time>
+                <translation>社会陷入了极度混乱</translation>
+                <original>社会は混乱を極めていました</original>
+                <spell/>
+            </t>
+            <t index="78" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:55,365</start-time>
+                <end-time>00:04:58,047</end-time>
+                <translation>生活在那个时代的凯卢瓦</translation>
+                <original>そんな時代を生きたカイヨワは</original>
+                <spell/>
+            </t>
+            <t index="79" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:04:58,047</start-time>
+                <end-time>00:05:04,700</end-time>
+                <translation>对以往支撑欧洲文明的理性主义和物质主义产生了怀疑</translation>
+                <original>それまでのヨーロッパ文明を支えていた合理主義や物質主義に疑問を抱きました</original>
+                <spell/>
+            </t>
+            <t index="80" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:05,975</start-time>
+                <end-time>00:05:11,861</end-time>
+                <translation>在一个只认可合理且有用事物的社会中</translation>
+                <original>合理的で役に立つものだけが良いとされる社会の中で</original>
+                <spell/>
+            </t>
+            <t index="81" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:11,861</start-time>
+                <end-time>00:05:16,025</end-time>
+                <translation>正是那些无用且非理性的东西驱动着人类
+無駄で非合理的なものが人間を突き動かし</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="82" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:17,050</start-time>
+                <end-time>00:05:22,550</end-time>
+                <translation>走向了全面战争 这便是他的推测</translation>
+                <original>全面戦争へ向かっていったのではないかと推察</original>
+                <spell/>
+            </t>
+            <t index="83" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:22,550</start-time>
+                <end-time>00:05:27,550</end-time>
+                <translation>为了查明原因 他将非理性的事物</translation>
+                <original>その原因を突き止めるため非合理的なもの</original>
+                <spell/>
+            </t>
+            <t index="84" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:27,550</start-time>
+                <end-time>00:05:31,547</end-time>
+                <translation>如节日和游戏视作神圣的事物</translation>
+                <original>祭りや遊びを聖なるものと捉え</original>
+                <spell/>
+            </t>
+            <t index="85" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:31,547</start-time>
+                <end-time>00:05:36,175</end-time>
+                <translation>并分析道 这些对人类而言或许是必要的</translation>
+                <original>人間にとって必要なものではないかと分析しました</original>
+                <spell/>
+            </t>
+            <t index="86" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:37,825</start-time>
+                <end-time>00:05:45,575</end-time>
+                <translation>1939年 他发表了《人与神圣》</translation>
+                <original>1939年に『人間と聖なるもの』を発表</original>
+                <spell/>
+            </t>
+            <t index="87" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:45,575</start-time>
+                <end-time>00:05:50,600</end-time>
+                <translation>凭借此书奠定了人类学家地位后的凯卢瓦</translation>
+                <original>この本によって人類学者としての地位を築いたカイヨワは</original>
+                <spell/>
+            </t>
+            <t index="88" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:50,600</start-time>
+                <end-time>00:05:55,140</end-time>
+                <translation>受邀前往阿根廷进行演讲</translation>
+                <original>講演のためアルゼンチンに招かれます</original>
+                <spell/>
+            </t>
+            <t index="89" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:55,140</start-time>
+                <end-time>00:05:57,540</end-time>
+                <translation>抵达阿根廷后不久
+アルゼンチン到着後</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="90" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:05:57,540</start-time>
+                <end-time>00:06:00,440</end-time>
+                <translation>第二次世界大战便爆发了</translation>
+                <original>すぐに第二次世界大戦が勃発</original>
+                <spell/>
+            </t>
+            <t index="91" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:06:02,340</start-time>
+                <end-time>00:06:06,916</end-time>
+                <translation>凯卢瓦直到战争结束都无法返回法国</translation>
+                <original>カイヨワは終戦までフランスに帰国できなくなり</original>
+                <spell/>
+            </t>
+            <t index="92" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:06:06,916</start-time>
+                <end-time>00:06:11,240</end-time>
+                <translation>从而得以客观地审视欧洲的战火</translation>
+                <original>ヨーロッパの戦火を客観的に見つめることになります</original>
+                <spell/>
+            </t>
+            <t index="93" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:06:13,340</start-time>
+                <end-time>00:06:17,860</end-time>
+                <translation>基于这些经历 他耗费了十余年岁月</translation>
+                <original>こうした経験をもとに10年以上の歳月をかけて</original>
+                <spell/>
+            </t>
+            <t index="94" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:06:17,860</start-time>
+                <end-time>00:06:21,350</end-time>
+                <translation>完成了《战争论》</translation>
+                <original>戦争論を書き上げたのです</original>
+                <spell/>
+            </t>
+            <t index="95" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:06:21,350</start-time>
+                <end-time>00:06:27,240</end-time>
+                <translation>凯卢瓦如下记录了撰写《战争论》的目的</translation>
+                <original>カイヨワは戦争論執筆の目的を次のように記しています</original>
+                <spell/>
+            </t>
+            <t index="96" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:06:29,640</start-time>
+                <end-time>00:06:32,642</end-time>
+                <translation>本书并非研究战争本身</translation>
+                <original>Elle n'est donc pas une étude de la guerre elle-même, </original>
+                <spell/>
+            </t>
+            <t index="97" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:06:32,642</start-time>
+                <end-time>00:06:41,975</end-time>
+                <translation>而是研究战争如何吸引人的心灵与精神并使之陶醉</translation>
+                <original>mais de la fascination que la guerre exerce sur le cœur et sur l'esprit humain. </original>
+                <spell/>
+            </t>
+            <t index="98" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:06:41,975</start-time>
+                <end-time>00:06:46,222</end-time>
+                <translation>进而本书首先想要划清战争这一社会重压</translation>
+                <original>J’estimais devoir d’abord circonscrire les réalités </original>
+                <spell/>
+            </t>
+            <t index="99" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:06:46,222</start-time>
+                <end-time>00:06:53,796</end-time>
+                <translation>已成为可怕的、压倒性的现实已然压在我们身上 </translation>
+                <original>déjà redoutables et écrasantes de la pesanteur sociale, </original>
+                <spell/>
+            </t>
+            <t index="100" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:06:53,796</start-time>
+                <end-time>00:06:56,098</end-time>
+                <translation>进而更清晰地揭示它造成的危险</translation>
+                <original>afin de mieux mettre en lumière les dangers supplémentaires </original>
+                <spell/>
+            </t>
+            <t index="101" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:06:56,098</start-time>
+                <end-time>00:07:05,275</end-time>
+                <translation>即来自每个人的意识的令人晕眩的不断回荡</translation>
+                <original>qui viennent de leur répercussion éblouie dans la conscience individuelle.</original>
+                <spell/>
+            </t>
+            <t index="102" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:06,950</start-time>
+                <end-time>00:07:09,312</end-time>
+                <translation>开头这部分让我非常认同的点在于</translation>
+                <original>すごく、最初にすごく納得できたのは</original>
+                <spell/>
+            </t>
+            <t index="103" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:09,312</start-time>
+                <end-time>00:07:11,650</end-time>
+                <translation>我们一个劲地追求合理 合理化呢</translation>
+                <original>合理的に合理的にあるじゃないですか</original>
+                <spell/>
+            </t>
+            <t index="104" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:11,650</start-time>
+                <end-time>00:07:13,983</end-time>
+                <translation>这就会导致某种压力就会不断累积</translation>
+                <original>でそうすると何かストレスが溜まっていってね</original>
+                <spell/>
+            </t>
+            <t index="105" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:13,983</start-time>
+                <end-time>00:07:17,225</end-time>
+                <translation>那些被认为是毫无意义的游戏和节日</translation>
+                <original>あんな意味のないものと思っているような遊びや祭り</original>
+                <spell/>
+            </t>
+            <t index="106" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:17,225</start-time>
+                <end-time>00:07:19,188</end-time>
+                <translation>确实会变得令人渴望呢</translation>
+                <original>確かに欲しくなりますまでは</original>
+                <spell/>
+            </t>
+            <t index="107" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:19,188</start-time>
+                <end-time>00:07:21,557</end-time>
+                <translation>我之前是非常热衷于此的</translation>
+                <original>僕はすごい前のめりだったんですよ</original>
+                <spell/>
+            </t>
+            <t index="108" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:21,557</start-time>
+                <end-time>00:07:22,700</end-time>
+                <translation>神圣之物</translation>
+                <original>聖なるもの</original>
+                <spell/>
+            </t>
+            <t index="109" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:22,700</start-time>
+                <end-time>00:07:27,075</end-time>
+                <translation>战争就是其中之一呢</translation>
+                <original>その一つだよね戦争ということですよね</original>
+                <spell/>
+            </t>
+            <t index="110" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:27,075</start-time>
+                <end-time>00:07:30,625</end-time>
+                <translation>原本呢 那些神圣之物</translation>
+                <original>元々その聖なるものっていうのが</original>
+                <spell/>
+            </t>
+            <t index="111" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:30,625</start-time>
+                <end-time>00:07:34,300</end-time>
+                <translation>用近代的合理思维方式是无法把握的</translation>
+                <original>近代の合理的な考え方では捉えられない</original>
+                <spell/>
+            </t>
+            <t index="112" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:34,300</start-time>
+                <end-time>00:07:36,175</end-time>
+                <translation>这究竟是什么</translation>
+                <original>これはなんだっていう</original>
+                <spell/>
+            </t>
+            <t index="113" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:36,175</start-time>
+                <end-time>00:07:39,909</end-time>
+                <translation>这种东西 难道不正是表面上看似合理</translation>
+                <original>そういうものが表向き合理的に考えられる</original>
+                <spell/>
+            </t>
+            <t index="114" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:39,909</start-time>
+                <end-time>00:07:43,246</end-time>
+                <translation>的人类社会联结的根本所在吗</translation>
+                <original>人間社会の結びつきの根本にあるんじゃないか</original>
+                <spell/>
+            </t>
+            <t index="115" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:43,246</start-time>
+                <end-time>00:07:45,550</end-time>
+                <translation>人们开始提出这样的观点</translation>
+                <original>ということが言われ始めるわけです</original>
+                <spell/>
+            </t>
+            <t index="116" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:45,550</start-time>
+                <end-time>00:07:48,084</end-time>
+                <translation>而在凯卢瓦看来</translation>
+                <original>でカイヨワの場合ですとね</original>
+                <spell/>
+            </t>
+            <t index="117" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:48,084</start-time>
+                <end-time>00:07:51,150</end-time>
+                <translation>所有的事物
+全ての物事が</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="118" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:51,150</start-time>
+                <end-time>00:07:55,850</end-time>
+                <translation>即人类社会是以生产为原理构建起来的</translation>
+                <original>人間社会っていうのは生産を原理にして組み立てられていると</original>
+                <spell/>
+            </t>
+            <t index="119" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:55,850</start-time>
+                <end-time>00:07:58,294</end-time>
+                <translation>但这也就意味着</translation>
+                <original>でもそういうふうにしているとね</original>
+                <spell/>
+            </t>
+            <t index="120" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:07:58,294</start-time>
+                <end-time>00:08:01,998</end-time>
+                <translation>人类社会并非可以无限拓展的</translation>
+                <original>人間社会ってそんな無限に広がっているわけじゃないですから</original>
+                <spell/>
+            </t>
+            <t index="121" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:01,998</start-time>
+                <end-time>00:08:06,340</end-time>
+                <translation>终有一天会达到饱和而崩溃</translation>
+                <original>いつかね飽和しちゃってパンクすると</original>
+                <spell/>
+            </t>
+            <t index="122" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:06,340</start-time>
+                <end-time>00:08:12,775</end-time>
+                <translation>这时游戏、节日等便起到了调节社会的作用</translation>
+                <original>それで遊びだとか祭りだとかいうのが社会を調整している</original>
+                <spell/>
+            </t>
+            <t index="123" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:12,775</start-time>
+                <end-time>00:08:15,050</end-time>
+                <translation>-光是效率高不行 -嗯</translation>
+                <original>-効率がいいってことが　-そう</original>
+                <spell/>
+            </t>
+            <t index="124" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:15,050</start-time>
+                <end-time>00:08:17,650</end-time>
+                <translation>就还是少些什么</translation>
+                <original>何か足りてないっていう</original>
+                <spell/>
+            </t>
+            <t index="125" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:17,650</start-time>
+                <end-time>00:08:20,616</end-time>
+                <translation>所以啊 追求“有用”</translation>
+                <original>だから役に立つっていうこととか</original>
+                <spell/>
+            </t>
+            <t index="126" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:20,616</start-time>
+                <end-time>00:08:23,586</end-time>
+                <translation>以及能够理性思考和处理</translation>
+                <original>そして合理的に考えて処理できるって</original>
+                <spell/>
+            </t>
+            <t index="127" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:23,586</start-time>
+                <end-time>00:08:29,800</end-time>
+                <translation>并不能涵盖“活着”的全部</translation>
+                <original>いうことは生きてるっていうこと全体を覆えないんですよね</original>
+                <spell/>
+            </t>
+            <t index="128" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:29,800</start-time>
+                <end-time>00:08:33,260</end-time>
+                <translation>由此 刚刚提到“神圣事物”的范畴中</translation>
+                <original>そこから今度それの聖なるもののカテゴリーに</original>
+                <spell/>
+            </t>
+            <t index="129" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:33,260</start-time>
+                <end-time>00:08:35,075</end-time>
+                <translation>就也混入了战争呢</translation>
+                <original>戦争が入ってきますよね</original>
+                <spell/>
+            </t>
+            <t index="130" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:35,075</start-time>
+                <end-time>00:08:39,035</end-time>
+                <translation>这是说游戏或节日</translation>
+                <original>あのね例えば遊びとか祭りっていうのは</original>
+                <spell/>
+            </t>
+            <t index="131" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:39,035</start-time>
+                <end-time>00:08:42,572</end-time>
+                <translation>都有那种“好想在这里尽情释放一下”的感觉</translation>
+                <original>あっここでパッとやりたいよねとかね</original>
+                <spell/>
+            </t>
+            <t index="132" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:42,572</start-time>
+                <end-time>00:08:44,560</end-time>
+                <translation>社会接纳了它们</translation>
+                <original>社会がそれを受け入れて</original>
+                <spell/>
+            </t>
+            <t index="133" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:44,560</start-time>
+                <end-time>00:08:46,850</end-time>
+                <translation>并妥善地将其纳入体系</translation>
+                <original>きちっと取り込んでいるわけです</original>
+                <spell/>
+            </t>
+            <t index="134" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:46,850</start-time>
+                <end-time>00:08:52,214</end-time>
+                <translation>然而 这种暴力性</translation>
+                <original>けれどもこの暴力性とかいうのは</original>
+                <spell/>
+            </t>
+            <t index="135" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:52,214</start-time>
+                <end-time>00:08:56,025</end-time>
+                <translation>社会却未能很好地将其吸纳</translation>
+                <original>社会はそれをうまく取り込むことができていない</original>
+                <spell/>
+            </t>
+            <t index="136" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:08:56,025</start-time>
+                <end-time>00:09:01,257</end-time>
+                <translation>也因此社会本身对此毫无自觉</translation>
+                <original>だから社会そのものがねそのことに無自覚に</original>
+                <spell/>
+            </t>
+            <t index="137" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:01,257</start-time>
+                <end-time>00:09:03,150</end-time>
+                <translation>而一旦这暴力性涌入其中</translation>
+                <original>なだれ込んでいってしまうと</original>
+                <spell/>
+            </t>
+            <t index="138" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:03,150</start-time>
+                <end-time>00:09:06,896</end-time>
+                <translation>就会变得一发不可收拾 无法处理</translation>
+                <original>うわーってどうにも処理できない</original>
+                <spell/>
+            </t>
+            <t index="139" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:06,896</start-time>
+                <end-time>00:09:10,533</end-time>
+                <translation>我们虽然对战争有种难以言喻的恐惧</translation>
+                <original>何とも言えない怖いけれども</original>
+                <spell/>
+            </t>
+            <t index="140" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:10,533</start-time>
+                <end-time>00:09:14,775</end-time>
+                <translation>但还是会一点点地被拖入其中</translation>
+                <original>ずりずりずりって引き込まれていくっていうね</original>
+                <spell/>
+            </t>
+            <t index="141" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:14,775</start-time>
+                <end-time>00:09:18,107</end-time>
+                <translation>这战争在上一次</translation>
+                <original>そういうもののようにして</original>
+                <spell/>
+            </t>
+            <t index="142" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:18,107</start-time>
+                <end-time>00:09:21,125</end-time>
+                <translation>最终演变成了全面战争</translation>
+                <original>全面戦争になっちゃったわけですよ</original>
+                <spell/>
+            </t>
+            <t index="143" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:21,125</start-time>
+                <end-time>00:09:24,213</end-time>
+                <translation>“神圣事物”以战争的形式显现了</translation>
+                <original>聖なるものが現出してしまったとここに</original>
+                <spell/>
+            </t>
+            <t index="144" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:24,213</start-time>
+                <end-time>00:09:28,650</end-time>
+                <translation>猛然间就显现了出来</translation>
+                <original>バーッと現れてしまったというようなことだと</original>
+                <spell/>
+            </t>
+            <t index="145" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:28,650</start-time>
+                <end-time>00:09:31,520</end-time>
+                <translation>这触及了作者执笔的目的</translation>
+                <original>執筆の目的にあったところなんですけど</original>
+                <spell/>
+            </t>
+            <t index="146" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:09:31,520</start-time>
+                <end-time>00:09:34,757</end-time>
+                <translation>本书并非对战争本身的研究</translation>
+                <original>Elle n'est donc pas une étude de la guerre elle-même, </original>
+                <spell/>
+            </t>
+            <t index="147" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:09:34,757</start-time>
+                <end-time>00:09:42,775</end-time>
+                <translation>而是研究战争如何吸引人的心灵与精神并使之陶醉</translation>
+                <original>mais de la fascination que la guerre exerce sur le cœur et sur l'esprit humain. </original>
+                <spell/>
+            </t>
+            <t index="148" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:42,775</start-time>
+                <end-time>00:09:49,305</end-time>
+                <translation>如果人类真的存在某种趋向战争的倾向</translation>
+                <original>ひょっとして人間に戦争への傾きがあるとしたら</original>
+                <spell/>
+            </t>
+            <t index="149" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:49,305</start-time>
+                <end-time>00:09:52,541</end-time>
+                <translation>那我们该怎么办？</translation>
+                <original>そうしたらどうしなきゃいけないかっていうのは</original>
+                <spell/>
+            </t>
+            <t index="150" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:52,541</start-time>
+                <end-time>00:09:57,175</end-time>
+                <translation>该如何阻止这种倾向？</translation>
+                <original>この傾きをどうやって差し止めるか</original>
+                <spell/>
+            </t>
+            <t index="151" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:09:57,175</start-time>
+                <end-time>00:10:00,349</end-time>
+                <translation>去思考究竟发生了什么</translation>
+                <original>考えて何が起こったのか</original>
+                <spell/>
+            </t>
+            <t index="152" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:10:00,349</start-time>
+                <end-time>00:10:04,086</end-time>
+                <translation>思考这件事本身</translation>
+                <original>っていうことを考えること自体がね</original>
+                <spell/>
+            </t>
+            <t index="153" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:10:04,086</start-time>
+                <end-time>00:10:06,900</end-time>
+                <translation>这就是最初的刹车</translation>
+                <original>まず最初のブレーキなわけですよ</original>
+                <spell/>
+            </t>
+            <t index="154" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:10:06,900</start-time>
+                <end-time>00:10:10,693</end-time>
+                <translation>现在多少了解了这本书为何会存在</translation>
+                <original>なんとなくこの本がどうして存在するかぐらいのところまでは</original>
+                <spell/>
+            </t>
+            <t index="155" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:10:10,693</start-time>
+                <end-time>00:10:12,575</end-time>
+                <translation>- 进门了呢 - 是啊</translation>
+                <original>-入ってきましたね　-そうですね</original>
+                <spell/>
+            </t>
+            <t index="156" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:10:12,575</start-time>
+                <end-time>00:10:15,675</end-time>
+                <translation>那么 让我们进入正题吧</translation>
+                <original>では本編に入っていきましょう</original>
+                <spell/>
+            </t>
+            <t index="157" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:10:15,675</start-time>
+                <end-time>00:10:18,720</end-time>
+                <translation>凯卢瓦在这本书中</translation>
+                <original>カイヨワはまずこの本の中で</original>
+                <spell/>
+            </t>
+            <t index="158" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:10:18,720</start-time>
+                <end-time>00:10:21,440</end-time>
+                <translation>首先对战争做出了如下定义</translation>
+                <original>戦争を次のように定義しました</original>
+                <spell/>
+            </t>
+            <t index="159" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:10:23,075</start-time>
+                <end-time>00:10:27,910</end-time>
+                <translation>要理解战争的本质、其各种特质、
+La nature de la guerre, ses caractères, </translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="160" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:10:27,910</start-time>
+                <end-time>00:10:30,720</end-time>
+                <translation>战争带来的各种结果、</translation>
+                <original>ses conséquences, </original>
+                <spell/>
+            </t>
+            <t index="161" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:10:30,720</start-time>
+                <end-time>00:10:34,475</end-time>
+                <translation>以及它在历史上的作用、</translation>
+                <original>son rôle dans l'histoire </original>
+                <spell/>
+            </t>
+            <t index="162" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:10:34,475</start-time>
+                <end-time>00:10:41,957</end-time>
+                <translation>唯有时刻牢记它不是单纯的武装冲突</translation>
+                <original>ne deviennent intelligibles que si l'on garde présent à l'esprit  qu'elle n'est pas simple lutte armée, </original>
+                <spell/>
+            </t>
+            <t index="163" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:10:41,957</start-time>
+                <end-time>00:10:47,875</end-time>
+                <translation>而是有组织的毁灭行动</translation>
+                <original>mais entreprise organisée de destruction. </original>
+                <spell/>
+            </t>
+            <t index="164" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:10:48,625</start-time>
+                <end-time>00:10:53,175</end-time>
+                <translation>比如 狗打架就不是战争呢</translation>
+                <original>例えば犬の喧嘩は戦争ではありませんよね</original>
+                <spell/>
+            </t>
+            <t index="165" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:10:53,175</start-time>
+                <end-time>00:10:57,075</end-time>
+                <translation>人与人之间的斗殴也不是战争</translation>
+                <original>人間同士の殴り合いの喧嘩も戦争ではありません</original>
+                <spell/>
+            </t>
+            <t index="166" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:10:58,350</start-time>
+                <end-time>00:11:01,280</end-time>
+                <translation>由人类构成的社会
+人間により構成された社会が</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="167" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:01,280</start-time>
+                <end-time>00:11:04,600</end-time>
+                <translation>有组织地使用兵器这一工具</translation>
+                <original>組織的に兵器という道具を用いて</original>
+                <spell/>
+            </t>
+            <t index="168" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:04,600</start-time>
+                <end-time>00:11:09,875</end-time>
+                <translation>去破坏敌人的生命和财产的才是战争
+敵の人間の命や所有物を破壊することが戦争です</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="169" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:11:09,875</start-time>
+                <end-time>00:11:15,075</end-time>
+                <translation>战争与武器的研发和军队的组织化密不可分
+戦争は兵器の開発や軍の組織化と切り離せません</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="170" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:11:16,000</start-time>
+                <end-time>00:11:21,197</end-time>
+                <translation>凯卢瓦认为战争与文明密切相关</translation>
+                <original>カイヨワは戦争と文明が密接に関係していると考え</original>
+                <spell/>
+            </t>
+            <t index="171" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:11:21,197</start-time>
+                <end-time>00:11:23,465</end-time>
+                <translation>并这样说道</translation>
+                <original>次のように言いました</original>
+                <spell/>
+            </t>
+            <t index="172" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:24,640</start-time>
+                <end-time>00:11:29,305</end-time>
+                <translation>认为战争是文明的反面，这种说法是不准确的，</translation>
+                <original>Il est inexact, sauf au point de vue moral et pour l’étymologie, </original>
+                <spell/>
+            </t>
+            <t index="173" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:29,305</start-time>
+                <end-time>00:11:37,075</end-time>
+                <translation>如果不是从道德评价和词源意义上看。</translation>
+                <original>que la guerre soit le contraire de la civilisation.</original>
+                <spell/>
+            </t>
+            <t index="174" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:37,075</start-time>
+                <end-time>00:11:41,083</end-time>
+                <translation>它如影随形地伴随着文明，</translation>
+                <original>elle l'accompagne comme son ombre </original>
+                <spell/>
+            </t>
+            <t index="175" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:41,083</start-time>
+                <end-time>00:11:44,725</end-time>
+                <translation>与文明一同成长
+文明と共に成長する</translation>
+                <original>et grandit avec elle.</original>
+                <spell/>
+            </t>
+            <t index="176" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:44,725</start-time>
+                <end-time>00:11:49,458</end-time>
+                <translation>同样，许多人曾声称战争就是文明本身，甚至某种程度上创造了文明，这种说法也是不正确的。</translation>
+                <original>Il n'est pas vrai non plus, comme beaucoup l'ont prétendu, </original>
+                <spell/>
+            </t>
+            <t index="177" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:49,458</start-time>
+                <end-time>00:11:53,362</end-time>
+                <translation>甚至某种程度上创造了文明，</translation>
+                <original>que la guerre soit la civilisation même </original>
+                <spell/>
+            </t>
+            <t index="178" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:53,362</start-time>
+                <end-time>00:11:55,975</end-time>
+                <translation>这种说法也是不正确的。</translation>
+                <original>et qu'elle l'engendre en quelque sorte : </original>
+                <spell/>
+            </t>
+            <t index="179" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:55,975</start-time>
+                <end-time>00:11:59,800</end-time>
+                <translation>因为文明是和平的产物</translation>
+                <original>la civilisation est œuvre de paix.</original>
+                <spell/>
+            </t>
+            <t index="180" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:11:59,800</start-time>
+                <end-time>00:12:05,390</end-time>
+                <translation>然而战争却体现了文明</translation>
+                <original>Mais la guerre exprime la civilisation.</original>
+                <spell/>
+            </t>
+            <t index="181" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:12:06,590</start-time>
+                <end-time>00:12:08,677</end-time>
+                <translation>在西方近代思想中
+西洋の近代思想では</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="182" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:12:08,677</start-time>
+                <end-time>00:12:13,415</end-time>
+                <translation>人们认为文明只有在和平中才能发展</translation>
+                <original>文明は平和の中でこそ発展すると考えられ</original>
+                <spell/>
+            </t>
+            <t index="183" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:12:13,415</start-time>
+                <end-time>00:12:20,850</end-time>
+                <translation>认为文明进步后 人类就会避免野蛮的战争</translation>
+                <original>文明が進めば人間は野蛮な戦争を避けると思われていました</original>
+                <spell/>
+            </t>
+            <t index="184" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:12:20,850</start-time>
+                <end-time>00:12:25,575</end-time>
+                <translation>文明的原理是知性之光照亮的启蒙</translation>
+                <original>文明の原理は知性の光による啓蒙であることが</original>
+                <spell/>
+            </t>
+            <t index="185" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:12:25,575</start-time>
+                <end-time>00:12:30,200</end-time>
+                <translation>这是自古希腊文明以来的西方传统</translation>
+                <original>ギリシャ文明以来の西洋の伝統でした</original>
+                <spell/>
+            </t>
+            <t index="186" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:12:30,200</start-time>
+                <end-time>00:12:35,638</end-time>
+                <translation>然而 在追求用光照亮一切的最终结果</translation>
+                <original>しかしそうして光で照らし出すことを追い求めていった果てに</original>
+                <spell/>
+            </t>
+            <t index="187" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:12:35,638</start-time>
+                <end-time>00:12:37,360</end-time>
+                <translation>却产生了像原子弹那样</translation>
+                <original>原爆のような</original>
+                <spell/>
+            </t>
+            <t index="188" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:12:37,360</start-time>
+                <end-time>00:12:41,400</end-time>
+                <translation>足以灼瞎双眼的过度暴力的光</translation>
+                <original>目を焼きつぶすほどの過剰な暴力の光を生んだのです</original>
+                <spell/>
+            </t>
+            <t index="189" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:12:44,390</start-time>
+                <end-time>00:12:49,385</end-time>
+                <translation>总之 战争随着文明的发展</translation>
+                <original>要するに戦争は文明が発達すればするほど</original>
+                <spell/>
+            </t>
+            <t index="190" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:12:49,385</start-time>
+                <end-time>00:12:51,965</end-time>
+                <translation>变得愈发野蛮和具有毁灭性</translation>
+                <original>野蛮で破滅的になっているのです</original>
+                <spell/>
+            </t>
+            <t index="191" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:12:53,740</start-time>
+                <end-time>00:12:56,358</end-time>
+                <translation>凯卢瓦直面这个矛盾</translation>
+                <original>カイヨワはこの矛盾に向き合い</original>
+                <spell/>
+            </t>
+            <t index="192" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:12:56,358</start-time>
+                <end-time>00:12:59,065</end-time>
+                <translation>试图找出答案</translation>
+                <original>答えを導き出そうとしました</original>
+                <spell/>
+            </t>
+            <t index="193" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:02,665</start-time>
+                <end-time>00:13:06,375</end-time>
+                <translation>战争与文明</translation>
+                <original>戦争と文明</original>
+                <spell/>
+            </t>
+            <t index="194" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:06,640</start-time>
+                <end-time>00:13:11,440</end-time>
+                <translation>关于凯卢瓦是如何论述战争与文明的</translation>
+                <original>カイヨワが戦争と文明についてどう書いていたかというと</original>
+                <spell/>
+            </t>
+            <t index="195" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:11,440</start-time>
+                <end-time>00:13:13,976</end-time>
+                <translation>我们来看一下最后这部分</translation>
+                <original>この最後の方を見ていきますが</original>
+                <spell/>
+            </t>
+            <t index="196" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:13:13,976</start-time>
+                <end-time>00:13:17,340</end-time>
+                <translation>因为文明是和平的产物</translation>
+                <original>la civilisation est œuvre de paix.</original>
+                <spell/>
+            </t>
+            <t index="197" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:13:17,340</start-time>
+                <end-time>00:13:21,875</end-time>
+                <translation>然而战争却体现了文明</translation>
+                <original>Mais la guerre exprime la civilisation.</original>
+                <spell/>
+            </t>
+            <t index="198" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:21,875</start-time>
+                <end-time>00:13:24,550</end-time>
+                <translation>乍一听似乎有些矛盾</translation>
+                <original>なんか相反するような</original>
+                <spell/>
+            </t>
+            <t index="199" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:24,550</start-time>
+                <end-time>00:13:28,700</end-time>
+                <translation>文明始于农耕社会
+文明は農耕社会から始まります</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="200" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:28,700</start-time>
+                <end-time>00:13:32,140</end-time>
+                <translation>如果没有几个月的和平</translation>
+                <original>何ヶ月間か平和でないと</original>
+                <spell/>
+            </t>
+            <t index="201" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:32,140</start-time>
+                <end-time>00:13:34,050</end-time>
+                <translation>就无法收获稻米</translation>
+                <original>米も取れないわけです</original>
+                <spell/>
+            </t>
+            <t index="202" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:34,050</start-time>
+                <end-time>00:13:37,340</end-time>
+                <translation>所以 为了创造财富 必须要保持和平</translation>
+                <original>だから富を作るためには平和でないといけないんです</original>
+                <spell/>
+            </t>
+            <t index="203" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:37,340</start-time>
+                <end-time>00:13:41,340</end-time>
+                <translation>和平的结果 文明与财富一同诞生</translation>
+                <original>その結果富とともに文明が生まれるわけです</original>
+                <spell/>
+            </t>
+            <t index="204" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:41,340</start-time>
+                <end-time>00:13:43,340</end-time>
+                <translation>随之也带来了稳定</translation>
+                <original>で安定も生まれるわけです</original>
+                <spell/>
+            </t>
+            <t index="205" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:43,340</start-time>
+                <end-time>00:13:48,340</end-time>
+                <translation>这样看来 文明确实是和平的产物</translation>
+                <original>と考えると文明というのはまさに平和の産物だと</original>
+                <spell/>
+            </t>
+            <t index="206" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:48,340</start-time>
+                <end-time>00:13:51,714</end-time>
+                <translation>然而 接下来就会发生战争</translation>
+                <original>ところが次に戦争になる</original>
+                <spell/>
+            </t>
+            <t index="207" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:51,714</start-time>
+                <end-time>00:13:57,400</end-time>
+                <translation>由文明所创造的一切都会被投入其中</translation>
+                <original>とその文明によって生み出されたもののすべてがつぎ込まれるという</original>
+                <spell/>
+            </t>
+            <t index="208" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:57,400</start-time>
+                <end-time>00:13:59,822</end-time>
+                <translation>这时收获的稻米</translation>
+                <original>そこで収穫した米や</original>
+                <spell/>
+            </t>
+            <t index="209" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:13:59,822</start-time>
+                <end-time>00:14:02,700</end-time>
+                <translation>以及存放这些稻米的米仓等</translation>
+                <original>その米をためている米蔵やそういうものが</original>
+                <spell/>
+            </t>
+            <t index="210" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:02,700</start-time>
+                <end-time>00:14:04,293</end-time>
+                <translation>在这一切都建成之后</translation>
+                <original>全部出来上がったところで</original>
+                <spell/>
+            </t>
+            <t index="211" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:04,293</start-time>
+                <end-time>00:14:08,875</end-time>
+                <translation>- 才会开始产生想要夺取这些东西的念头 - 大致如此</translation>
+                <original>-初めてあれが欲しいという話になっていくわけです　-大体そうです</original>
+                <spell/>
+            </t>
+            <t index="212" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:08,875</start-time>
+                <end-time>00:14:13,102</end-time>
+                <translation>然后 和平期间制造的锄头和犁这些铁器</translation>
+                <original>でその平和な時間に作ったクワやスキという刃物で</original>
+                <spell/>
+            </t>
+            <t index="213" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:13,102</start-time>
+                <end-time>00:14:14,670</end-time>
+                <translation>发现用那个也能杀人</translation>
+                <original>あれだと人が殺せるぞ</original>
+                <spell/>
+            </t>
+            <t index="214" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:14,670</start-time>
+                <end-time>00:14:17,325</end-time>
+                <translation>- 事情就变成了这样 - 用途发生了变化</translation>
+                <original>-という話になるわけですね　-使い方が変わると</original>
+                <spell/>
+            </t>
+            <t index="215" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:17,325</start-time>
+                <end-time>00:14:19,340</end-time>
+                <translation>真是一种循环往复的感觉呢</translation>
+                <original>本当に循環している感じですね</original>
+                <spell/>
+            </t>
+            <t index="216" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:19,340</start-time>
+                <end-time>00:14:24,275</end-time>
+                <translation>但是啊 战争在这样能够循环的时候倒还好</translation>
+                <original>それがねそういう風にして循環ができる間はいいんですけどね</original>
+                <spell/>
+            </t>
+            <t index="217" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:24,275</start-time>
+                <end-time>00:14:28,650</end-time>
+                <translation>“世界大战”已经彻底打破了这种循环</translation>
+                <original>世界戦争というのはもう循環を絶っちゃったわけですよ</original>
+                <spell/>
+            </t>
+            <t index="218" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:28,650</start-time>
+                <end-time>00:14:32,175</end-time>
+                <translation>这已经无法视作一种连续了</translation>
+                <original>それはね連続としては考えられないんですよね</original>
+                <spell/>
+            </t>
+            <t index="219" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:32,175</start-time>
+                <end-time>00:14:35,200</end-time>
+                <translation>- 从某种意义上说 是走到了尽头吧 - 是的</translation>
+                <original>-ある意味行き着いたところというか　-そう</original>
+                <spell/>
+            </t>
+            <t index="220" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:35,200</start-time>
+                <end-time>00:14:38,394</end-time>
+                <translation>至于之后该怎么办</translation>
+                <original>それからどうするかっていうのはね</original>
+                <spell/>
+            </t>
+            <t index="221" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:38,394</start-time>
+                <end-time>00:14:42,725</end-time>
+                <translation>就是还抱着和以往一样的想法是不行的</translation>
+                <original>今までと同じようなことを考えてたらダメなんだっていう</original>
+                <spell/>
+            </t>
+            <t index="222" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:42,725</start-time>
+                <end-time>00:14:45,367</end-time>
+                <translation>要在看清其原因和结果之后</translation>
+                <original>そのなぜどうなるを見極めてから</original>
+                <spell/>
+            </t>
+            <t index="223" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:45,367</start-time>
+                <end-time>00:14:46,860</end-time>
+                <translation>迈出新的一步</translation>
+                <original>一歩踏み出さないと</original>
+                <spell/>
+            </t>
+            <t index="224" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:46,860</start-time>
+                <end-time>00:14:50,800</end-time>
+                <translation>不然恐怕同样的事情还会再次发生</translation>
+                <original>同じことはこれどうやら起こりますってことですね</original>
+                <spell/>
+            </t>
+            <t index="225" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:50,800</start-time>
+                <end-time>00:14:53,409</end-time>
+                <translation>想要基于以往既有的思维方式</translation>
+                <original>今までの既存の考え方をベースにして</original>
+                <spell/>
+            </t>
+            <t index="226" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:53,409</start-time>
+                <end-time>00:14:56,712</end-time>
+                <translation>得出“这样做就好了”的经验教训</translation>
+                <original>こうすればいいですよというノウハウとしてはね</original>
+                <spell/>
+            </t>
+            <t index="227" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:14:56,712</start-time>
+                <end-time>00:15:00,625</end-time>
+                <translation>我觉得也当然是不可能的</translation>
+                <original>当然ながら出てこないんだと思うんですよね</original>
+                <spell/>
+            </t>
+            <t index="228" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:15:00,625</start-time>
+                <end-time>00:15:05,875</end-time>
+                <translation>凯卢瓦为了进一步探究文明与战争的关系</translation>
+                <original>カイヨワは文明と戦争の関係をさらに掘り下げるため</original>
+                <spell/>
+            </t>
+            <t index="229" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:15:05,875</start-time>
+                <end-time>00:15:09,900</end-time>
+                <translation>考察了战争的变化过程</translation>
+                <original>戦争がどう変化してきたのかを考察しました</original>
+                <spell/>
+            </t>
+            <t index="230" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:15:11,425</start-time>
+                <end-time>00:15:16,065</end-time>
+                <translation>首先 在没有身份差别的未开化阶段的社会中</translation>
+                <original>la guerre des sociétés peu différenciées, </original>
+                <spell/>
+            </t>
+            <t index="231" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:15:16,065</start-time>
+                <end-time>00:15:20,575</end-time>
+                <translation>作为部落间争斗的原始战争</translation>
+                <original>qui met aux prises des tribus aux moyens et aux institutions rudimentaires ;</original>
+                <spell/>
+            </t>
+            <t index="232" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:15:22,400</start-time>
+                <end-time>00:15:25,307</end-time>
+                <translation>在还不存在国家的时代
+国家なども存在しない時代</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="233" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:15:25,307</start-time>
+                <end-time>00:15:30,875</end-time>
+                <translation>部落这样的小集团之间围绕地盘等进行的战争
+部族という小集団同士が縄張りなどで争う戦争です</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="234" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:15:32,200</start-time>
+                <end-time>00:15:36,585</end-time>
+                <translation>其次 在阶层化的法治社会中
+la guerre des sociétés féodales ou hiérarchiques, </translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="235" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:15:36,585</start-time>
+                <end-time>00:15:43,290</end-time>
+                <translation>作为专业化的贵族阶级职能的战争 即贵族战争</translation>
+                <original>qui apparaît comme la fonction d'une aristocratie spécialisée ;</original>
+                <spell/>
+            </t>
+            <t index="236" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:15:44,765</start-time>
+                <end-time>00:15:47,529</end-time>
+                <translation>到了中世纪的封建时代
+中世の封建時代になると</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="237" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:15:47,529</start-time>
+                <end-time>00:15:50,299</end-time>
+                <translation>拥有进行战争这一特权身份
+戦争をする特権的な身分である</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="238" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:15:50,299</start-time>
+                <end-time>00:15:53,769</end-time>
+                <translation>以骑士阶级的贵族为中心
+騎士階級の貴族が中心となって</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="239" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:15:53,769</start-time>
+                <end-time>00:15:58,850</end-time>
+                <translation>开始为了王家的名誉和领土而进行战争</translation>
+                <original>王家の名誉や領土のために戦争を行うようになります</original>
+                <spell/>
+            </t>
+            <t index="240" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:15:59,925</start-time>
+                <end-time>00:16:04,346</end-time>
+                <translation>一般民众即使会被破坏农田和家园</translation>
+                <original>一般の民衆は農地や家を荒らされたり</original>
+                <spell/>
+            </t>
+            <t index="241" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:04,346</start-time>
+                <end-time>00:16:09,218</end-time>
+                <translation>或是为了凑人数而被拉去当兵</translation>
+                <original>頭数を揃えるために兵として連れられていくことはあっても</original>
+                <spell/>
+            </t>
+            <t index="242" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:09,218</start-time>
+                <end-time>00:16:14,250</end-time>
+                <translation>基本上他们与战争的目的完全无关
+基本的に戦争の目的には全く関係ありません</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="243" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:15,150</start-time>
+                <end-time>00:16:19,825</end-time>
+                <translation>这类战争有时也会通过骑士们的决斗来决定胜负</translation>
+                <original>勝負は騎士たちの決闘で決めることもありました</original>
+                <spell/>
+            </t>
+            <t index="244" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:19,825</start-time>
+                <end-time>00:16:23,132</end-time>
+                <translation>目的并非全歼敌人</translation>
+                <original>敵を全滅させることが目的ではなく</original>
+                <spell/>
+            </t>
+            <t index="245" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:23,132</start-time>
+                <end-time>00:16:26,815</end-time>
+                <translation>一旦决出胜负 战争便宣告结束</translation>
+                <original>勝負が決まれば戦争は終結したのです</original>
+                <spell/>
+            </t>
+            <t index="246" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:28,790</start-time>
+                <end-time>00:16:32,500</end-time>
+                <translation>此外 虽然也有雇佣佣兵的情况 </translation>
+                <original>また傭兵を雇うこともありましたが</original>
+                <spell/>
+            </t>
+            <t index="247" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:32,500</start-time>
+                <end-time>00:16:36,965</end-time>
+                <translation>但其数量受到王室财政的制约</translation>
+                <original>その数は王家の財政によって制約されていました</original>
+                <spell/>
+            </t>
+            <t index="248" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:39,190</start-time>
+                <end-time>00:16:42,985</end-time>
+                <translation>由此可以认为 杀戮和破坏的程度</translation>
+                <original>こうしたことから殺戮や破壊の度合いは</original>
+                <spell/>
+            </t>
+            <t index="249" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:42,985</start-time>
+                <end-time>00:16:45,490</end-time>
+                <translation>此前是受到限制的</translation>
+                <original>制限されていたと考えられます</original>
+                <spell/>
+            </t>
+            <t index="250" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:47,865</start-time>
+                <end-time>00:16:49,291</end-time>
+                <translation>接着</translation>
+                <original>そして</original>
+                <spell/>
+            </t>
+            <t index="251" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:49,291</start-time>
+                <end-time>00:16:53,862</end-time>
+                <translation>国家之间倾尽各自国力相互对抗的国民战争 
+国家同士がそれぞれの国力をぶつけ合う国民戦争</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="252" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:53,862</start-time>
+                <end-time>00:16:58,500</end-time>
+                <translation>即国民拿起枪作为士兵战斗的战争</translation>
+                <original>国民が銃を取って兵士として戦う戦争です</original>
+                <spell/>
+            </t>
+            <t index="253" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:16:58,500</start-time>
+                <end-time>00:17:01,775</end-time>
+                <translation>成为了战争的转折点</translation>
+                <original>ここが戦争の転機となりました</original>
+                <spell/>
+            </t>
+            <t index="254" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:03,550</start-time>
+                <end-time>00:17:12,350</end-time>
+                <translation>凯卢瓦分析认为 向国民战争转变的契机在于法国大革命</translation>
+                <original>国民戦争に移行したきっかけはフランス革命にある とカイヨワは分析しました</original>
+                <spell/>
+            </t>
+            <t index="255" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:12,350</start-time>
+                <end-time>00:17:14,660</end-time>
+                <translation>1789年</translation>
+                <original>1789年</original>
+                <spell/>
+            </t>
+            <t index="256" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:14,660</start-time>
+                <end-time>00:17:17,760</end-time>
+                <translation>市民们主张自由与平等
+市民たちが自由や平等を主張し</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="257" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:17,760</start-time>
+                <end-time>00:17:21,050</end-time>
+                <translation>法国大革命爆发</translation>
+                <original>フランス革命が勃発</original>
+                <spell/>
+            </t>
+            <t index="258" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:21,050</start-time>
+                <end-time>00:17:25,427</end-time>
+                <translation>以国王和贵族为中心的封建社会崩溃 
+王や貴族を中心とした封建社会が崩壊し</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="259" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:25,427</start-time>
+                <end-time>00:17:29,215</end-time>
+                <translation>以国民为主体的民族国家得以建立
+国民主体の国民国家が樹立されました</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="260" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:30,715</start-time>
+                <end-time>00:17:34,303</end-time>
+                <translation>然而 周边的君主制国家
+しかしその後周辺の王政諸国が</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="261" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:34,303</start-time>
+                <end-time>00:17:37,015</end-time>
+                <translation>随后企图推翻革命政府</translation>
+                <original>革命政府を倒そうと企てます</original>
+                <spell/>
+            </t>
+            <t index="262" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:38,340</start-time>
+                <end-time>00:17:45,525</end-time>
+                <translation>对此 革命政府引入了从民众中招募士兵的征兵制 
+これに対し民衆から兵士を募る徴兵制を導入</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="263" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:45,525</start-time>
+                <end-time>00:17:47,483</end-time>
+                <translation>拿破仑挺身而出</translation>
+                <original>ナポレオンが立ち上がり</original>
+                <spell/>
+            </t>
+            <t index="264" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:47,483</start-time>
+                <end-time>00:17:51,100</end-time>
+                <translation>创建了由国民组成的军队</translation>
+                <original>国民による軍隊を作ります</original>
+                <spell/>
+            </t>
+            <t index="265" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:51,100</start-time>
+                <end-time>00:17:56,675</end-time>
+                <translation>这便是国民军的开端</translation>
+                <original>これが国民軍の始まりでした</original>
+                <spell/>
+            </t>
+            <t index="266" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:17:56,675</start-time>
+                <end-time>00:18:00,129</end-time>
+                <translation>要说拿破仑军队为何强大</translation>
+                <original>ナポレオン軍がなぜ強いかって</original>
+                <spell/>
+            </t>
+            <t index="267" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:00,129</start-time>
+                <end-time>00:18:04,150</end-time>
+                <translation>是因为他们并非为王室征召、缺乏斗志的军队 </translation>
+                <original>王家のために徴集されたやる気のない軍隊ではなく</original>
+                <spell/>
+            </t>
+            <t index="268" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:04,150</start-time>
+                <end-time>00:18:08,837</end-time>
+                <translation>而是为了自己保卫通过革命获得的自由而聚集起来的、</translation>
+                <original>革命によって得た自由を自分たちで守るために集まった</original>
+                <spell/>
+            </t>
+            <t index="269" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:08,837</start-time>
+                <end-time>00:18:10,950</end-time>
+                <translation>充满斗志的军队</translation>
+                <original>やる気のある軍隊だったからです</original>
+                <spell/>
+            </t>
+            <t index="270" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:12,500</start-time>
+                <end-time>00:18:16,825</end-time>
+                <translation>在使全民战争成为可能的拿破仑战争中 </translation>
+                <original>万人による戦争が可能になったナポレオン戦争では</original>
+                <spell/>
+            </t>
+            <t index="271" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:16,825</start-time>
+                <end-time>00:18:21,700</end-time>
+                <translation>任何国民都能够拿起武器战斗</translation>
+                <original>国民の誰もが武器を手に戦うことができるようになりました</original>
+                <spell/>
+            </t>
+            <t index="272" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:22,975</start-time>
+                <end-time>00:18:27,775</end-time>
+                <translation>从封建制转变为民主的民族国家 
+封建制から民主的な国民国家になったことで</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="273" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:27,775</start-time>
+                <end-time>00:18:30,540</end-time>
+                <translation>能够动用所有可参战的国民</translation>
+                <original>戦闘可能なすべての国民と</original>
+                <spell/>
+            </t>
+            <t index="274" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:30,540</start-time>
+                <end-time>00:18:35,631</end-time>
+                <translation>以及国家财政极限内的资金 </translation>
+                <original>国家財政の枠いっぱいまでの資金を使うことができるようになり</original>
+                <spell/>
+            </t>
+            <t index="275" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:35,631</start-time>
+                <end-time>00:18:38,925</end-time>
+                <translation>战争最终因此变得无法遏制</translation>
+                <original>戦争はいよいよ歯止めが効かなくなります</original>
+                <spell/>
+            </t>
+            <t index="276" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:42,025</start-time>
+                <end-time>00:18:45,500</end-time>
+                <translation>凯卢瓦认为拿破仑战争之后 </translation>
+                <original>カイヨワはナポレオン戦争によって</original>
+                <spell/>
+            </t>
+            <t index="277" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:18:45,500</start-time>
+                <end-time>00:18:49,500</end-time>
+                <translation>战争已接近其纯粹形态</translation>
+                <original>戦争が純粋な形態に近づいたと考えました</original>
+                <spell/>
+            </t>
+            <t index="278" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:18:51,150</start-time>
+                <end-time>00:18:57,725</end-time>
+                <translation>火枪创造了步兵 步兵创造了民主主义</translation>
+                <original>Le mousquet fit le fantassin, qui fit le démocrate</original>
+                <spell/>
+            </t>
+            <t index="279" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:18:57,725</start-time>
+                <end-time>00:19:00,822</end-time>
+                <translation>平民过着悲惨的生活
+平民は惨めな生活をし</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="280" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:19:00,822</start-time>
+                <end-time>00:19:04,125</end-time>
+                <translation>习惯了默默忍受</translation>
+                <original>黙って耐え忍ぶことに慣れてきた</original>
+                <spell/>
+            </t>
+            <t index="281" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:19:04,125</start-time>
+                <end-time>00:19:07,863</end-time>
+                <translation>然而 一旦他们手中被赋予了枪支</translation>
+                <original>けれども一旦その手に銃を与えられ</original>
+                <spell/>
+            </t>
+            <t index="282" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:19:07,863</start-time>
+                <end-time>00:19:11,400</end-time>
+                <translation>被号召起来保卫国家之时</translation>
+                <original>国民を防衛するために呼び寄せられたとき</original>
+                <spell/>
+            </t>
+            <t index="283" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:19:11,400</start-time>
+                <end-time>00:19:15,825</end-time>
+                <translation>他们才第一次意识到自身价值的重要性
+初めて彼らは自分の価値の重要さを意識した</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="284" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:19:16,800</start-time>
+                <end-time>00:19:19,107</end-time>
+                <translation>面对重重危险
+数々の危険に立ち向かい</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="285" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:19:19,107</start-time>
+                <end-time>00:19:21,076</end-time>
+                <translation>通过杀死敌人</translation>
+                <original>敵を殺すことにより</original>
+                <spell/>
+            </t>
+            <t index="286" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:19:21,076</start-time>
+                <end-time>00:19:27,015</end-time>
+                <translation>自己与贵族和特权阶级是完全相同的人</translation>
+                <original>自分も貴族や特権階級と全く同じ人間なのだということを</original>
+                <spell/>
+            </t>
+            <t index="287" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:19:27,015</start-time>
+                <end-time>00:19:30,819</end-time>
+                <translation>当他们刻骨铭心地清楚领悟到这一点时</translation>
+                <original>いやというほどはっきりと悟ったとき</original>
+                <spell/>
+            </t>
+            <t index="288" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:19:30,819</start-time>
+                <end-time>00:19:36,100</end-time>
+                <translation>他们才第一次意识到自身价值的重要性</translation>
+                <original>初めて彼らは自分の価値の重要さを意識したのである</original>
+                <spell/>
+            </t>
+            <t index="289" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:19:38,800</start-time>
+                <end-time>00:19:43,475</end-time>
+                <translation>凯卢瓦解说道 战争已向下一个时代转变</translation>
+                <original>カイヨワは戦争が次の世に変わってきたと解説していました</original>
+                <spell/>
+            </t>
+            <t index="290" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:19:43,475</start-time>
+                <end-time>00:19:45,334</end-time>
+                <translation>最初是原始战争</translation>
+                <original>最初が原始的戦争</original>
+                <spell/>
+            </t>
+            <t index="291" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:19:45,334</start-time>
+                <end-time>00:19:49,338</end-time>
+                <translation>然后演变为贵族战争 再变为国民战争</translation>
+                <original>そして貴族戦争になり国民戦争になったわけですが</original>
+                <spell/>
+            </t>
+            <t index="292" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:19:49,338</start-time>
+                <end-time>00:19:53,340</end-time>
+                <translation>重大的转折点就是从2到3呢</translation>
+                <original>大きな転機·転換だったといったのがここからここでしたよね</original>
+                <spell/>
+            </t>
+            <t index="293" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:19:53,340</start-time>
+                <end-time>00:19:56,011</end-time>
+                <translation>到了国民战争的阶段
+国民戦争の段階になると</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="294" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:19:56,011</start-time>
+                <end-time>00:20:02,484</end-time>
+                <translation>也就是说 当社会民主化、成为平等社会时</translation>
+                <original>つまり社会が民主化し平等社会になったときに</original>
+                <spell/>
+            </t>
+            <t index="295" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:02,484</start-time>
+                <end-time>00:20:06,150</end-time>
+                <translation>战争的承担者便蔓延开来</translation>
+                <original>戦争が蔓延してくるという担い手がね</original>
+                <spell/>
+            </t>
+            <t index="296" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:06,150</start-time>
+                <end-time>00:20:08,460</end-time>
+                <translation>压倒性地扩大</translation>
+                <original>圧倒的に広がって</original>
+                <spell/>
+            </t>
+            <t index="297" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:08,460</start-time>
+                <end-time>00:20:11,550</end-time>
+                <translation>最终变成了这种情况</translation>
+                <original>こういうことになってしまったというわけですね</original>
+                <spell/>
+            </t>
+            <t index="298" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:11,550</start-time>
+                <end-time>00:20:16,950</end-time>
+                <translation>凯卢瓦认为这是一个巨大的悖论</translation>
+                <original>そのことをカイヨワは大きなパラドックスだと思っているわけです</original>
+                <spell/>
+            </t>
+            <t index="299" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:16,950</start-time>
+                <end-time>00:20:19,200</end-time>
+                <translation>到了平等社会</translation>
+                <original>平等社会になって</original>
+                <spell/>
+            </t>
+            <t index="300" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:19,200</start-time>
+                <end-time>00:20:22,571</end-time>
+                <translation>我们能够主张自己的政治权利</translation>
+                <original>自分の政治的権利というのを主張できるようになるという</original>
+                <spell/>
+            </t>
+            <t index="301" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:22,571</start-time>
+                <end-time>00:20:26,975</end-time>
+                <translation>这本来应该是积极的一面</translation>
+                <original>これはポジティブに考えているはずなんです</original>
+                <spell/>
+            </t>
+            <t index="302" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:26,975</start-time>
+                <end-time>00:20:29,878</end-time>
+                <translation>但正是这个条件</translation>
+                <original>でもまさにその条件がね</original>
+                <spell/>
+            </t>
+            <t index="303" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:29,878</start-time>
+                <end-time>00:20:36,275</end-time>
+                <translation>反转过来 使战争变成了所有人的事</translation>
+                <original>反転して戦争を万人のものにしてしまうという</original>
+                <spell/>
+            </t>
+            <t index="304" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:36,275</start-time>
+                <end-time>00:20:38,620</end-time>
+                <translation>他是这样说的呢</translation>
+                <original>このように言っていましたね</original>
+                <spell/>
+            </t>
+            <t index="305" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <marks>
+                    <mark top="">默认标记</mark>
+                </marks>
+                <start-time>00:20:38,620</start-time>
+                <end-time>00:20:43,175</end-time>
+                <translation>火枪创造了步兵 步兵创造了民主主义</translation>
+                <original>Le mousquet fit le fantassin, qui fit le démocrate</original>
+                <spell/>
+            </t>
+            <t index="306" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:43,175</start-time>
+                <end-time>00:20:45,994</end-time>
+                <translation>持有这种枪</translation>
+                <original>この銃を持つ</original>
+                <spell/>
+            </t>
+            <t index="307" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:45,994</start-time>
+                <end-time>00:20:50,065</end-time>
+                <translation>这与用剑训练</translation>
+                <original>それは剣で訓練して</original>
+                <spell/>
+            </t>
+            <t index="308" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:50,065</start-time>
+                <end-time>00:20:54,670</end-time>
+                <translation>从而变强的职业士兵不同</translation>
+                <original>強くなるっていうそういう職業的な兵士とは違って</original>
+                <spell/>
+            </t>
+            <t index="309" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:54,670</start-time>
+                <end-time>00:20:57,800</end-time>
+                <translation>拿着它“砰”地一下就能射击</translation>
+                <original>持ってパンってやれば打ってますから</original>
+                <spell/>
+            </t>
+            <t index="310" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:20:57,800</start-time>
+                <end-time>00:21:00,342</end-time>
+                <translation>那么 这东西普及到每个人手中</translation>
+                <original>でこれがみんなの手に渡るっていうことは</original>
+                <spell/>
+            </t>
+            <t index="311" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:00,342</start-time>
+                <end-time>00:21:02,360</end-time>
+                <translation>就意味着每个人都获得了打倒敌人</translation>
+                <original>一人一人が敵を倒す</original>
+                <spell/>
+            </t>
+            <t index="312" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:02,360</start-time>
+                <end-time>00:21:05,775</end-time>
+                <translation>杀死敌人的力量呢</translation>
+                <original>殺す力を得たっていうことですよね</original>
+                <spell/>
+            </t>
+            <t index="313" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:05,775</start-time>
+                <end-time>00:21:11,279</end-time>
+                <translation>这万民 最终就如在征兵制中所体现的那样</translation>
+                <original>この万人が結局徴兵制に現れるように</original>
+                <spell/>
+            </t>
+            <t index="314" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:12,754</start-time>
+                <end-time>00:21:14,480</end-time>
+                <translation>国王虽然消失了</translation>
+                <original>国王はいなくなったけど</original>
+                <spell/>
+            </t>
+            <t index="315" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:14,480</start-time>
+                <end-time>00:21:17,175</end-time>
+                <translation>但国家这个实体却自立了</translation>
+                <original>国家っていうのは自立するわけです</original>
+                <spell/>
+            </t>
+            <t index="316" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:17,175</start-time>
+                <end-time>00:21:21,363</end-time>
+                <translation>而后这个国家将大家团结起来</translation>
+                <original>そしてその国家がみんなをまとめていって</original>
+                <spell/>
+            </t>
+            <t index="317" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:21,363</start-time>
+                <end-time>00:21:24,200</end-time>
+                <translation>然后树立出敌人啊</translation>
+                <original>そして敵を作るわけですね</original>
+                <spell/>
+            </t>
+            <t index="318" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:24,200</start-time>
+                <end-time>00:21:26,702</end-time>
+                <translation>这个结果就是 作为权力的</translation>
+                <original>結局そこで権力としての</original>
+                <spell/>
+            </t>
+            <t index="319" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:26,702</start-time>
+                <end-time>00:21:30,775</end-time>
+                <translation>作为权力机构的国家变得强大了</translation>
+                <original>権力機構としての国家っていうのが強くなるんですよね</original>
+                <spell/>
+            </t>
+            <t index="320" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:30,775</start-time>
+                <end-time>00:21:34,042</end-time>
+                <translation>然后 遵循其意志</translation>
+                <original>そしてその意思に従って</original>
+                <spell/>
+            </t>
+            <t index="321" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:34,042</start-time>
+                <end-time>00:21:35,740</end-time>
+                <translation>在所谓的民主主义社会中</translation>
+                <original>いわゆる民主主義社会では</original>
+                <spell/>
+            </t>
+            <t index="322" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:35,740</start-time>
+                <end-time>00:21:38,560</end-time>
+                <translation>战争变得普遍化</translation>
+                <original>戦争が全般化してしまうっていう</original>
+                <spell/>
+            </t>
+            <t index="323" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:39,400</start-time>
+                <end-time>00:21:43,352</end-time>
+                <translation>感觉按照这个推导过程 在每个人类个体心中</translation>
+                <original>なんかそれでいて個々人類の中には</original>
+                <spell/>
+            </t>
+            <t index="324" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:43,352</start-time>
+                <end-time>00:21:49,925</end-time>
+                <translation>如果存在着将战争视为神圣事物的欲望</translation>
+                <original>戦争を聖なるものとする欲望があるとすると</original>
+                <spell/>
+            </t>
+            <t index="325" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:49,925</start-time>
+                <end-time>00:21:53,829</end-time>
+                <translation>那么随着社会必然地向那发展</translation>
+                <original>必然的に世の中が進んでいくと</original>
+                <spell/>
+            </t>
+            <t index="326" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:53,829</start-time>
+                <end-time>00:21:58,625</end-time>
+                <translation>就会发生那种骇人听闻规模的战争</translation>
+                <original>ああいうとんでもない規模の戦争が起こるっていうのは</original>
+                <spell/>
+            </t>
+            <t index="327" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:21:58,625</start-time>
+                <end-time>00:22:00,840</end-time>
+                <translation>面对这种必然性</translation>
+                <original>その必然から</original>
+                <spell/>
+            </t>
+            <t index="328" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:00,840</start-time>
+                <end-time>00:22:03,960</end-time>
+                <translation>我们该如何中挣脱出来</translation>
+                <original>我々はどうやって抜けていくかっていうことを</original>
+                <spell/>
+            </t>
+            <t index="329" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:03,960</start-time>
+                <end-time>00:22:04,960</end-time>
+                <translation>要去想</translation>
+                <original>考える</original>
+                <spell/>
+            </t>
+            <t index="330" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:04,975</start-time>
+                <end-time>00:22:06,808</end-time>
+                <translation>那么 如果让社会倒退</translation>
+                <original>じゃあ社会を戻すと</original>
+                <spell/>
+            </t>
+            <t index="331" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:06,808</start-time>
+                <end-time>00:22:10,178</end-time>
+                <translation>退回到那种原始战争的状态</translation>
+                <original>その原始的戦争のところまで戻しちゃったら</original>
+                <spell/>
+            </t>
+            <t index="332" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:10,178</start-time>
+                <end-time>00:22:12,420</end-time>
+                <translation>那种世界大战就不会出现了吧</translation>
+                <original>ああいうもう世界大戦は起こらないんじゃないか</original>
+                <spell/>
+            </t>
+            <t index="333" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:12,420</start-time>
+                <end-time>00:22:13,875</end-time>
+                <translation>这个解决方案怎么样？</translation>
+                <original>っていう解決策はどうですか</original>
+                <spell/>
+            </t>
+            <t index="334" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:13,875</start-time>
+                <end-time>00:22:16,100</end-time>
+                <translation>如果能做到的话</translation>
+                <original>それができれば</original>
+                <spell/>
+            </t>
+            <t index="335" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:16,100</start-time>
+                <end-time>00:22:18,954</end-time>
+                <translation>我觉得那倒也不错</translation>
+                <original>それはそれでもいいと思うんですけど</original>
+                <spell/>
+            </t>
+            <t index="336" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:18,954</start-time>
+                <end-time>00:22:20,975</end-time>
+                <translation>但能做到吗？</translation>
+                <original>できますかね</original>
+                <spell/>
+            </t>
+            <t index="337" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:20,975</start-time>
+                <end-time>00:22:26,200</end-time>
+                <translation>现在 如果不发生一场世界大战是回不到原始社会的</translation>
+                <original>今全世界に戦争を起こさないとそういうふうにはならないです</original>
+                <spell/>
+            </t>
+            <t index="338" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:26,200</start-time>
+                <end-time>00:22:27,340</end-time>
+                <translation>反过来
+逆に</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="339" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:27,320</start-time>
+                <end-time>00:22:28,320</end-time>
+                <translation>反过来又需要</translation>
+                <original>逆に</original>
+                <spell/>
+            </t>
+            <t index="340" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:28,320</start-time>
+                <end-time>00:22:31,175</end-time>
+                <translation>如果是核战争之后 倒是有可能发生吧</translation>
+                <original>核戦争の後だったら起きるでしょう</original>
+                <spell/>
+            </t>
+            <t index="341" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:31,175</start-time>
+                <end-time>00:22:32,125</end-time>
+                <translation>嗯</translation>
+                <original>はい</original>
+                <spell/>
+            </t>
+            <t index="342" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:32,125</start-time>
+                <end-time>00:22:33,000</end-time>
+                <translation>有很多这样的电影哦</translation>
+                <original>いろんな映画ありますよ</original>
+                <spell/>
+            </t>
+            <t index="343" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:33,000</start-time>
+                <end-time>00:22:34,575</end-time>
+                <translation>有的有的 《疯狂的麦克斯》</translation>
+                <original>ありますありますマッドマックス</original>
+                <spell/>
+            </t>
+            <t index="344" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:34,575</start-time>
+                <end-time>00:22:37,025</end-time>
+                <translation>对《疯狂的麦克斯》</translation>
+                <original>マッドマックス</original>
+                <spell/>
+            </t>
+            <t index="345" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:37,025</start-time>
+                <end-time>00:22:38,340</end-time>
+                <translation>就是那种感觉</translation>
+                <original>ああいう感じですよ</original>
+                <spell/>
+            </t>
+            <t index="346" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:39,775</start-time>
+                <end-time>00:22:42,944</end-time>
+                <translation>我想每个人都会想到</translation>
+                <original>誰もがね伊集院さんのように思うと思うんです</original>
+                <spell/>
+            </t>
+            <t index="347" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:42,944</start-time>
+                <end-time>00:22:44,340</end-time>
+                <translation>我也这么想</translation>
+                <original>私も思います</original>
+                <spell/>
+            </t>
+            <t index="348" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:44,340</start-time>
+                <end-time>00:22:47,550</end-time>
+                <translation>是不是回到封建社会就好了呢</translation>
+                <original>だったら封建社会に戻ればいいんじゃないかって</original>
+                <spell/>
+            </t>
+            <t index="349" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:47,550</start-time>
+                <end-time>00:22:52,200</end-time>
+                <translation>但这真的已经做不到了</translation>
+                <original>けれども本当にもうそれはできないんですよ</original>
+                <spell/>
+            </t>
+            <t index="350" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:52,200</start-time>
+                <end-time>00:22:54,200</end-time>
+                <translation>人为什么要思考</translation>
+                <original>人は何で考えるのか</original>
+                <spell/>
+            </t>
+            <t index="351" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:54,200</start-time>
+                <end-time>00:22:56,525</end-time>
+                <translation>又为什么要试图理解呢</translation>
+                <original>でなぜ理解しようとするのか</original>
+                <spell/>
+            </t>
+            <t index="352" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:22:56,525</start-time>
+                <end-time>00:23:00,425</end-time>
+                <translation>可以说是为了寻找经验教训</translation>
+                <original>それはノウハウを探すためという</original>
+                <spell/>
+            </t>
+            <t index="353" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:00,425</start-time>
+                <end-time>00:23:01,900</end-time>
+                <translation>当然是有这一面的</translation>
+                <original>もちろんそれもあります</original>
+                <spell/>
+            </t>
+            <t index="354" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:01,900</start-time>
+                <end-time>00:23:05,267</end-time>
+                <translation>但在不知如何是好的状态下</translation>
+                <original>けれどもどうしていいかわからない状態で</original>
+                <spell/>
+            </t>
+            <t index="355" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:05,267</start-time>
+                <end-time>00:23:07,936</end-time>
+                <translation>怎样确认自己脚下的路？</translation>
+                <original>足元をどう確かめるか</original>
+                <spell/>
+            </t>
+            <t index="356" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:07,936</start-time>
+                <end-time>00:23:11,100</end-time>
+                <translation>也是在思考这个呢</translation>
+                <original>っていうことで考えるわけですよね</original>
+                <spell/>
+            </t>
+            <t index="357" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:11,100</start-time>
+                <end-time>00:23:15,750</end-time>
+                <translation>这样想时 也不需要急着得出答案</translation>
+                <original>そうすると答えがすぐに出なくても</original>
+                <spell/>
+            </t>
+            <t index="358" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:15,750</start-time>
+                <end-time>00:23:19,950</end-time>
+                <translation>为之后得出答案创造立足点</translation>
+                <original>答えをこれから作っていく足場って</original>
+                <spell/>
+            </t>
+            <t index="359" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:19,950</start-time>
+                <end-time>00:23:27,075</end-time>
+                <translation>我认为这才是思考最重要的作用</translation>
+                <original>それが考えるっていうことのね一番重要な役割だと思うんです</original>
+                <spell/>
+            </t>
+            <t index="360" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:27,075</start-time>
+                <end-time>00:23:28,500</end-time>
+                <translation>不知道是否还来得及</translation>
+                <original>間に合うのかどうかわからないです</original>
+                <spell/>
+            </t>
+            <t index="361" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:28,500</start-time>
+                <end-time>00:23:31,760</end-time>
+                <translation>不过 比起放弃</translation>
+                <original>あのただまあ諦めるよりは</original>
+                <spell/>
+            </t>
+            <t index="362" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:31,760</start-time>
+                <end-time>00:23:35,040</end-time>
+                <translation>我还是想多了解一点 所以只有四晚</translation>
+                <original>少しでも知りたいと思うので四夜ですけどね</original>
+                <spell/>
+            </t>
+            <t index="363" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:35,040</start-time>
+                <end-time>00:23:38,525</end-time>
+                <translation>好的 下次再读得更深入一些吧</translation>
+                <original>はい、次回はちょっとさらに深く読んでいきたいと思います</original>
+                <spell/>
+            </t>
+            <t index="364" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:38,525</start-time>
+                <end-time>00:23:41,615</end-time>
+                <translation>西谷老师 非常感谢</translation>
+                <original>西谷さん今回はありがとうございました</original>
+                <spell/>
+            </t>
+            <t index="365" torder="1" vertical="0" time="" id="" hasRuby="0">
+                <start-time>00:23:41,615</start-time>
+                <end-time>00:23:42,615</end-time>
+                <translation>非常感谢</translation>
+                <original>ありがとうございました</original>
+                <spell/>
+            </t>
+        </part>
+    </body>
+</ysj>
