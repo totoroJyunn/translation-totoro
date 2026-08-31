@@ -1,0 +1,2820 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ysj>
+    <head>
+        <version>3</version>
+        <srt-meta>
+            <sub-font>PingFangSC-Regular</sub-font>
+            <sub-font-size>45</sub-font-size>
+            <sub-color>#FFFFFF</sub-color>
+            <sub-bold>no</sub-bold>
+            <sub-italic>no</sub-italic>
+            <sub-border-size>3</sub-border-size>
+            <sub-border-color>#000000</sub-border-color>
+            <sub-shadow-offset>0</sub-shadow-offset>
+            <sub-shadow-color>#000000</sub-shadow-color>
+            <sub-align-x>center</sub-align-x>
+            <sub-align-y>bottom</sub-align-y>
+            <sub-spacing>0</sub-spacing>
+            <sub-margin-x>25</sub-margin-x>
+            <sub-margin-y>22</sub-margin-y>
+        </srt-meta>
+        <meta>
+            <title>人人译视界字幕工程文件，人人译视界-智能协同翻译平台</title>
+            <format>srt</format>
+            <charset>UTF-8</charset>
+            <source-lang>jp</source-lang>
+            <target-lang>cn</target-lang>
+            <target-dub>target</target-dub>
+            <video>
+                <path>/Users/ttl/Desktop/totoro's life/translation-totoro/2026年8月/5.阿伦特《极权主义的起源》/第2回 帝国主义孕育的“种族思想”/NHKオンデマンド _ １００分ｄｅ名著 アーレント“全体主義の起原”　第２回「帝国主義が生んだ“人種思想”」.mp4</path>
+            </video>
+            <lock lock-content="0" pwd="" t="" lock-time="0"/>
+            <task id="" token="" type="1"/>
+            <replace-space enable="false">
+                <orig tailReplaceChars="。？！.?!" tailCheck="false" middleReplaceChars="、，；,;" middleCheck="false" middleReplaceCount="1"/>
+                <trans tailReplaceChars="。？！.?!" tailCheck="false" middleReplaceChars="、，；,;" middleCheck="false" middleReplaceCount="1"/>
+            </replace-space>
+            <correction updateTime="0">
+                <id/>
+                <path/>
+            </correction>
+            <marks>
+                <mark color="#4affff" builtin="1" inUse="1" top="">默认标记</mark>
+                <mark color="#339966" builtin="1" top="">硬字幕</mark>
+                <mark color="#ccffff" builtin="1" top="">歌词</mark>
+                <mark color="#ffcccc" builtin="1" top="">遮幅</mark>
+                <mark color="#ffff99" builtin="1" top="">敏感词</mark>
+                <mark color="#ccccff" builtin="1" top="">翻译错误</mark>
+                <mark color="#ff9966" builtin="1" top="翻译错误">错译</mark>
+                <mark color="#ff6666" builtin="1" top="翻译错误">表达不当</mark>
+                <mark color="#ffcccc" builtin="1" top="翻译错误">语法错误</mark>
+                <mark color="#ffcc99" builtin="1" top="">低错</mark>
+                <mark color="#ccff99" builtin="1" top="低错">漏译</mark>
+                <mark color="#cccccc" builtin="1" top="低错">格式错误</mark>
+                <mark color="#99ccff" builtin="1" top="低错">标点错误</mark>
+                <mark color="#66cc99" builtin="1" top="低错">断句不合理</mark>
+                <mark color="#ff9900" builtin="1" top="低错">字符长度不合规</mark>
+                <mark color="#ccff00" builtin="1" top="">听写错误</mark>
+                <mark color="#cc3399" builtin="1" top="听写错误">听错</mark>
+                <mark color="#993366" builtin="1" top="听写错误">漏听</mark>
+                <mark color="#666633" builtin="1" top="">时间轴错误</mark>
+                <mark color="#cccc99" builtin="1" top="时间轴错误">时间轴不准</mark>
+                <mark color="#009966" builtin="1" top="时间轴错误">时间轴重叠</mark>
+                <mark color="#0099cc" builtin="1" top="">小语种</mark>
+                <mark color="#006600" builtin="1" top="小语种">英语</mark>
+                <mark color="#336699" builtin="1" top="小语种">法语</mark>
+                <mark color="#ff0033" builtin="1" top="小语种">西语</mark>
+                <mark color="#663399" builtin="1" top="小语种">俄语</mark>
+                <mark color="#333333" builtin="1" top="小语种">韩语</mark>
+                <mark color="#996666" builtin="1" top="小语种">日语</mark>
+            </marks>
+            <characters/>
+            <detect-slices/>
+            <dub-dictionaries/>
+            <dubSerialNo/>
+        </meta>
+    </head>
+    <body stage="SubtitleEdit">
+        <part updateMethod="0" lastModifyTime="0">
+            <t index="1" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:01,915</start-time>
+                <end-time>00:00:06,150</end-time>
+                <translation>19世纪末 资本主义发达的欧洲
+19世期末資本主義が発達したヨーロッパは</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="2" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:06,150</start-time>
+                <end-time>00:00:08,950</end-time>
+                <translation>为了寻求原材料产地和市场
+原材料の産地と市場を求め</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="3" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:08,950</start-time>
+                <end-time>00:00:13,750</end-time>
+                <translation>将非洲和亚洲各国逐步殖民地化</translation>
+                <original>アフリカやアジアの国々を植民地化して行きます</original>
+                <spell/>
+            </t>
+            <t index="4" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:13,750</start-time>
+                <end-time>00:00:15,670</end-time>
+                <translation>这就是帝国主义的开端
+帝国主義の始まりです</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="5" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:18,920</start-time>
+                <end-time>00:00:23,650</end-time>
+                <translation>西欧人与和自己完全不同的人相遇</translation>
+                <original>西欧人たちは自分たちと全く異なる人々と出会い</original>
+                <spell/>
+            </t>
+            <t index="6" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:23,650</start-time>
+                <end-time>00:00:26,120</end-time>
+                <translation>认为他们是未开化的存在</translation>
+                <original>彼らを未開な存在であると</original>
+                <spell/>
+            </t>
+            <t index="7" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:26,120</start-time>
+                <end-time>00:00:28,540</end-time>
+                <translation>由此开始对他们产生优越感 </translation>
+                <original>優越感を持ち始めます</original>
+                <spell/>
+            </t>
+            <t index="8" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:31,230</start-time>
+                <end-time>00:00:33,925</end-time>
+                <translation>政治哲学家汉娜·阿伦特</translation>
+                <original>政治哲学者ハンナアーレントは</original>
+                <spell/>
+            </t>
+            <t index="9" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:33,925</start-time>
+                <end-time>00:00:35,825</end-time>
+                <translation>指出这种歧视意识</translation>
+                <original>こうした差別意識が</original>
+                <spell/>
+            </t>
+            <t index="10" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:35,825</start-time>
+                <end-time>00:00:40,070</end-time>
+                <translation>催生了将人类划分优劣的思想</translation>
+                <original>人類に優劣をつける思想を生み出したと指摘しました</original>
+                <spell/>
+            </t>
+            <t index="11" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:42,210</start-time>
+                <end-time>00:00:44,150</end-time>
+                <translation>100分de名著</translation>
+                <original>100分de名著</original>
+                <spell/>
+            </t>
+            <t index="12" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:44,150</start-time>
+                <end-time>00:00:46,850</end-time>
+                <translation>本回将探讨种族思想是如何走向
+人種思想がさらに危険な</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="13" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:46,850</start-time>
+                <end-time>00:00:51,860</end-time>
+                <translation>打着民族招牌的民族主义</translation>
+                <original>民族的ナショナリズムへとつながっていく過程に迫っていきます</original>
+                <spell/>
+            </t>
+            <t index="14" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:13,700</start-time>
+                <end-time>00:01:19,050</end-time>
+                <translation>第2回 帝国主义催生的“种族思想”
+第2回　帝国主義がうんだ「人種思想」</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="15" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:19,740</start-time>
+                <end-time>00:01:22,361</end-time>
+                <translation>100分de名著 主持人岛津有理子
+100分で名著司会の島津有理子です</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="16" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:22,361</start-time>
+                <end-time>00:01:24,025</end-time>
+                <translation>伊集院光
+伊集院光です</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="17" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:24,025</start-time>
+                <end-time>00:01:29,075</end-time>
+                <translation>本期介绍的名著是汉娜·阿伦特的《极权主义的起源》</translation>
+                <original>今回ご紹介している名著はハンナアーレントの全体主義の起原です</original>
+                <spell/>
+            </t>
+            <t index="18" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:29,075</start-time>
+                <end-time>00:01:33,000</end-time>
+                <translation>上一期我们看了第一卷的反犹主义</translation>
+                <original>前回は第1巻の反ユダヤ主義を見て行きましたが</original>
+                <spell/>
+            </t>
+            <t index="19" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:33,000</start-time>
+                <end-time>00:01:36,500</end-time>
+                <translation>其中有许多直逼人类本质的见解</translation>
+                <original>我々人間の本質に迫るような指摘が多くありましたね</original>
+                <spell/>
+            </t>
+            <t index="20" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:36,500</start-time>
+                <end-time>00:01:41,100</end-time>
+                <translation>是啊 感觉在当今的日本</translation>
+                <original>ねなんか今の日本にも</original>
+                <spell/>
+            </t>
+            <t index="21" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:41,100</start-time>
+                <end-time>00:01:43,582</end-time>
+                <translation>怎么说呢 感觉已经开始出现了</translation>
+                <original>もう何だろう現われ始めているかもしれない</original>
+                <spell/>
+            </t>
+            <t index="22" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:43,582</start-time>
+                <end-time>00:01:45,275</end-time>
+                <translation>她说的很多内容</translation>
+                <original>と思うようなことがたくさんありましたね</original>
+                <spell/>
+            </t>
+            <t index="23" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:45,275</start-time>
+                <end-time>00:01:48,100</end-time>
+                <translation>本期我们继续往下读</translation>
+                <original>今回もさらに読み進めていきたいと思います</original>
+                <spell/>
+            </t>
+            <t index="24" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:48,100</start-time>
+                <end-time>00:01:51,530</end-time>
+                <translation>指导老师是金泽大学教授仲正昌树
+指南役は金沢大学教授の仲正昌樹さんです</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="25" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:51,540</start-time>
+                <end-time>00:01:53,175</end-time>
+                <translation>（齐声）请多关照</translation>
+                <original>（一斉に）よろしくお願いします</original>
+                <spell/>
+            </t>
+            <t index="26" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:53,175</start-time>
+                <end-time>00:01:56,510</end-time>
+                <translation>第二回将讲解《极权主义的起源》第二卷
+2回目の今回は全体主義の起原の第2巻</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="27" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:56,560</start-time>
+                <end-time>00:01:58,797</end-time>
+                <translation>也就是“帝国主义”</translation>
+                <original>帝国主義ということなんですが</original>
+                <spell/>
+            </t>
+            <t index="28" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:58,797</start-time>
+                <end-time>00:02:00,700</end-time>
+                <translation>它究竟是什么呢？</translation>
+                <original>どういったものなんでしょうか</original>
+                <spell/>
+            </t>
+            <t index="29" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:00,700</start-time>
+                <end-time>00:02:05,637</end-time>
+                <translation>阿伦特将其作为构成极权主义的要素之一</translation>
+                <original>アーレントの全体主義を まああの形造った要素の1つとして</original>
+                <spell/>
+            </t>
+            <t index="30" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:05,637</start-time>
+                <end-time>00:02:09,241</end-time>
+                <translation>对“帝国主义”这一概念予以高度重视</translation>
+                <original>帝国主義っていうことをまあ重視しているわけですけれど</original>
+                <spell/>
+            </t>
+            <t index="31" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:09,241</start-time>
+                <end-time>00:02:12,711</end-time>
+                <translation>在第一卷中 她认为民族国家内部
+第1巻だとその民族国家の中で</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="32" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:12,711</start-time>
+                <end-time>00:02:15,325</end-time>
+                <translation>犹太人作为内部的异己分子</translation>
+                <original>まあユダヤ人が内部の異分子として</original>
+                <spell/>
+            </t>
+            <t index="33" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:15,325</start-time>
+                <end-time>00:02:18,116</end-time>
+                <translation>作为敌人浮现出来</translation>
+                <original>敵として浮上してきたと</original>
+                <spell/>
+            </t>
+            <t index="34" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:18,116</start-time>
+                <end-time>00:02:21,153</end-time>
+                <translation>将犹太人视为敌人的意识</translation>
+                <original>ユダヤ人を敵だと見るような意識が</original>
+                <spell/>
+            </t>
+            <t index="35" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:21,153</start-time>
+                <end-time>00:02:24,000</end-time>
+                <translation>在帝国主义争夺的过程中
+この帝国主義の争いの中で</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="36" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:24,000</start-time>
+                <end-time>00:02:28,775</end-time>
+                <translation>真正进化成了被称为种族主义的思想</translation>
+                <original>本当にこの人種主義と呼ばれるようなあの思想に進化して行ったと</original>
+                <spell/>
+            </t>
+            <t index="37" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:28,775</start-time>
+                <end-time>00:02:30,963</end-time>
+                <translation>而这种种族主义</translation>
+                <original>でこの人種主義っていうのが</original>
+                <spell/>
+            </t>
+            <t index="38" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:30,963</start-time>
+                <end-time>00:02:32,950</end-time>
+                <translation>随着它的扩张</translation>
+                <original>あの拡大して行ったことで</original>
+                <spell/>
+            </t>
+            <t index="39" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:32,950</start-time>
+                <end-time>00:02:40,500</end-time>
+                <translation>实际上让民族国家本身的根基实际上开始动摇</translation>
+                <original>実はその国民国家自体のあの根幹が実はあの揺らぎ始めると</original>
+                <spell/>
+            </t>
+            <t index="40" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:40,500</start-time>
+                <end-time>00:02:42,125</end-time>
+                <translation>-要好听听这一点了 -听起来很难啊</translation>
+                <original>-ちょっとその辺りをですね　-難しいそうですね</original>
+                <spell/>
+            </t>
+            <t index="41" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:42,125</start-time>
+                <end-time>00:02:44,440</end-time>
+                <translation>-嗯 -那么首先来看看帝国主义</translation>
+                <original>-はい -ではまず帝国主義が</original>
+                <spell/>
+            </t>
+            <t index="42" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:44,470</start-time>
+                <end-time>00:02:48,000</end-time>
+                <translation>是如何催生出种族思想的吧</translation>
+                <original>どのように人種思想を生んでいったのかを見てみましょう</original>
+                <spell/>
+            </t>
+            <t index="43" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:49,520</start-time>
+                <end-time>00:02:51,475</end-time>
+                <translation>19世纪末</translation>
+                <original>19世紀末</original>
+                <spell/>
+            </t>
+            <t index="44" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:51,475</start-time>
+                <end-time>00:02:55,225</end-time>
+                <translation>英国和法国等帝国主义瞄准的目标是</translation>
+                <original>イギリスやフランスなどの帝国主義が標的としたのが</original>
+                <spell/>
+            </t>
+            <t index="45" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:55,225</start-time>
+                <end-time>00:02:56,810</end-time>
+                <translation>非洲大陆</translation>
+                <original>アフリカ大陸でした</original>
+                <spell/>
+            </t>
+            <t index="46" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:58,740</start-time>
+                <end-time>00:03:03,650</end-time>
+                <translation>其中 在原本只是通往亚洲的中转站的南非</translation>
+                <original>中でもアジアへ向かう中継地に過ぎなかった南アフリカは</original>
+                <spell/>
+            </t>
+            <t index="47" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:03,650</start-time>
+                <end-time>00:03:06,064</end-time>
+                <translation>1870年代以后</translation>
+                <original>1870年代以降</original>
+                <spell/>
+            </t>
+            <t index="48" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:06,064</start-time>
+                <end-time>00:03:09,200</end-time>
+                <translation>发现了钻石和金矿</translation>
+                <original>ダイヤモンドや金の鉱山が発見され</original>
+                <spell/>
+            </t>
+            <t index="49" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:09,200</start-time>
+                <end-time>00:03:14,025</end-time>
+                <translation>大量人口从欧洲涌入</translation>
+                <original>ヨーロッパから大量の人がなだれ込んできます</original>
+                <spell/>
+            </t>
+            <t index="50" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:14,025</start-time>
+                <end-time>00:03:18,550</end-time>
+                <translation>由共享文化的人们组成的民族国家
+文化を共有する人々から成り立っている民族国家は</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="51" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:18,550</start-time>
+                <end-time>00:03:21,550</end-time>
+                <translation>在那里遇到了前所未见的</translation>
+                <original>そこで今まで見ることのなかった</original>
+                <spell/>
+            </t>
+            <t index="52" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:21,550</start-time>
+                <end-time>00:03:25,610</end-time>
+                <translation>过着与西方文明不同生活的人们</translation>
+                <original>西洋文明とは異なる暮らしをする人々と出会います</original>
+                <spell/>
+            </t>
+            <t index="53" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:29,050</start-time>
+                <end-time>00:03:33,860</end-time>
+                <translation>只要民族＜nation＞还建立在共享领土、人民和国家的
+国民＜ネーション＞は領土、人民、国家を</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="54" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:33,860</start-time>
+                <end-time>00:03:37,600</end-time>
+                <translation>这一历史层面的基础上</translation>
+                <original>歴史的に共有することに基づいている以上</original>
+                <spell/>
+            </t>
+            <t index="55" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:37,600</start-time>
+                <end-time>00:03:41,450</end-time>
+                <translation>就无法建立帝国</translation>
+                <original>帝国を建設することはできない</original>
+                <spell/>
+            </t>
+            <t index="56" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:41,450</start-time>
+                <end-time>00:03:45,050</end-time>
+                <translation>民族国家在进行征服时
+民族国家は征服を行った場合には</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="57" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:45,050</start-time>
+                <end-time>00:03:50,800</end-time>
+                <translation>只能同化异质居民并强制其“同意”
+異質な住民を同化し、「同意」を強制するしかない</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="58" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:50,800</start-time>
+                <end-time>00:03:53,875</end-time>
+                <translation>无法将他们整合</translation>
+                <original>彼らを統合することはできず</original>
+                <spell/>
+            </t>
+            <t index="59" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:53,875</start-time>
+                <end-time>00:03:58,350</end-time>
+                <translation>而且自己关于正义与法律的标准</translation>
+                <original>また正義と法についての自らの基準を</original>
+                <spell/>
+            </t>
+            <t index="60" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:58,350</start-time>
+                <end-time>00:04:01,825</end-time>
+                <translation>也无法套用在他们身上</translation>
+                <original>彼らに当てはめることもできない</original>
+                <spell/>
+            </t>
+            <t index="61" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:01,825</start-time>
+                <end-time>00:04:09,580</end-time>
+                <translation>因此 一旦进行征服 就总有陷入暴政的危险</translation>
+                <original>そのため征服を行えば常に圧政に陥る危険がある</original>
+                <spell/>
+            </t>
+            <t index="62" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:10,930</start-time>
+                <end-time>00:04:15,467</end-time>
+                <translation>在欧洲人眼中 外貌和习俗都不同的他们</translation>
+                <original>ヨーロッパ人の目には見かけも風習も異なる彼らは</original>
+                <spell/>
+            </t>
+            <t index="63" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:15,467</start-time>
+                <end-time>00:04:20,025</end-time>
+                <translation>变成了无法理解的存在
+理解不能な存在と移りました</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="64" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:20,025</start-time>
+                <end-time>00:04:23,200</end-time>
+                <translation>无法给予他们作为民族国家的一员的
+彼らに民族国家の一員として</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="65" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:23,200</start-time>
+                <end-time>00:04:27,050</end-time>
+                <translation>人权和法律的保护</translation>
+                <original>人権や法の保護を与えることはできなかったのです</original>
+                <spell/>
+            </t>
+            <t index="66" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:30,250</start-time>
+                <end-time>00:04:32,851</end-time>
+                <translation>这正是19世纪末</translation>
+                <original>そこに19世紀末の</original>
+                <spell/>
+            </t>
+            <t index="67" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:32,851</start-time>
+                <end-time>00:04:35,790</end-time>
+                <translation>帝国主义的巨大矛盾所在</translation>
+                <original>帝国主義の大きな矛盾がありました</original>
+                <spell/>
+            </t>
+            <t index="68" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:37,840</start-time>
+                <end-time>00:04:41,626</end-time>
+                <translation>当民族国家成为征服者时
+民族国家は征服者となる場合、</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="69" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:41,626</start-time>
+                <end-time>00:04:45,263</end-time>
+                <translation>必然会在被征服民族中
+必ず被征服民族の中に</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="70" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:45,263</start-time>
+                <end-time>00:04:51,073</end-time>
+                <translation>唤醒国民意识和对自治的要求</translation>
+                <original>国民意識と自治の要求と目覚めさせることになるが</original>
+                <spell/>
+            </t>
+            <t index="71" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:51,073</start-time>
+                <end-time>00:04:55,564</end-time>
+                <translation>面对这些要求 成为征服者的国民</translation>
+                <original>こうした要求に対して征服者となった国民は</original>
+                <spell/>
+            </t>
+            <t index="72" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:55,564</start-time>
+                <end-time>00:04:57,230</end-time>
+                <translation>在原理上是毫无防备的
+原理的に無防備だった</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="73" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:00,150</start-time>
+                <end-time>00:05:02,560</end-time>
+                <translation>为什么必须被统治</translation>
+                <original>なぜ支配されねばならないのか</original>
+                <spell/>
+            </t>
+            <t index="74" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:03,530</start-time>
+                <end-time>00:05:09,167</end-time>
+                <translation>为了对抗在殖民地人民之间自然产生的自治意识</translation>
+                <original>植民地の人々の間に自然に起こる自治の意識に対抗するためには</original>
+                <spell/>
+            </t>
+            <t index="75" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:09,167</start-time>
+                <end-time>00:05:12,855</end-time>
+                <translation>需要一种新的政治统治装置
+新たな政治的な支配装置が必要でした</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="76" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:15,422</start-time>
+                <end-time>00:05:19,219</end-time>
+                <translation>那就是人类存在种族</translation>
+                <original>それが人間には人種というものがあり</original>
+                <spell/>
+            </t>
+            <t index="77" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:19,219</start-time>
+                <end-time>00:05:21,605</end-time>
+                <translation>并且种族有优劣之分</translation>
+                <original>そこには優劣があるという</original>
+                <spell/>
+            </t>
+            <t index="78" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:21,605</start-time>
+                <end-time>00:05:23,520</end-time>
+                <translation>即种族思想</translation>
+                <original>人種思想だったのです</original>
+                <spell/>
+            </t>
+            <t index="79" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:24,940</start-time>
+                <end-time>00:05:29,158</end-time>
+                <translation>法国小说家阿蒂尔·德·戈比诺</translation>
+                <original>フランスの小説家アルテュール・ド・ゴビノーは</original>
+                <spell/>
+            </t>
+            <t index="80" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:29,158</start-time>
+                <end-time>00:05:34,510</end-time>
+                <translation>提倡白人在生物学上更优越的种族理论</translation>
+                <original>白人が生物学的に優れているという人種理論を提唱しました</original>
+                <spell/>
+            </t>
+            <t index="81" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:35,780</start-time>
+                <end-time>00:05:38,571</end-time>
+                <translation>为白人认为自己在殖民地人民面前
+白人は植民地の人々に</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="82" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:38,571</start-time>
+                <end-time>00:05:43,930</end-time>
+                <translation>应被当作神一样崇拜的想法提供了依据</translation>
+                <original>神のように崇められる存在なのだと考える根拠を与えたのです</original>
+                <spell/>
+            </t>
+            <t index="83" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:46,190</start-time>
+                <end-time>00:05:49,394</end-time>
+                <translation>在非洲扎根的种族思想</translation>
+                <original>アフリカに根を下した人種思想は</original>
+                <spell/>
+            </t>
+            <t index="84" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:49,394</start-time>
+                <end-time>00:05:52,625</end-time>
+                <translation>是当欧洲人遇到那些他们不仅无法理解</translation>
+                <original>ヨーロッパ人が理解することはおろか</original>
+                <spell/>
+            </t>
+            <t index="85" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:52,625</start-time>
+                <end-time>00:05:54,842</end-time>
+                <translation>甚至没有做好心理准备去承认</translation>
+                <original>自分たちと同じ人間だと</original>
+                <spell/>
+            </t>
+            <t index="86" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:54,842</start-time>
+                <end-time>00:06:00,329</end-time>
+                <translation>对方是与自己相同的人类的种族时</translation>
+                <original>認める心構えさえできていなかったような種族の人間たちと遭遇したとき</original>
+                <spell/>
+            </t>
+            <t index="87" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:00,329</start-time>
+                <end-time>00:06:05,420</end-time>
+                <translation>为了克服危机而创造出的非常手段
+危機を克服すべく生み出した非常手段だった</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="88" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:06,000</start-time>
+                <end-time>00:06:08,066</end-time>
+                <translation>嗯 怎么说呢 种族主义的确很牵强呢</translation>
+                <original>うんなんかもうかなり強引なというか</original>
+                <spell/>
+            </t>
+            <t index="89" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:08,066</start-time>
+                <end-time>00:06:09,540</end-time>
+                <translation>毫无道理可言</translation>
+                <original>理屈も何もなく</original>
+                <spell/>
+            </t>
+            <t index="90" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:09,540</start-time>
+                <end-time>00:06:13,274</end-time>
+                <translation>“我们之所以统治是因为我们更优越”</translation>
+                <original>我々が支配するのは我々の方が上だからだっていう</original>
+                <spell/>
+            </t>
+            <t index="91" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:13,274</start-time>
+                <end-time>00:06:14,975</end-time>
+                <translation>从欧洲人的视角来看</translation>
+                <original>そのヨーロッパ人から見ると</original>
+                <spell/>
+            </t>
+            <t index="92" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:14,975</start-time>
+                <end-time>00:06:19,608</end-time>
+                <translation>当时对非洲人完全 一无所知</translation>
+                <original>まあ当時アフリカの人ってあの全然 知らなかったわけですから</original>
+                <spell/>
+            </t>
+            <t index="93" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:19,608</start-time>
+                <end-time>00:06:24,973</end-time>
+                <translation>在他们看来就真的 那些非洲人的民族舞蹈啦</translation>
+                <original>なんか本当にアフリカの人たちのこの民族的なあの踊りだとか</original>
+                <spell/>
+            </t>
+            <t index="94" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:24,973</start-time>
+                <end-time>00:06:28,139</end-time>
+                <translation>音乐简直就像野兽的嚎叫</translation>
+                <original>音楽がもうなんか野獣の叫びに</original>
+                <spell/>
+            </t>
+            <t index="95" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:28,139</start-time>
+                <end-time>00:06:30,368</end-time>
+                <translation>而实际去统治他们之后</translation>
+                <original>でそれを実際に支配すると</original>
+                <spell/>
+            </t>
+            <t index="96" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:30,368</start-time>
+                <end-time>00:06:34,734</end-time>
+                <translation>就会觉得仿佛证明了自己的力量</translation>
+                <original>それであの自分の力が証明されたような気になると</original>
+                <spell/>
+            </t>
+            <t index="97" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:34,734</start-time>
+                <end-time>00:06:38,137</end-time>
+                <translation>阿伦特在第二卷中</translation>
+                <original>であのアーレントはその第2巻の中で</original>
+                <spell/>
+            </t>
+            <t index="98" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:38,137</start-time>
+                <end-time>00:06:41,713</end-time>
+                <translation>大量引用了约瑟夫·康拉德这位波兰出身的</translation>
+                <original>ジョセフコンラッドっていうあのポーランド出身の</original>
+                <spell/>
+            </t>
+            <t index="99" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:41,713</start-time>
+                <end-time>00:06:47,663</end-time>
+                <translation>英国作家的《黑暗的心》这部小说</translation>
+                <original>まあイギリスのこの作家の闇の奥っていう小説を
+まあかなり引用してるんですけど</original>
+                <spell/>
+            </t>
+            <t index="100" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:47,663</start-time>
+                <end-time>00:06:51,353</end-time>
+                <translation>其中有个叫库尔茨的登场人物</translation>
+                <original>その中でクルツっていう名前の登場人物が</original>
+                <spell/>
+            </t>
+            <t index="101" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:51,353</start-time>
+                <end-time>00:06:54,025</end-time>
+                <translation>他去了非洲 统治黑人</translation>
+                <original>まあアフリカに行って黒人を支配して</original>
+                <spell/>
+            </t>
+            <t index="102" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:54,025</start-time>
+                <end-time>00:06:56,770</end-time>
+                <translation>使自己的权力在那里得到了证明</translation>
+                <original>もう自分の力がここで証明されたと</original>
+                <spell/>
+            </t>
+            <t index="103" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:56,770</start-time>
+                <end-time>00:07:00,984</end-time>
+                <translation>故事讲的就是他获得了这样的实感</translation>
+                <original>でそういうようなこう実感を持つっていう話になってるわけね</original>
+                <spell/>
+            </t>
+            <t index="104" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:00,984</start-time>
+                <end-time>00:07:03,182</end-time>
+                <translation>顺便一提 这个库尔茨</translation>
+                <original>あっちなみにこのクルツっていうのは</original>
+                <spell/>
+            </t>
+            <t index="105" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:03,182</start-time>
+                <end-time>00:07:09,751</end-time>
+                <translation>是科波拉导演的《现代启示录》中卡茨上校的原型</translation>
+                <original>あのあのコッポラ監督のあの地獄の黙示録のカーツ大佐のモデル</original>
+                <spell/>
+            </t>
+            <t index="106" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:09,751</start-time>
+                <end-time>00:07:11,452</end-time>
+                <translation>只是读法不同啊
+読み方だ</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="107" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:11,452</start-time>
+                <end-time>00:07:13,153</end-time>
+                <translation>库尔茨和卡茨</translation>
+                <original>クルツとカーツ</original>
+                <spell/>
+            </t>
+            <t index="108" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:13,153</start-time>
+                <end-time>00:07:15,170</end-time>
+                <translation>所以这可以说是基督教式的</translation>
+                <original>これだからこうキリスト教的な</original>
+                <spell/>
+            </t>
+            <t index="109" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:15,200</start-time>
+                <end-time>00:07:19,277</end-time>
+                <translation>怎么说呢 一种有些扭曲的使命感吧</translation>
+                <original>何ていうかあの進学はちょっと歪んだようなもんだと思うんですけれど</original>
+                <spell/>
+            </t>
+            <t index="110" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:19,277</start-time>
+                <end-time>00:07:23,438</end-time>
+                <translation>自己统治这些野蛮的存在</translation>
+                <original>自分達はこういう野蛮なものを支配する</original>
+                <spell/>
+            </t>
+            <t index="111" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:23,438</start-time>
+                <end-time>00:07:27,259</end-time>
+                <translation>治理这个世界的使命是神赋予的 诸如此类</translation>
+                <original>でその世界を治める使命を 神から与えられているみたいな</original>
+                <spell/>
+            </t>
+            <t index="112" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:27,259</start-time>
+                <end-time>00:07:30,729</end-time>
+                <translation>实际上自己正在极大地改变这个世界</translation>
+                <original>実際この世界を大きく変革させていると</original>
+                <spell/>
+            </t>
+            <t index="113" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:30,729</start-time>
+                <end-time>00:07:33,698</end-time>
+                <translation>这与此前的闭塞感完全相反吧</translation>
+                <original>なんか閉塞感とは真逆ですよね</original>
+                <spell/>
+            </t>
+            <t index="114" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:33,698</start-time>
+                <end-time>00:07:34,561</end-time>
+                <translation>真的是这样</translation>
+                <original>本当にこう</original>
+                <spell/>
+            </t>
+            <t index="115" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:34,561</start-time>
+                <end-time>00:07:38,036</end-time>
+                <translation>去未开化之地大展拳脚 夹带着成功体验</translation>
+                <original>未開の地に行って羽ばたいて成功体験を挟んでるっていう</original>
+                <spell/>
+            </t>
+            <t index="116" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:38,036</start-time>
+                <end-time>00:07:40,138</end-time>
+                <translation>并不是说“有稍微不同的文化”之类的</translation>
+                <original>ちょっと異なった文化がありますとかじゃなくて</original>
+                <spell/>
+            </t>
+            <t index="117" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:40,138</start-time>
+                <end-time>00:07:42,936</end-time>
+                <translation>而是“我才是文明人”</translation>
+                <original>我こそが文明人であるっていう</original>
+                <spell/>
+            </t>
+            <t index="118" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:42,936</start-time>
+                <end-time>00:07:44,977</end-time>
+                <translation>-这种意识也会高涨吧 -是啊</translation>
+                <original>-意識も高まりますよね　-ですよね</original>
+                <spell/>
+            </t>
+            <t index="119" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:44,977</start-time>
+                <end-time>00:07:47,279</end-time>
+                <translation>非白色人种也虽然是人</translation>
+                <original>人間は人間なんだけれど</original>
+                <spell/>
+            </t>
+            <t index="120" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:47,279</start-time>
+                <end-time>00:07:49,505</end-time>
+                <translation>但果然和他们自己相比</translation>
+                <original>やっぱりこう自分たちに比べると</original>
+                <spell/>
+            </t>
+            <t index="121" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:49,505</start-time>
+                <end-time>00:07:53,692</end-time>
+                <translation>果然还是进化阶段落后的人啊</translation>
+                <original>この進化の段階がやっぱり遅い人間なんだと</original>
+                <spell/>
+            </t>
+            <t index="122" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:53,692</start-time>
+                <end-time>00:07:58,356</end-time>
+                <translation>这么说来 那就他们自己必须</translation>
+                <original>言う事はこれやっぱりこう自分たちがこれはこの連中を</original>
+                <spell/>
+            </t>
+            <t index="123" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:58,356</start-time>
+                <end-time>00:08:00,725</end-time>
+                <translation>去引导这些家伙</translation>
+                <original>やっぱりあの導いてやんないと</original>
+                <spell/>
+            </t>
+            <t index="124" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:00,725</start-time>
+                <end-time>00:08:02,930</end-time>
+                <translation>这些家伙靠自己实在没办法</translation>
+                <original>この連中地震どうしようもないし</original>
+                <spell/>
+            </t>
+            <t index="125" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:02,930</start-time>
+                <end-time>00:08:06,898</end-time>
+                <translation>自己引导他们这件事</translation>
+                <original>あのまあ彼らの自分たちが導いてやることは</original>
+                <spell/>
+            </t>
+            <t index="126" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:06,898</start-time>
+                <end-time>00:08:09,002</end-time>
+                <translation>也是为了他们好</translation>
+                <original>彼らのためにもなるんだと</original>
+                <spell/>
+            </t>
+            <t index="127" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:09,002</start-time>
+                <end-time>00:08:13,268</end-time>
+                <translation>这种事情以种族主义思想的形式</translation>
+                <original>そういうことがこの人種主義思想として</original>
+                <spell/>
+            </t>
+            <t index="128" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:13,268</start-time>
+                <end-time>00:08:18,870</end-time>
+                <translation>在欧洲大陆再次传播开来</translation>
+                <original>あのヨーロッパ大陸にこのもう一度あの羽戻っていくわけですね</original>
+                <spell/>
+            </t>
+            <t index="129" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:18,910</start-time>
+                <end-time>00:08:23,291</end-time>
+                <translation>于是就会想自己所在的国家的国民是优秀的</translation>
+                <original>やっぱりあの自分のあの国民というのは優れているから</original>
+                <spell/>
+            </t>
+            <t index="130" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:23,291</start-time>
+                <end-time>00:08:26,615</end-time>
+                <translation>所以在非洲这片前人未到之地</translation>
+                <original>このアフリカってこの前人未到の地で</original>
+                <spell/>
+            </t>
+            <t index="131" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:26,615</start-time>
+                <end-time>00:08:30,000</end-time>
+                <translation>自己的领土也能扩张到这种程度</translation>
+                <original>あの自分たちの領土もこれだけ広げられるんだと</original>
+                <spell/>
+            </t>
+            <t index="132" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:30,030</start-time>
+                <end-time>00:08:32,757</end-time>
+                <translation>从民族国家的思维方式来说
+民族国家という考え方で言うと</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="133" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:32,757</start-time>
+                <end-time>00:08:36,995</end-time>
+                <translation>在某种程度上种族主义就是一边制定规则一边让人适应</translation>
+                <original>ある程度こうなんかルール作りをしながらフィットさせていく</original>
+                <spell/>
+            </t>
+            <t index="134" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:36,995</start-time>
+                <end-time>00:08:41,630</end-time>
+                <translation>但当这样实在无法填补时 就是权宜之计了</translation>
+                <original>でもあまりにそれじゃ埋まらないってなったときの急場しのぎですよね</original>
+                <spell/>
+            </t>
+            <t index="135" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:41,640</start-time>
+                <end-time>00:08:45,589</end-time>
+                <translation>就是那种“不一样 就是不一样 所以没办法”的说法</translation>
+                <original>もう違いますともまったく違うもんなんだからしょうがないっていうやつなんだけど</original>
+                <spell/>
+            </t>
+            <t index="136" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:45,589</start-time>
+                <end-time>00:08:48,023</end-time>
+                <translation>这种斩钉截铁的结论会让他们心情畅快吧</translation>
+                <original>これが気持ちよかったでしょうねおそらく</original>
+                <spell/>
+            </t>
+            <t index="137" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:48,023</start-time>
+                <end-time>00:08:51,137</end-time>
+                <translation>各个民族国家的成员们
+各民族国家のまあ構成員たちが</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="138" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:51,137</start-time>
+                <end-time>00:08:54,813</end-time>
+                <translation>为了进一步强化自己的身份认同</translation>
+                <original>自分のアイデンティティをさらに強化して行くための</original>
+                <spell/>
+            </t>
+            <t index="139" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:54,813</start-time>
+                <end-time>00:08:57,470</end-time>
+                <translation>将种族主义变成了某种工具</translation>
+                <original>なんかこうツールにこうなってしまったと</original>
+                <spell/>
+            </t>
+            <t index="140" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:57,470</start-time>
+                <end-time>00:09:02,024</end-time>
+                <translation>我觉得就是这样的机制在起作用</translation>
+                <original>まあそういうメカニズムが働いているんじゃないかと思うんですね</original>
+                <spell/>
+            </t>
+            <t index="141" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:02,024</start-time>
+                <end-time>00:09:04,667</end-time>
+                <translation>那么 让我们把舞台转移到德国吧</translation>
+                <original>さあそれでは舞台をドイツへと移しましょう</original>
+                <spell/>
+            </t>
+            <t index="142" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:04,667</start-time>
+                <end-time>00:09:07,468</end-time>
+                <translation>这种人种思想在德国</translation>
+                <original>その人種思想がドイツにおいて</original>
+                <spell/>
+            </t>
+            <t index="143" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:07,468</start-time>
+                <end-time>00:09:09,990</end-time>
+                <translation>是如何变化的 让我们来看看吧</translation>
+                <original>どのように変化していたのか見てみましょう</original>
+                <spell/>
+            </t>
+            <t index="144" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:12,640</start-time>
+                <end-time>00:09:14,822</end-time>
+                <translation>德国的帝国主义</translation>
+                <original>ドイツにおける帝国主義は</original>
+                <spell/>
+            </t>
+            <t index="145" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:14,822</start-time>
+                <end-time>00:09:20,050</end-time>
+                <translation>走上了与英法等西欧国家不同的道路</translation>
+                <original>イギリスやフランスなどほかの西欧諸国とは別の道をたどりました</original>
+                <spell/>
+            </t>
+            <t index="146" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:22,660</start-time>
+                <end-time>00:09:26,578</end-time>
+                <translation>1871年实现国家统一的德国</translation>
+                <original>1871年に国家を統一したドイツは</original>
+                <spell/>
+            </t>
+            <t index="147" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:26,578</start-time>
+                <end-time>00:09:32,490</end-time>
+                <translation>在向亚洲和非洲进行殖民扩张方面落后于英国</translation>
+                <original>イギリスが行ったようなアジアアフリカへの植民地進出にて遅れます</original>
+                <spell/>
+            </t>
+            <t index="148" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:34,580</start-time>
+                <end-time>00:09:41,463</end-time>
+                <translation>因此德国开始致力于在欧洲大陆内部扩大统治区域</translation>
+                <original>そのためヨーロッパ大陸内で 支配地域を広めることを目指すようになるのです</original>
+                <spell/>
+            </t>
+            <t index="149" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:41,463</start-time>
+                <end-time>00:09:44,450</end-time>
+                <translation>这被称为大陆帝国主义
+これを大陸帝国主義と呼びます</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="150" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:46,740</start-time>
+                <end-time>00:09:50,168</end-time>
+                <translation>德意志帝国在1890年以后</translation>
+                <original>ドイツ帝国は1890年以降</original>
+                <spell/>
+            </t>
+            <t index="151" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:50,168</start-time>
+                <end-time>00:09:55,046</end-time>
+                <translation>怀有向東欧和巴尔干半岛扩张的野心</translation>
+                <original>東ヨーロッパやバルカン半島進出への野心を抱き</original>
+                <spell/>
+            </t>
+            <t index="152" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:55,046</start-time>
+                <end-time>00:09:58,910</end-time>
+                <translation>这成为第一次世界大战的原因之一</translation>
+                <original>これが第一次大戦の原因の一つとなります</original>
+                <spell/>
+            </t>
+            <t index="153" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:03,280</start-time>
+                <end-time>00:10:07,320</end-time>
+                <translation>然而德意志帝国战败</translation>
+                <original>しかしドイツ帝国は敗戦</original>
+                <spell/>
+            </t>
+            <t index="154" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:07,320</start-time>
+                <end-time>00:10:13,183</end-time>
+                <translation>新诞生的魏玛共和国为了激发德国人的民族意识</translation>
+                <original>新たに誕生したワイマール共和国はドイツ人の民族意識を高揚させる</original>
+                <spell/>
+            </t>
+            <t index="155" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:13,183</start-time>
+                <end-time>00:10:16,010</end-time>
+                <translation>将《德意志之歌》制定为国歌</translation>
+                <original>ドイツの歌を国歌に制定します</original>
+                <spell/>
+            </t>
+            <t index="156" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:17,978</start-time>
+                <end-time>00:10:19,987</end-time>
+                <translation>他们在战败的创伤中
+敗戦の痛手の中</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="157" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:19,987</start-time>
+                <end-time>00:10:23,337</end-time>
+                <translation>追思着历史上德意志民族曾经居住的</translation>
+                <original>歴史的にドイツ民族が住んでいた</original>
+                <spell/>
+            </t>
+            <t index="158" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:23,337</start-time>
+                <end-time>00:10:27,285</end-time>
+                <translation>应当守护的广袤土地</translation>
+                <original>守るべき土地の広大さに思いを馳せたのです</original>
+                <spell/>
+            </t>
+            <t index="159" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:29,110</start-time>
+                <end-time>00:10:31,240</end-time>
+                <translation>为了守护这个祖国</translation>
+                <original>この祖国を守るため</original>
+                <spell/>
+            </t>
+            <t index="160" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:31,240</start-time>
+                <end-time>00:10:34,538</end-time>
+                <translation>只要兄弟般团结始终存在</translation>
+                <original>常に兄弟の団結があるならば</original>
+                <spell/>
+            </t>
+            <t index="161" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:34,538</start-time>
+                <end-time>00:10:37,469</end-time>
+                <translation>从马斯河到梅梅尔河</translation>
+                <original>マース川からメーメル川まで</original>
+                <spell/>
+            </t>
+            <t index="162" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:37,469</start-time>
+                <end-time>00:10:40,086</end-time>
+                <translation>从埃奇河到贝尔特海峡</translation>
+                <original>エチュ川からベルト海峡まで</original>
+                <spell/>
+            </t>
+            <t index="163" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:40,086</start-time>
+                <end-time>00:10:45,111</end-time>
+                <translation>德国 德国 统治一切的德国</translation>
+                <original>ドイツ、ドイツすべての上に君臨するドイツ</original>
+                <spell/>
+            </t>
+            <t index="164" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:45,111</start-time>
+                <end-time>00:10:48,840</end-time>
+                <translation>统治全世界的德国</translation>
+                <original>世界のすべての上に君臨するドイツ</original>
+                <spell/>
+            </t>
+            <t index="165" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:51,420</start-time>
+                <end-time>00:10:54,320</end-time>
+                <translation>这首歌象征着对遍布欧洲大陆的</translation>
+                <original>この歌にはヨーロッパ大陸に広がる</original>
+                <spell/>
+            </t>
+            <t index="166" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:54,320</start-time>
+                <end-time>00:10:58,380</end-time>
+                <translation>对自身民族血统的自豪</translation>
+                <original>民族の血に対する誇りが象徴されていたのです</original>
+                <spell/>
+            </t>
+            <t index="167" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:01,890</start-time>
+                <end-time>00:11:04,190</end-time>
+                <translation>进一步地 德国认为必须夺回</translation>
+                <original>やがてドイツは大昔から</original>
+                <spell/>
+            </t>
+            <t index="168" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:04,190</start-time>
+                <end-time>00:11:09,780</end-time>
+                <translation>自古以来就应属于德意志民族的土地</translation>
+                <original>ドイツ民族のものであるはずの土地を取り戻さなければいけないと考えます</original>
+                <spell/>
+            </t>
+            <t index="169" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:11,320</start-time>
+                <end-time>00:11:16,595</end-time>
+                <translation>这就是纳粹所体现的“打着民族招牌的民族主义“</translation>
+                <original>それがナチスが体現した民族的ナショナリズム</original>
+                <spell/>
+            </t>
+            <t index="170" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:16,595</start-time>
+                <end-time>00:11:20,900</end-time>
+                <translation>旨在实现血缘共同体的民族统一</translation>
+                <original>血の共同体として民族の統一を目指すものでした</original>
+                <spell/>
+            </t>
+            <t index="171" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:22,600</start-time>
+                <end-time>00:11:26,618</end-time>
+                <translation>然而德国所追求的广阔区域</translation>
+                <original>しかしドイツが求めた広大な領域は</original>
+                <spell/>
+            </t>
+            <t index="172" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:26,618</start-time>
+                <end-time>00:11:31,145</end-time>
+                <translation>实际上居住着许多德意志民族以外的民族</translation>
+                <original>実際にはドイツ人以外の民族が多く住んでいました</original>
+                <spell/>
+            </t>
+            <t index="173" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:33,020</start-time>
+                <end-time>00:11:34,710</end-time>
+                <translation>阿伦特写道</translation>
+                <original>アーレントは書いています</original>
+                <spell/>
+            </t>
+            <t index="174" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:37,660</start-time>
+                <end-time>00:11:42,504</end-time>
+                <translation>从政治上看 打着民族招牌的民族主义的特征</translation>
+                <original>政治的に見れば民族的ナショナリズムの特徴は</original>
+                <spell/>
+            </t>
+            <t index="175" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:42,504</start-time>
+                <end-time>00:11:47,031</end-time>
+                <translation>是认为自己的民族被“敌人的世界”所包围</translation>
+                <original>自分の民族が「敵の世界」に取り囲まれて</original>
+                <spell/>
+            </t>
+            <t index="176" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:47,031</start-time>
+                <end-time>00:11:52,501</end-time>
+                <translation>主张自己处于以一人对抗全体的状态</translation>
+                <original>1人で全てを敵とする状態に置かれているという主張だ</original>
+                <spell/>
+            </t>
+            <t index="177" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:52,501</start-time>
+                <end-time>00:11:54,464</end-time>
+                <translation>从这种观点来看</translation>
+                <original>この見方からすれば</original>
+                <spell/>
+            </t>
+            <t index="178" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:54,464</start-time>
+                <end-time>00:12:01,922</end-time>
+                <translation>在这个世界上 除了自己与除自己之外的所有其他事物之间的区别以外
+この世界には自分自身と自分以外の他のすべてとの間の区別以外には</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="179" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:01,922</start-time>
+                <end-time>00:12:05,274</end-time>
+                <translation>不存在任何区别</translation>
+                <original>いかなる区別も存在しない</original>
+                <spell/>
+            </t>
+            <t index="180" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:05,274</start-time>
+                <end-time>00:12:08,142</end-time>
+                <translation>“打着民族招牌的民族主义”总是</translation>
+                <original>民族的ナショナリズムは常に</original>
+                <spell/>
+            </t>
+            <t index="181" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:08,142</start-time>
+                <end-time>00:12:11,830</end-time>
+                <translation>主张自己的民族是无与伦比的民族
+自分の民族は比類なき民族である</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="182" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:11,830</start-time>
+                <end-time>00:12:13,122</end-time>
+                <translation>主张其存在</translation>
+                <original>その存在は</original>
+                <spell/>
+            </t>
+            <t index="183" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:13,122</start-time>
+                <end-time>00:12:19,490</end-time>
+                <translation>不可能与其他各民族以同等权利存在</translation>
+                <original>他の諸民族が同じ権利を持って存在することとは 相容れないと主張する</original>
+                <spell/>
+            </t>
+            <t index="184" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:22,600</start-time>
+                <end-time>00:12:26,106</end-time>
+                <translation>认为德意志民族是最优越的民族
+ドイツ民族細が最上位の民族であり</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="185" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:26,106</start-time>
+                <end-time>00:12:31,260</end-time>
+                <translation>拥有支配其他欧洲民族的权利</translation>
+                <original>他のヨーロッパの民族を支配する権利があると考えたのです</original>
+                <spell/>
+            </t>
+            <t index="186" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:35,050</start-time>
+                <end-time>00:12:38,524</end-time>
+                <translation>就以这种可怕的形式反弹回来了啊</translation>
+                <original>こういう恐ろしい形でフィードバックされるんですね</original>
+                <spell/>
+            </t>
+            <t index="187" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:38,524</start-time>
+                <end-time>00:12:41,973</end-time>
+                <translation>从认为作为人种是有上下之分的</translation>
+                <original>その人種として 上・下があるんだ</original>
+                <spell/>
+            </t>
+            <t index="188" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:41,973</start-time>
+                <end-time>00:12:47,070</end-time>
+                <translation>到优越的人支配低劣的人才是正确的形式</translation>
+                <original>で上の者が下の者を支配するのは正しい形だ</original>
+                <spell/>
+            </t>
+            <t index="189" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:47,070</start-time>
+                <end-time>00:12:52,035</end-time>
+                <translation>这是魏玛共和国时代的德国国家之歌《德意志之歌》</translation>
+                <original>こちらがワイマール共和国時代のドイツ国家ドイツの歌</original>
+                <spell/>
+            </t>
+            <t index="190" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:52,035</start-time>
+                <end-time>00:12:56,083</end-time>
+                <translation>然后我们把歌词所示的德意志民族领域表示了出来</translation>
+                <original>そしてその歌詞が示すドイツ民族の領域を表してみました</original>
+                <spell/>
+            </t>
+            <t index="191" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:56,083</start-time>
+                <end-time>00:13:00,944</end-time>
+                <translation>这个时代德意志民族的居住区域</translation>
+                <original>この時代ドイツ民族のあの居住地域っていうのは</original>
+                <spell/>
+            </t>
+            <t index="192" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:00,944</start-time>
+                <end-time>00:13:04,028</end-time>
+                <translation>并不是并不下载</translation>
+                <original>あのこういうなんかこう狭いとこじゃなくて</original>
+                <spell/>
+            </t>
+            <t index="193" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:04,028</start-time>
+                <end-time>00:13:09,505</end-time>
+                <translation>而是更加 特别是向东边扩展的</translation>
+                <original>もっと特にこう 東のほうに広がっているんじゃないかと</original>
+                <spell/>
+            </t>
+            <t index="194" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:09,505</start-time>
+                <end-time>00:13:12,030</end-time>
+                <translation>作为原本的民族</translation>
+                <original>本来の民族としての</original>
+                <spell/>
+            </t>
+            <t index="195" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:12,060</start-time>
+                <end-time>00:13:14,839</end-time>
+                <translation>他们把自己的故乡划得相当广阔</translation>
+                <original>自分たちの故郷っていうのを結構広く取ってる</original>
+                <spell/>
+            </t>
+            <t index="196" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:14,839</start-time>
+                <end-time>00:13:19,750</end-time>
+                <translation>潜在包括的不只是在大战中失去的地方</translation>
+                <original>で元々そういう潜在的にあったのが 大戦で失ったとこだけじゃなくて</original>
+                <spell/>
+            </t>
+            <t index="197" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:19,750</start-time>
+                <end-time>00:13:22,180</end-time>
+                <translation>而是所有德意志民族曾经居住过的地方</translation>
+                <original>もうドイツ人が民族が居住していたところ</original>
+                <spell/>
+            </t>
+            <t index="198" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:22,180</start-time>
+                <end-time>00:13:24,682</end-time>
+                <translation>都应该全部归他们自己所有</translation>
+                <original>全部あの自分たちのものに</original>
+                <spell/>
+            </t>
+            <t index="199" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:24,682</start-time>
+                <end-time>00:13:27,284</end-time>
+                <translation>这样的一种创想</translation>
+                <original>すべきだとそういう発想ね</original>
+                <spell/>
+            </t>
+            <t index="200" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:27,284</start-time>
+                <end-time>00:13:29,705</end-time>
+                <translation>歌词真是相当强烈啊</translation>
+                <original>なかなかすごい歌詞ですよね</original>
+                <spell/>
+            </t>
+            <t index="201" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:29,705</start-time>
+                <end-time>00:13:32,960</end-time>
+                <translation>很激昂呢 所以这在现在的德国</translation>
+                <original>強烈ですね　だからこれもよくこう</original>
+                <spell/>
+            </t>
+            <t index="202" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:32,960</start-time>
+                <end-time>00:13:36,270</end-time>
+                <translation>当谈到新纳粹主义抬头 很危险时</translation>
+                <original>今ドイツでネオナチズムが台頭しては危ないって話する時に</original>
+                <spell/>
+            </t>
+            <t index="203" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:36,270</start-time>
+                <end-time>00:13:38,329</end-time>
+                <translation>就会说好像又能听到这首歌了</translation>
+                <original>またこの歌が聞こえてきそうだ</original>
+                <spell/>
+            </t>
+            <t index="204" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:38,329</start-time>
+                <end-time>00:13:42,332</end-time>
+                <translation>经常在这样的语境中被提及</translation>
+                <original>っていうような文脈でよく引き合いに出されるんですね</original>
+                <spell/>
+            </t>
+            <t index="205" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:42,332</start-time>
+                <end-time>00:13:44,520</end-time>
+                <translation>然后进入19世纪</translation>
+                <original>で19世紀にはいって</original>
+                <spell/>
+            </t>
+            <t index="206" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:44,550</start-time>
+                <end-time>00:13:48,375</end-time>
+                <translation>在这种民族主义逐渐高涨的过程中</translation>
+                <original>このナショナリズムがだんだんと高まっていく中で</original>
+                <spell/>
+            </t>
+            <t index="207" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:48,375</start-time>
+                <end-time>00:13:50,575</end-time>
+                <translation>人们开始觉得“nation”这个概念还是有点</translation>
+                <original>ちょっとネーションではやっぱりちょっとこう</original>
+                <spell/>
+            </t>
+            <t index="208" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:50,575</start-time>
+                <end-time>00:13:52,887</end-time>
+                <translation>框架是不是太狭窄了</translation>
+                <original>概念の枠が狭いんじゃないかと</original>
+                <spell/>
+            </t>
+            <t index="209" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:52,887</start-time>
+                <end-time>00:13:54,553</end-time>
+                <translation>“nation”概念本身</translation>
+                <original>ネーションの方が</original>
+                <spell/>
+            </t>
+            <t index="210" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:54,553</start-time>
+                <end-time>00:13:58,639</end-time>
+                <translation>认为我们应该成为一个政治单位</translation>
+                <original>自分たちは一つの政治的なこう単位であるべきだと</original>
+                <spell/>
+            </t>
+            <t index="211" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:58,639</start-time>
+                <end-time>00:14:00,051</end-time>
+                <translation>我们应该自重</translation>
+                <original>自分たちで自重すべきだ</original>
+                <spell/>
+            </t>
+            <t index="212" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:00,051</start-time>
+                <end-time>00:14:03,421</end-time>
+                <translation>是拥有这种明确意识的人们的集合</translation>
+                <original>って明確な意識を持った人たちの集まりなんですけれど</original>
+                <spell/>
+            </t>
+            <t index="213" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:03,421</start-time>
+                <end-time>00:14:07,374</end-time>
+                <translation>与之相对 就有了“Volk”这个概念</translation>
+                <original>そこでこのホルくってこの概念が</original>
+                <spell/>
+            </t>
+            <t index="214" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:07,374</start-time>
+                <end-time>00:14:11,151</end-time>
+                <translation>“同族Volk”这个概念就开始具有意义了</translation>
+                <original>民族volkという概念が意味を持ってくるわけなんですけれど</original>
+                <spell/>
+            </t>
+            <t index="215" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:11,151</start-time>
+                <end-time>00:14:13,610</end-time>
+                <translation>就像英语folk dance中的volk一样</translation>
+                <original>英語のフォークダンスのフォークだとか</original>
+                <spell/>
+            </t>
+            <t index="216" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:13,610</start-time>
+                <end-time>00:14:17,680</end-time>
+                <translation>原本volk只是“民众”这样一个简单的意思</translation>
+                <original>もともとは民衆っていうまあ単純な意味だったんですけれど</original>
+                <spell/>
+            </t>
+            <t index="217" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:17,710</start-time>
+                <end-time>00:14:20,138</end-time>
+                <translation>只要是自己祖先居住过的地方</translation>
+                <original>自分たちの先祖が住んでいたところって</original>
+                <spell/>
+            </t>
+            <t index="218" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:20,138</start-time>
+                <end-time>00:14:23,120</end-time>
+                <translation>就还有自己的同胞</translation>
+                <original>にはやっぱりこう自分たちと同胞がまだいて</original>
+                <spell/>
+            </t>
+            <t index="219" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:23,120</start-time>
+                <end-time>00:14:25,967</end-time>
+                <translation>这就让“民族”的概念实质上更广泛了</translation>
+                <original>実はもうもっとこう広大に広がっているんじゃないかと</original>
+                <spell/>
+            </t>
+            <t index="220" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:25,967</start-time>
+                <end-time>00:14:29,569</end-time>
+                <translation>这些人也实际上全都是Volk</translation>
+                <original>でこの人たちが実は全部volkとして</original>
+                <spell/>
+            </t>
+            <t index="221" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:29,569</start-time>
+                <end-time>00:14:30,557</end-time>
+                <translation>与我们是一体的</translation>
+                <original>一体なんだと</original>
+                <spell/>
+            </t>
+            <t index="222" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:30,557</start-time>
+                <end-time>00:14:33,442</end-time>
+                <translation>这样的意识就产生了</translation>
+                <original>そういう意識があの生まれてきた</original>
+                <spell/>
+            </t>
+            <t index="223" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:33,442</start-time>
+                <end-time>00:14:37,684</end-time>
+                <translation>这就是所谓的打着民族招牌的民族主义吧</translation>
+                <original>それが民族的ナショナリズムということになるわけですか</original>
+                <spell/>
+            </t>
+            <t index="224" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:37,684</start-time>
+                <end-time>00:14:39,590</end-time>
+                <translation>它起初是非常朴素的简单的</translation>
+                <original>最初はなんかもうちょっと素朴に</original>
+                <spell/>
+            </t>
+            <t index="225" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:39,590</start-time>
+                <end-time>00:14:43,628</end-time>
+                <translation>主张把访问一下祖先居住过的土地之类的</translation>
+                <original>この祖先が住んでいた土地をなんかこう訪問しようと</original>
+                <spell/>
+            </t>
+            <t index="226" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:43,628</start-time>
+                <end-time>00:14:46,031</end-time>
+                <translation>就是这种稍微朴素的运动</translation>
+                <original>なんかそういうこうちょっと素朴な運動で</original>
+                <spell/>
+            </t>
+            <t index="227" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:46,031</start-time>
+                <end-time>00:14:49,323</end-time>
+                <translation>举例就是那时的一种叫“漂鸟运动”的运动</translation>
+                <original>例えばワンダーフォーゲルって運動はありますけれど</original>
+                <spell/>
+            </t>
+            <t index="228" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:49,323</start-time>
+                <end-time>00:14:51,869</end-time>
+                <translation>这里的漂鸟运动</translation>
+                <original>あのワンダーワンダーフォーゲルっていうのは</original>
+                <spell/>
+            </t>
+            <t index="229" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:51,869</start-time>
+                <end-time>00:14:54,185</end-time>
+                <translation>原本是一种青年运动</translation>
+                <original>あれ元々青年運動だったんですね</original>
+                <spell/>
+            </t>
+            <t index="230" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:54,185</start-time>
+                <end-time>00:14:58,042</end-time>
+                <translation>那些青年们在具有德意志风格的土地上</translation>
+                <original>であの青年たちがドイツ的ななんかこう土地を</original>
+                <spell/>
+            </t>
+            <t index="231" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:58,042</start-time>
+                <end-time>00:14:59,560</end-time>
+                <translation>四处游历</translation>
+                <original>まああの渡り歩いて</original>
+                <spell/>
+            </t>
+            <t index="232" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:59,590</start-time>
+                <end-time>00:15:03,815</end-time>
+                <translation>想要重新好好地 用自己的身体去体验何为德意志</translation>
+                <original>ドイツというものをもう一回こうきちんと 自分の体で体験しようと</original>
+                <spell/>
+            </t>
+            <t index="233" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:03,815</start-time>
+                <end-time>00:15:05,669</end-time>
+                <translation>就是这样朴素的运动</translation>
+                <original>そういう運動だったんですね</original>
+                <spell/>
+            </t>
+            <t index="234" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:05,669</start-time>
+                <end-time>00:15:09,427</end-time>
+                <translation>现在社团名称里不也有“漂鸟运动部”吗</translation>
+                <original>今でも部活の名前でもワンダーフォーゲル部じゃないですか</original>
+                <spell/>
+            </t>
+            <t index="235" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:09,427</start-time>
+                <end-time>00:15:11,140</end-time>
+                <translation>大概就是轻度登山的意思吧</translation>
+                <original>なんか軽い登山っていう意味なのかな</original>
+                <spell/>
+            </t>
+            <t index="236" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:11,150</start-time>
+                <end-time>00:15:12,235</end-time>
+                <translation>我也这么以为</translation>
+                <original>思いつく思ってる</original>
+                <spell/>
+            </t>
+            <t index="237" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:12,235</start-time>
+                <end-time>00:15:14,559</end-time>
+                <translation>虽然从没想过它的原理</translation>
+                <original>原理を考えたこともなかったんですけど</original>
+                <spell/>
+            </t>
+            <t index="238" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:14,559</start-time>
+                <end-time>00:15:18,994</end-time>
+                <translation>就是大家一起巡游有德意志民族存在痕迹的地方</translation>
+                <original>ドイツ民族がもう居た形跡がある所みんなでめぐろうぜっていうの</original>
+                <spell/>
+            </t>
+            <t index="239" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:18,994</start-time>
+                <end-time>00:15:22,325</end-time>
+                <translation>他们自己形成了一个血缘共同体</translation>
+                <original>自分がひとつのまあ血族共同体を</original>
+                <spell/>
+            </t>
+            <t index="240" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:22,325</start-time>
+                <end-time>00:15:25,811</end-time>
+                <translation>要把它重新全部连接起来</translation>
+                <original>形成していてそれもう一回全部繋いでいって</original>
+                <spell/>
+            </t>
+            <t index="241" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:25,811</start-time>
+                <end-time>00:15:30,498</end-time>
+                <translation>必须再次成为一个真正伟大的民族</translation>
+                <original>あの本当に偉大な民族にもう一回ならないといけないと</original>
+                <spell/>
+            </t>
+            <t index="242" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:30,498</start-time>
+                <end-time>00:15:31,843</end-time>
+                <translation>这样一来</translation>
+                <original>でそうして行くと</original>
+                <spell/>
+            </t>
+            <t index="243" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:31,843</start-time>
+                <end-time>00:15:37,083</end-time>
+                <translation>民族国家这个框架就逐渐动摇了</translation>
+                <original>国民国家という枠組みがこうだんだんと揺らいでくるんです</original>
+                <spell/>
+            </t>
+            <t index="244" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:37,083</start-time>
+                <end-time>00:15:39,020</end-time>
+                <translation>在有了这些之后</translation>
+                <original>そういうものがあった上で</original>
+                <spell/>
+            </t>
+            <t index="245" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:39,020</start-time>
+                <end-time>00:15:42,525</end-time>
+                <translation>纳粹的出现就有了土壤</translation>
+                <original>そのナチスがやっぱりこう出てくるこう土壌になると</original>
+                <spell/>
+            </t>
+            <t index="246" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:42,525</start-time>
+                <end-time>00:15:45,790</end-time>
+                <translation>从漂鸟运动部到纳粹</translation>
+                <original>ワンダーフォーゲル部からナチスまでね</original>
+                <spell/>
+            </t>
+            <t index="247" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:45,790</start-time>
+                <end-time>00:15:49,894</end-time>
+                <translation>到底从哪里开始不对劲的呢</translation>
+                <original>そのどこからおかしいですかこれは</original>
+                <spell/>
+            </t>
+            <t index="248" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:49,894</start-time>
+                <end-time>00:15:54,165</end-time>
+                <translation>大概还是经济层面上的闭塞感</translation>
+                <original>多分まあこれやっぱり経済的な意味での閉塞感と</original>
+                <spell/>
+            </t>
+            <t index="249" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:54,165</start-time>
+                <end-time>00:15:57,864</end-time>
+                <translation>再加上一些政治因素交织在一起</translation>
+                <original>それにちょっと政治的な要因がやっぱり絡んできてるんだと思うんですね</original>
+                <spell/>
+            </t>
+            <t index="250" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:57,864</start-time>
+                <end-time>00:16:00,071</end-time>
+                <translation>让他们感到自己发展空间</translation>
+                <original>自分たちが発展する地を</original>
+                <spell/>
+            </t>
+            <t index="251" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:00,071</start-time>
+                <end-time>00:16:02,551</end-time>
+                <translation>必须要得到保护</translation>
+                <original>やっぱりあの確保しないといけないと</original>
+                <spell/>
+            </t>
+            <t index="252" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:02,551</start-time>
+                <end-time>00:16:05,088</end-time>
+                <translation>那么就要去东方了</translation>
+                <original>じゃあいくとすればもう東しかないわけ</original>
+                <spell/>
+            </t>
+            <t index="253" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:05,088</start-time>
+                <end-time>00:16:08,346</end-time>
+                <translation>于是就把高度意识转向东方</translation>
+                <original>で東でその東に高意識を向けて</original>
+                <spell/>
+            </t>
+            <t index="254" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:08,346</start-time>
+                <end-time>00:16:10,681</end-time>
+                <translation>但他们想把这一侧也归为自己的势力圈后</translation>
+                <original>こっち自分の勢力圏だと思った時に</original>
+                <spell/>
+            </t>
+            <t index="255" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:10,681</start-time>
+                <end-time>00:16:13,261</end-time>
+                <translation>想到与那里的人有着民族上的联系</translation>
+                <original>民族的なつながりっていうのがあるから</original>
+                <spell/>
+            </t>
+            <t index="256" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:13,261</start-time>
+                <end-time>00:16:18,742</end-time>
+                <translation>就产生了想把这作为正当化理由的欲望</translation>
+                <original>なんかそれをどうも正当化材料として使いたいって欲求が出る</original>
+                <spell/>
+            </t>
+            <t index="257" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:18,742</start-time>
+                <end-time>00:16:23,351</end-time>
+                <translation>然后这次又因为战败</translation>
+                <original>でそれが今度はあのもう敗戦になったせいで</original>
+                <spell/>
+            </t>
+            <t index="258" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:23,351</start-time>
+                <end-time>00:16:24,595</end-time>
+                <translation>领土被夺走</translation>
+                <original>領土を取られると</original>
+                <spell/>
+            </t>
+            <t index="259" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:24,595</start-time>
+                <end-time>00:16:26,256</end-time>
+                <translation>而且还有赔偿金
+しかも賠償金</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="260" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:26,256</start-time>
+                <end-time>00:16:29,123</end-time>
+                <translation>终于走投无路了</translation>
+                <original>いよいよ手詰まりになった訳ですね</original>
+                <spell/>
+            </t>
+            <t index="261" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:29,123</start-time>
+                <end-time>00:16:32,420</end-time>
+                <translation>这样一来 在观念上</translation>
+                <original>そうするとなんかもうこの観念的に</original>
+                <spell/>
+            </t>
+            <t index="262" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:32,450</start-time>
+                <end-time>00:16:34,294</end-time>
+                <translation>明明应该是属于自己的东西</translation>
+                <original>自分たちのものだったはずなの</original>
+                <spell/>
+            </t>
+            <t index="263" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:34,294</start-time>
+                <end-time>00:16:39,794</end-time>
+                <translation>这种非常实体性的丧失感就变得更加强烈</translation>
+                <original>っていうのが物凄くこう実体的ななんかもう喪失感が余計強くなってくる</original>
+                <spell/>
+            </t>
+            <t index="264" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:39,794</start-time>
+                <end-time>00:16:42,389</end-time>
+                <translation>我觉得是这样一种机理</translation>
+                <original>そういうメカニズムが働いてんじゃないかと思う</original>
+                <spell/>
+            </t>
+            <t index="265" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:42,389</start-time>
+                <end-time>00:16:43,860</end-time>
+                <translation>原来如此</translation>
+                <original>なるほど</original>
+                <spell/>
+            </t>
+            <t index="266" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:43,860</start-time>
+                <end-time>00:16:49,550</end-time>
+                <translation>此外 阿伦特还写到了帝国主义时代产生的另一个问题</translation>
+                <original>さらにアーレントは帝国主義の時代に生まれたもうひとつの問題について書いています</original>
+                <spell/>
+            </t>
+            <t index="267" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:52,270</start-time>
+                <end-time>00:16:57,476</end-time>
+                <translation>1914年开始的第一次世界大战</translation>
+                <original>1914年に始まった第一次世界大戦</original>
+                <spell/>
+            </t>
+            <t index="268" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:57,476</start-time>
+                <end-time>00:17:01,737</end-time>
+                <translation>这场帝国主义之间激烈冲突的战争</translation>
+                <original>帝国主義同士が激しくぶつかり合ったこの戦いは</original>
+                <spell/>
+            </t>
+            <t index="269" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:01,737</start-time>
+                <end-time>00:17:06,327</end-time>
+                <translation>在各地产生了大量难民</translation>
+                <original>各地に多くの難民を生み出しました</original>
+                <spell/>
+            </t>
+            <t index="270" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:06,327</start-time>
+                <end-time>00:17:10,801</end-time>
+                <translation>欧洲各国接连将居住在本国的其他民族</translation>
+                <original>ヨーロッパの国々は次々と時刻にいた他民族を</original>
+                <spell/>
+            </t>
+            <t index="271" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:10,801</start-time>
+                <end-time>00:17:13,183</end-time>
+                <translation>驱逐出领土
+領土から追放</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="272" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:13,183</start-time>
+                <end-time>00:17:16,088</end-time>
+                <translation>剥夺其作为国家成员的身份
+国家の成員としての身分を奪い</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="273" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:16,088</start-time>
+                <end-time>00:17:19,180</end-time>
+                <translation>制造了大量无国籍者</translation>
+                <original>多くの無国籍者を生み出したのです</original>
+                <spell/>
+            </t>
+            <t index="274" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:21,880</start-time>
+                <end-time>00:17:25,156</end-time>
+                <translation>18世纪和19世纪
+18世紀19世紀も</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="275" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:25,156</start-time>
+                <end-time>00:17:27,438</end-time>
+                <translation>虽然生活在文明国家</translation>
+                <original>文明国に生きながら</original>
+                <spell/>
+            </t>
+            <t index="276" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:27,438</start-time>
+                <end-time>00:17:33,345</end-time>
+                <translation>却不曾知道处于绝对无权利、无保护状态的人
+絶対的な無権利・無保護状態にある人間をしらなかった</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="277" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:33,345</start-time>
+                <end-time>00:17:36,075</end-time>
+                <translation>自第一次世界大战以来</translation>
+                <original>第一次世界大戦以来</original>
+                <spell/>
+            </t>
+            <t index="278" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:36,075</start-time>
+                <end-time>00:17:40,071</end-time>
+                <translation>任何战争、任何革命都同样</translation>
+                <original>どんな戦争もどの革命も一様に</original>
+                <spell/>
+            </t>
+            <t index="279" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:40,071</start-time>
+                <end-time>00:17:45,520</end-time>
+                <translation> 产生了史无前例的大批丧失权利者 丧失故国者
+権利喪失者故国喪失者の前例なき大群を生み出し</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="280" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:45,520</start-time>
+                <end-time>00:17:52,517</end-time>
+                <translation>无国籍问题开始被带入新的国家和大陆</translation>
+                <original>無国籍の問題を新しい国々や大陸に持ち込むようになった</original>
+                <spell/>
+            </t>
+            <t index="281" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:54,280</start-time>
+                <end-time>00:17:55,358</end-time>
+                <translation>阿伦特</translation>
+                <original>アーレントは</original>
+                <spell/>
+            </t>
+            <t index="282" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:55,358</start-time>
+                <end-time>00:17:57,139</end-time>
+                <translation>认为无国籍者
+無国籍者こそ</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="283" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:57,139</start-time>
+                <end-time>00:18:00,680</end-time>
+                <translation>才是战争最悲惨的产物</translation>
+                <original>戦争の最も悲惨な産物であると考えました</original>
+                <spell/>
+            </t>
+            <t index="284" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:02,610</start-time>
+                <end-time>00:18:07,463</end-time>
+                <translation>大量产生的到任何国家都无法接纳的难民</translation>
+                <original>どの国家も受け入れられないほど大量に発生した難民は</original>
+                <spell/>
+            </t>
+            <t index="285" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:07,463</start-time>
+                <end-time>00:18:11,580</end-time>
+                <translation>成为了在任何地方都无法受到法律保护的存在</translation>
+                <original>どこからも法の保護を受けられない存在となったのです</original>
+                <spell/>
+            </t>
+            <t index="286" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:14,750</start-time>
+                <end-time>00:18:18,229</end-time>
+                <translation>阿伦特认为 无国籍者的问题</translation>
+                <original>アーレントは無国籍者の問題とは</original>
+                <spell/>
+            </t>
+            <t index="287" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:18,229</start-time>
+                <end-time>00:18:22,275</end-time>
+                <translation>不仅在于他们不受法律保护</translation>
+                <original>彼らが法によって守られていないというだけでなく</original>
+                <spell/>
+            </t>
+            <t index="288" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:22,275</start-time>
+                <end-time>00:18:23,851</end-time>
+                <translation>更在于人类生来</translation>
+                <original>人間が生まれながらに</original>
+                <spell/>
+            </t>
+            <t index="289" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:23,851</start-time>
+                <end-time>00:18:28,870</end-time>
+                <translation>他们也一并丧失了本应拥有的权利</translation>
+                <original>持っているはずの権利まで失ってしまったことにあると考えます</original>
+                <spell/>
+            </t>
+            <t index="290" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:31,463</start-time>
+                <end-time>00:18:33,925</end-time>
+                <translation>这推翻了法国大革命以来</translation>
+                <original>それはフランス革命以降</original>
+                <spell/>
+            </t>
+            <t index="291" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:33,925</start-time>
+                <end-time>00:18:38,860</end-time>
+                <translation>人们一直相信的欧洲人权概念</translation>
+                <original>人々が信じてきたヨーロッパの人権の概念を覆すものでした</original>
+                <spell/>
+            </t>
+            <t index="292" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:42,180</start-time>
+                <end-time>00:18:48,509</end-time>
+                <translation>当失去政府保护无法享有公民权
+今政府の保護を失い市民権を享受し得ず</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="293" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:48,509</start-time>
+                <end-time>00:18:51,742</end-time>
+                <translation>因此只能依靠生来本应拥有的</translation>
+                <original>したがって生まれながらに持つはずの</original>
+                <spell/>
+            </t>
+            <t index="294" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:51,742</start-time>
+                <end-time>00:18:56,647</end-time>
+                <translation>最低限度权利的人出现的那一刻</translation>
+                <original>最低限の権利に頼るしかない人が現れた瞬間に</original>
+                <spell/>
+            </t>
+            <t index="295" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:56,647</start-time>
+                <end-time>00:19:02,500</end-time>
+                <translation>能够保障他们这些权利的东西却完全不存在</translation>
+                <original>彼らにこの権利を保障し得るものは全く存在ぜず</original>
+                <spell/>
+            </t>
+            <t index="296" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:02,500</start-time>
+                <end-time>00:19:07,873</end-time>
+                <translation>唐突地暴露出任何国家的或国际的权威</translation>
+                <original>いかなる国家的もしくは国際的権威も</original>
+                <spell/>
+            </t>
+            <t index="297" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:07,873</start-time>
+                <end-time>00:19:12,210</end-time>
+                <translation>都没有保护它的意愿</translation>
+                <original>それを守る用意がないことが突然明らかになった</original>
+                <spell/>
+            </t>
+            <t index="298" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:14,710</start-time>
+                <end-time>00:19:18,385</end-time>
+                <translation>就这样 普遍的人性丧失了</translation>
+                <original>こうして普遍的な人間性は失われ</original>
+                <spell/>
+            </t>
+            <t index="299" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:18,385</start-time>
+                <end-time>00:19:20,584</end-time>
+                <translation>即使在民族国家内部
+民族国家の内部でも</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="300" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:20,584</start-time>
+                <end-time>00:19:25,068</end-time>
+                <translation>时代也在加速走向剥夺所有犹太人一切人权的极权主义</translation>
+                <original>ユダヤ人すべての人権を奪うという全体主義へ</original>
+                <spell/>
+            </t>
+            <t index="301" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:25,068</start-time>
+                <end-time>00:19:27,440</end-time>
+                <translation>时代在加速前进</translation>
+                <original>時代は加速してゆくのです</original>
+                <spell/>
+            </t>
+            <t index="302" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:33,000</start-time>
+                <end-time>00:19:35,369</end-time>
+                <translation>天啊 有点能想象出来了</translation>
+                <original>うわなんかちょっと想像がついてきた</original>
+                <spell/>
+            </t>
+            <t index="303" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:35,369</start-time>
+                <end-time>00:19:38,457</end-time>
+                <translation>能想象到接下来的发展 好可怕啊</translation>
+                <original>ちょっとこの先の想像がついてきて怖いんですけど</original>
+                <spell/>
+            </t>
+            <t index="304" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:38,457</start-time>
+                <end-time>00:19:40,925</end-time>
+                <translation>当不受法律保护</translation>
+                <original>その法によって守られてない</original>
+                <spell/>
+            </t>
+            <t index="305" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:40,925</start-time>
+                <end-time>00:19:45,945</end-time>
+                <translation>人权不受保护的人真的出现了</translation>
+                <original>人権の守られてない人が実際に出てきちゃった</original>
+                <spell/>
+            </t>
+            <t index="306" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:45,945</start-time>
+                <end-time>00:19:47,932</end-time>
+                <translation>我们才会意识到 居然有这样一群异己</translation>
+                <original>そういう人いるもんね</original>
+                <spell/>
+            </t>
+            <t index="307" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:47,932</start-time>
+                <end-time>00:19:49,540</end-time>
+                <translation>会变这样的想法呢</translation>
+                <original>って話になっちゃうわけじゃないですか</original>
+                <spell/>
+            </t>
+            <t index="308" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:49,540</start-time>
+                <end-time>00:19:53,517</end-time>
+                <translation>如果抹除他们更有益团结的话</translation>
+                <original>そのほうが都合いいことでちゃうと</original>
+                <spell/>
+            </t>
+            <t index="309" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:53,517</start-time>
+                <end-time>00:19:55,695</end-time>
+                <translation>那就会更进一步地以这种形式回馈</translation>
+                <original>またフィードバックしていくってこと</original>
+                <spell/>
+            </t>
+            <t index="310" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:55,695</start-time>
+                <end-time>00:19:57,708</end-time>
+                <translation>嗯 要说表面上的原则</translation>
+                <original>まあまああの建前を言えば</original>
+                <spell/>
+            </t>
+            <t index="311" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:57,708</start-time>
+                <end-time>00:20:00,856</end-time>
+                <translation>既然欧洲提倡有普遍人权这种东西</translation>
+                <original>普遍的人権がてものがある以上は</original>
+                <spell/>
+            </t>
+            <t index="312" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:00,856</start-time>
+                <end-time>00:20:03,014</end-time>
+                <translation>那就还是应该由附近的某个国家</translation>
+                <original>やっぱりまああのどこか近くの国が</original>
+                <spell/>
+            </t>
+            <t index="313" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:03,014</start-time>
+                <end-time>00:20:08,486</end-time>
+                <translation>来接收 作为原则来说就会变成这样</translation>
+                <original>あの引き受けるべきだというふうにまあ建前としてはそうなるところなんですけれど</original>
+                <spell/>
+            </t>
+            <t index="314" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:08,486</start-time>
+                <end-time>00:20:11,241</end-time>
+                <translation>但实际上 国家这个东西</translation>
+                <original>実際にはあの国家というのは</original>
+                <spell/>
+            </t>
+            <t index="315" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:11,241</start-time>
+                <end-time>00:20:13,824</end-time>
+                <translation>是以民族为基础的</translation>
+                <original>あのネーションをベースにして</original>
+                <spell/>
+            </t>
+            <t index="316" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:13,824</start-time>
+                <end-time>00:20:16,995</end-time>
+                <translation>是为了守护民族的利益</translation>
+                <original>そのネーションの利益を守ろうとして</original>
+                <spell/>
+            </t>
+            <t index="317" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:16,995</start-time>
+                <end-time>00:20:18,644</end-time>
+                <translation>一路走过来的</translation>
+                <original>まあやってきたわけだから</original>
+                <spell/>
+            </t>
+            <t index="318" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:18,644</start-time>
+                <end-time>00:20:23,340</end-time>
+                <translation>对不属于自己民族的人</translation>
+                <original>あの自分のnationとに属してない人間まで</original>
+                <spell/>
+            </t>
+            <t index="319" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:23,340</start-time>
+                <end-time>00:20:25,736</end-time>
+                <translation>不会因为他们只是碰巧在那</translation>
+                <original>たまたまその辺に居るからって言っても</original>
+                <spell/>
+            </t>
+            <t index="320" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:25,736</start-time>
+                <end-time>00:20:27,845</end-time>
+                <translation>就有义务去保护</translation>
+                <original>守ってやる義理はないと</original>
+                <spell/>
+            </t>
+            <t index="321" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:27,845</start-time>
+                <end-time>00:20:32,009</end-time>
+                <translation>而这种事情在第一次世界大战中</translation>
+                <original>でそういうことが第一次大戦で</original>
+                <spell/>
+            </t>
+            <t index="322" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:32,009</start-time>
+                <end-time>00:20:35,206</end-time>
+                <translation>就赤裸裸地暴露出来了</translation>
+                <original>まあ露骨に明らかになってしまったわけですね</original>
+                <spell/>
+            </t>
+            <t index="323" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:35,206</start-time>
+                <end-time>00:20:37,427</end-time>
+                <translation>我觉得这和现在的难民问题</translation>
+                <original>それってまさに今の難民問題とも</original>
+                <spell/>
+            </t>
+            <t index="324" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:37,427</start-time>
+                <end-time>00:20:39,521</end-time>
+                <translation>是一样的吧</translation>
+                <original>同じなんじゃないかなと思うんですが</original>
+                <spell/>
+            </t>
+            <t index="325" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:39,521</start-time>
+                <end-time>00:20:43,180</end-time>
+                <translation>现在的欧洲 那些接收</translation>
+                <original>今のヨーロッパはあの受け入れ</original>
+                <spell/>
+            </t>
+            <t index="326" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:43,180</start-time>
+                <end-time>00:20:46,733</end-time>
+                <translation>成为必须接收方的欧洲国家</translation>
+                <original>必要の受け入れ先になっているヨーロッパの国々は</original>
+                <spell/>
+            </t>
+            <t index="327" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:46,733</start-time>
+                <end-time>00:20:50,223</end-time>
+                <translation>正是曾经试图成为民族国家的国家</translation>
+                <original>まさにまあ国民国家であろうとしてきたところなんですよね</original>
+                <spell/>
+            </t>
+            <t index="328" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:50,223</start-time>
+                <end-time>00:20:53,375</end-time>
+                <translation>而这些民族国家又对这些难民们</translation>
+                <original>でそこにその難民の人たちを</original>
+                <spell/>
+            </t>
+            <t index="329" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:53,375</start-time>
+                <end-time>00:20:57,985</end-time>
+                <translation>到底能接受到什么程度呢</translation>
+                <original>いったいあのどこまでこの受け入れることができるのかと</original>
+                <spell/>
+            </t>
+            <t index="330" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:57,985</start-time>
+                <end-time>00:20:59,920</end-time>
+                <translation>为了照顾难民</translation>
+                <original>難民の世話のために</original>
+                <spell/>
+            </t>
+            <t index="331" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:59,950</start-time>
+                <end-time>00:21:01,433</end-time>
+                <translation>他们还会继续承担经济负担吗</translation>
+                <original>経済負担をこれ以上やるのか</original>
+                <spell/>
+            </t>
+            <t index="332" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:01,433</start-time>
+                <end-time>00:21:05,543</end-time>
+                <translation>这样的讨论一定会出现</translation>
+                <original>とそういうようなあのまあ話が必ず出てきて</original>
+                <spell/>
+            </t>
+            <t index="333" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:05,543</start-time>
+                <end-time>00:21:08,012</end-time>
+                <translation>到那时 到底该优先哪一边</translation>
+                <original>そのときにじゃあ一体どっち優先するのか</original>
+                <spell/>
+            </t>
+            <t index="334" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:08,012</start-time>
+                <end-time>00:21:11,586</end-time>
+                <translation>是普遍人权 还是说民族利益优先</translation>
+                <original>と普遍的人権なのかネーションの利益があって言えば</original>
+                <spell/>
+            </t>
+            <t index="335" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:11,586</start-time>
+                <end-time>00:21:14,310</end-time>
+                <translation>国家就不得不选择民族利益了</translation>
+                <original>もうこれはもうネイションの利益とらざるを得ない</original>
+                <spell/>
+            </t>
+            <t index="336" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:15,880</start-time>
+                <end-time>00:21:19,130</end-time>
+                <translation>这正是欧洲各国为之苦恼的地方</translation>
+                <original>そこがまさにもヨーロッパ各国はこうで悩んでいるところで</original>
+                <spell/>
+            </t>
+            <t index="337" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:19,130</start-time>
+                <end-time>00:21:20,658</end-time>
+                <translation>虽然有国际机构</translation>
+                <original>で国際機関もあるけれど</original>
+                <spell/>
+            </t>
+            <t index="338" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:20,658</start-time>
+                <end-time>00:21:22,680</end-time>
+                <translation>但也不是说那里就能解决</translation>
+                <original>そこが解決できるわけでもない</original>
+                <spell/>
+            </t>
+            <t index="339" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:22,680</start-time>
+                <end-time>00:21:23,660</end-time>
+                <translation>它没有那样的力量</translation>
+                <original>そこまでの力がない</original>
+                <spell/>
+            </t>
+            <t index="340" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:23,660</start-time>
+                <end-time>00:21:27,047</end-time>
+                <translation>所以我们现在也还是找不到解决办法</translation>
+                <original>だから解決策が今だやっぱり私見出せてないっていう</original>
+                <spell/>
+            </t>
+            <t index="341" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:27,047</start-time>
+                <end-time>00:21:30,389</end-time>
+                <translation>（当下欧洲的难民问题）又会和极权主义联系起来么？</translation>
+                <original>これ全体主義にまたつながっていくわけですか</original>
+                <spell/>
+            </t>
+            <t index="342" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:30,389</start-time>
+                <end-time>00:21:34,196</end-time>
+                <translation>二者的关键词还是同一性吧</translation>
+                <original>実際にはやっぱりキーワード同一性ですよね</original>
+                <spell/>
+            </t>
+            <t index="343" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:34,196</start-time>
+                <end-time>00:21:39,377</end-time>
+                <translation>通过强化他们自己的这种同一性</translation>
+                <original>あの自分たちのこの同一性というのをこの強めることによって</original>
+                <spell/>
+            </t>
+            <t index="344" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:39,377</start-time>
+                <end-time>00:21:42,889</end-time>
+                <translation>来维持作为国家的一体性</translation>
+                <original>その国家としての一体性というのを保ってきた後</original>
+                <spell/>
+            </t>
+            <t index="345" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:42,889</start-time>
+                <end-time>00:21:46,317</end-time>
+                <translation>不过也有好的一面 或者说无可奈何的一面</translation>
+                <original>でただこういい面っていうかまあしょうがない面もあって</original>
+                <spell/>
+            </t>
+            <t index="346" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:46,317</start-time>
+                <end-time>00:21:48,919</end-time>
+                <translation>比如想要提高教育水平</translation>
+                <original>例えば教育水準上げて行こうと思うと</original>
+                <spell/>
+            </t>
+            <t index="347" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:48,919</start-time>
+                <end-time>00:21:51,329</end-time>
+                <translation>就必须统一国语</translation>
+                <original>例えば国語を統一しないといけないと</original>
+                <spell/>
+            </t>
+            <t index="348" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:51,329</start-time>
+                <end-time>00:21:55,305</end-time>
+                <translation>还有军队、警察等</translation>
+                <original>それから軍隊とか警察とかの</original>
+                <spell/>
+            </t>
+            <t index="349" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:55,305</start-time>
+                <end-time>00:21:58,929</end-time>
+                <translation>对于拼上性命战斗的人来说</translation>
+                <original>やっぱり命をかけて戦うような人たちにとっては</original>
+                <spell/>
+            </t>
+            <t index="350" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:58,929</start-time>
+                <end-time>00:22:01,260</end-time>
+                <translation>他们自己应该守护的东西的形象</translation>
+                <original>やっぱり自分たちが守るべきもののイメージっていうのが</original>
+                <spell/>
+            </t>
+            <t index="351" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:01,260</start-time>
+                <end-time>00:22:03,744</end-time>
+                <translation>必须要清晰明确才行</translation>
+                <original>ちゃんと無いとやっぱりいけないと</original>
+                <spell/>
+            </t>
+            <t index="352" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:03,744</start-time>
+                <end-time>00:22:05,636</end-time>
+                <translation>为了切实强化国家</translation>
+                <original>国家をちゃんと強化して</original>
+                <spell/>
+            </t>
+            <t index="353" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:05,636</start-time>
+                <end-time>00:22:07,505</end-time>
+                <translation>为了让人们走向幸福</translation>
+                <original>人を幸福にして行く</original>
+                <spell/>
+            </t>
+            <t index="354" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:07,505</start-time>
+                <end-time>00:22:09,240</end-time>
+                <translation>还有为了确保安全保障</translation>
+                <original>それから安全保障を</original>
+                <spell/>
+            </t>
+            <t index="355" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:09,240</start-time>
+                <end-time>00:22:12,977</end-time>
+                <translation>的确非常民族主义</translation>
+                <original>あのまあ確保している上でまあ大事だったんだけれど</original>
+                <spell/>
+            </t>
+            <t index="356" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:12,977</start-time>
+                <end-time>00:22:16,752</end-time>
+                <translation>但过于依赖这一点的</translation>
+                <original>しかしそれにこうあの頼りすぎたせいで</original>
+                <spell/>
+            </t>
+            <t index="357" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:16,752</start-time>
+                <end-time>00:22:19,333</end-time>
+                <translation>所谓的德意志性</translation>
+                <original>あのドイツ性っていうのが</original>
+                <spell/>
+            </t>
+            <t index="358" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:19,333</start-time>
+                <end-time>00:22:21,180</end-time>
+                <translation>逐渐超出了预期</translation>
+                <original>あの予想を超えて</original>
+                <spell/>
+            </t>
+            <t index="359" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:21,180</start-time>
+                <end-time>00:22:25,488</end-time>
+                <translation>越来越被要求体现在人身上</translation>
+                <original>だんだんだんだんとこの人に求められるようになっていったと</original>
+                <spell/>
+            </t>
+            <t index="360" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:25,488</start-time>
+                <end-time>00:22:27,400</end-time>
+                <translation>这最终的结局</translation>
+                <original>それが結局のところ</original>
+                <spell/>
+            </t>
+            <t index="361" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:27,400</start-time>
+                <end-time>00:22:32,573</end-time>
+                <translation>就抵达了欧洲文明建立的普遍人性理想的某种局限
+ヨーロッパ文明が築き上げた普遍的人間性の理想のなんか限界</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="362" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:32,573</start-time>
+                <end-time>00:22:34,308</end-time>
+                <translation>那种东西就显现出来了</translation>
+                <original>そういうのが見えて来たっていう</original>
+                <spell/>
+            </t>
+            <t index="363" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:34,308</start-time>
+                <end-time>00:22:38,330</end-time>
+                <translation>这对阿伦特来说大概是个打击吧</translation>
+                <original>まあアーレントには多分それショックだったんですよね</original>
+                <spell/>
+            </t>
+            <t index="364" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:38,348</start-time>
+                <end-time>00:22:40,695</end-time>
+                <translation>非常 怎么说呢</translation>
+                <original>すごいまあなんか</original>
+                <spell/>
+            </t>
+            <t index="365" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:40,695</start-time>
+                <end-time>00:22:44,290</end-time>
+                <translation>-残忍的现实被摆在了眼前 -是啊</translation>
+                <original>-見せ付けられたというかしますね　-そうね</original>
+                <spell/>
+            </t>
+            <t index="366" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:44,320</start-time>
+                <end-time>00:22:48,012</end-time>
+                <translation>毕竟自己这边真的没余力了</translation>
+                <original>思いもよらなかったのは自分たちのところでいっぱいだから</original>
+                <spell/>
+            </t>
+            <t index="367" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:48,012</start-time>
+                <end-time>00:22:52,383</end-time>
+                <translation>所以自然会想难民也好非法移民也好 请回去吧</translation>
+                <original>そのまあ難民なりまあ不法移民でもいいです帰ってくれと思うんで</original>
+                <spell/>
+            </t>
+            <t index="368" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:52,383</start-time>
+                <end-time>00:22:54,251</end-time>
+                <translation>但这些人回去了的话</translation>
+                <original>帰ったらこの人たちをおそらく</original>
+                <spell/>
+            </t>
+            <t index="369" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:54,251</start-time>
+                <end-time>00:22:56,622</end-time>
+                <translation>恐怕得不到任何保护</translation>
+                <original>何も保護されないということは</original>
+                <spell/>
+            </t>
+            <t index="370" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:56,622</start-time>
+                <end-time>00:22:59,858</end-time>
+                <translation>虽然这么说有点极端</translation>
+                <original>ある意味ちょっと極端な物言いだけど</original>
+                <spell/>
+            </t>
+            <t index="371" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:59,858</start-time>
+                <end-time>00:23:01,023</end-time>
+                <translation>就等于让他们可以去死了</translation>
+                <original>死んでいいってこと</original>
+                <spell/>
+            </t>
+            <t index="372" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:01,995</start-time>
+                <end-time>00:23:06,500</end-time>
+                <translation>大概在第一次世界大战后的那种状况下</translation>
+                <original>まあ多分あのこういう第一次大戦後の状況とかだったら</original>
+                <spell/>
+            </t>
+            <t index="373" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:06,500</start-time>
+                <end-time>00:23:09,345</end-time>
+                <translation>死亡的可能性的确是相当高
+まああの死ぬ可能性も当然高い</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="374" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:09,345</start-time>
+                <end-time>00:23:13,057</end-time>
+                <translation>嗯嗯嗯 生命变得非常</translation>
+                <original>はいはいはいとてもこう命って</original>
+                <spell/>
+            </t>
+            <t index="375" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:13,057</start-time>
+                <end-time>00:23:17,773</end-time>
+                <translation>生命变得极其轻贱</translation>
+                <original>命がものすごく軽くなるって行くっていう</original>
+                <spell/>
+            </t>
+            <t index="376" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:17,773</start-time>
+                <end-time>00:23:21,242</end-time>
+                <translation>嗯 在接下来的第3夜、第4夜里</translation>
+                <original>うんこの先3夜4夜で</original>
+                <spell/>
+            </t>
+            <t index="377" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:21,242</start-time>
+                <end-time>00:23:23,481</end-time>
+                <translation>我们学到这些概念会不断练起来吧</translation>
+                <original>見せつけられることにつながっていくんだろうな</original>
+                <spell/>
+            </t>
+            <t index="378" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:23,481</start-time>
+                <end-time>00:23:25,938</end-time>
+                <translation>-我会有这种感觉呢 -是啊</translation>
+                <original>-って気がしますねね　-そうですね</original>
+                <spell/>
+            </t>
+            <t index="379" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:25,938</start-time>
+                <end-time>00:23:28,751</end-time>
+                <translation>人种思想、民族性民族主义、无国籍者
+まあ人種思想民族的ナショナリズ無国籍者</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t index="380" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:28,751</start-time>
+                <end-time>00:23:30,316</end-time>
+                <translation>这些可以说是思想的基材吧</translation>
+                <original>だねこう材料といいますか</original>
+                <spell/>
+            </t>
+            <t index="381" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:30,316</start-time>
+                <end-time>00:23:33,552</end-time>
+                <translation>感觉条件就这样逐渐齐备了</translation>
+                <original>条件がこう揃ってきたというような感じもありますが</original>
+                <spell/>
+            </t>
+            <t index="382" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:33,552</start-time>
+                <end-time>00:23:38,142</end-time>
+                <translation>下次终于要进入第3卷的极权主义了</translation>
+                <original>次回はいよいよ第3巻の全体主義に入って行きます</original>
+                <spell/>
+            </t>
+            <t index="383" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:38,142</start-time>
+                <end-time>00:23:41,230</end-time>
+                <translation>仲正先生 后半部分也请多多关照</translation>
+                <original>仲正さんまた後半もよろしくお願いいたします</original>
+                <spell/>
+            </t>
+            <t index="384" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:41,230</start-time>
+                <end-time>00:23:42,774</end-time>
+                <translation>今天非常感谢</translation>
+                <original>今日はありがとうございました</original>
+                <spell/>
+            </t>
+            <t index="385" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:42,774</start-time>
+                <end-time>00:23:43,970</end-time>
+                <translation>非常感谢</translation>
+                <original>ありがとうございました</original>
+                <spell/>
+            </t>
+        </part>
+    </body>
+</ysj>
