@@ -1,0 +1,2963 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ysj>
+    <head>
+        <version>3</version>
+        <srt-meta>
+            <sub-font>PingFangSC-Regular</sub-font>
+            <sub-font-size>45</sub-font-size>
+            <sub-color>#FFFFFF</sub-color>
+            <sub-bold>no</sub-bold>
+            <sub-italic>no</sub-italic>
+            <sub-border-size>3</sub-border-size>
+            <sub-border-color>#000000</sub-border-color>
+            <sub-shadow-offset>0</sub-shadow-offset>
+            <sub-shadow-color>#000000</sub-shadow-color>
+            <sub-align-x>center</sub-align-x>
+            <sub-align-y>bottom</sub-align-y>
+            <sub-spacing>0</sub-spacing>
+            <sub-margin-x>25</sub-margin-x>
+            <sub-margin-y>22</sub-margin-y>
+        </srt-meta>
+        <meta>
+            <title>人人译视界字幕工程文件，人人译视界-智能协同翻译平台</title>
+            <format>srt</format>
+            <charset>UTF-8</charset>
+            <source-lang>jp</source-lang>
+            <target-lang/>
+            <target-dub>target</target-dub>
+            <video>
+                <path>/Users/ttl/Desktop/totoro's life/translation-totoro/2026年8月/5.阿伦特《极权主义的起源》/第1回 排除异己的机制/NHKオンデマンド _ １００分ｄｅ名著 アーレント“全体主義の起原”　第１回「異分子排除のメカニズム」.mp4</path>
+            </video>
+            <lock lock-content="0" pwd="" t="" lock-time="0"/>
+            <task id="" token="" type="1"/>
+            <replace-space enable="false">
+                <orig tailReplaceChars="。？！.?!" tailCheck="false" middleReplaceChars="、，；,;" middleCheck="false" middleReplaceCount="1"/>
+                <trans tailReplaceChars="。？！.?!" tailCheck="false" middleReplaceChars="、，；,;" middleCheck="false" middleReplaceCount="1"/>
+            </replace-space>
+            <correction updateTime="0">
+                <id/>
+                <path/>
+            </correction>
+            <marks>
+                <mark color="#4affff" builtin="1" inUse="1" top="">默认标记</mark>
+                <mark color="#339966" builtin="1" top="">硬字幕</mark>
+                <mark color="#ccffff" builtin="1" top="">歌词</mark>
+                <mark color="#ffcccc" builtin="1" top="">遮幅</mark>
+                <mark color="#ffff99" builtin="1" top="">敏感词</mark>
+                <mark color="#ccccff" builtin="1" top="">翻译错误</mark>
+                <mark color="#ff9966" builtin="1" top="翻译错误">错译</mark>
+                <mark color="#ff6666" builtin="1" top="翻译错误">表达不当</mark>
+                <mark color="#ffcccc" builtin="1" top="翻译错误">语法错误</mark>
+                <mark color="#ffcc99" builtin="1" top="">低错</mark>
+                <mark color="#ccff99" builtin="1" top="低错">漏译</mark>
+                <mark color="#cccccc" builtin="1" top="低错">格式错误</mark>
+                <mark color="#99ccff" builtin="1" top="低错">标点错误</mark>
+                <mark color="#66cc99" builtin="1" top="低错">断句不合理</mark>
+                <mark color="#ff9900" builtin="1" top="低错">字符长度不合规</mark>
+                <mark color="#ccff00" builtin="1" top="">听写错误</mark>
+                <mark color="#cc3399" builtin="1" top="听写错误">听错</mark>
+                <mark color="#993366" builtin="1" top="听写错误">漏听</mark>
+                <mark color="#666633" builtin="1" top="">时间轴错误</mark>
+                <mark color="#cccc99" builtin="1" top="时间轴错误">时间轴不准</mark>
+                <mark color="#009966" builtin="1" top="时间轴错误">时间轴重叠</mark>
+                <mark color="#0099cc" builtin="1" top="">小语种</mark>
+                <mark color="#006600" builtin="1" top="小语种">英语</mark>
+                <mark color="#336699" builtin="1" top="小语种">法语</mark>
+                <mark color="#ff0033" builtin="1" top="小语种">西语</mark>
+                <mark color="#663399" builtin="1" top="小语种">俄语</mark>
+                <mark color="#333333" builtin="1" top="小语种">韩语</mark>
+                <mark color="#996666" builtin="1" top="小语种">日语</mark>
+            </marks>
+            <characters/>
+            <detect-slices/>
+            <dub-dictionaries/>
+            <dubSerialNo/>
+        </meta>
+    </head>
+    <body stage="SubtitleEdit">
+        <part updateMethod="0" lastModifyTime="0">
+            <t index="1" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:01,150</start-time>
+                <end-time>00:00:04,660</end-time>
+                <translation/>
+                <original>2017年1月アメリカで</original>
+                <spell/>
+            </t>
+            <t index="2" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:04,720</start-time>
+                <end-time>00:00:07,820</end-time>
+                <translation/>
+                <original>今から60年以上も前に書かれた本が</original>
+                <spell/>
+            </t>
+            <t index="3" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:07,870</start-time>
+                <end-time>00:00:09,480</end-time>
+                <translation/>
+                <original>ベストセラーとなりました</original>
+                <spell/>
+            </t>
+            <t index="4" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:11,640</start-time>
+                <end-time>00:00:15,030</end-time>
+                <translation/>
+                <original>政治哲学者ハンナアーレントが著した</original>
+                <spell/>
+            </t>
+            <t index="5" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:15,380</start-time>
+                <end-time>00:00:17,410</end-time>
+                <translation/>
+                <original>全体主義の起源です</original>
+                <spell/>
+            </t>
+            <t index="6" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:19,650</start-time>
+                <end-time>00:00:21,460</end-time>
+                <translation/>
+                <original>ナチスの迫害を逃れ</original>
+                <spell/>
+            </t>
+            <t index="7" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:21,560</start-time>
+                <end-time>00:00:25,260</end-time>
+                <translation/>
+                <original>アメリカに亡命したユダヤ系ドイツ人アーレントは</original>
+                <spell/>
+            </t>
+            <t index="8" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:25,660</start-time>
+                <end-time>00:00:29,480</end-time>
+                <translation/>
+                <original>全体主義がどのように生まれたのかを探ろうとしました</original>
+                <spell/>
+            </t>
+            <t index="9" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:00:32,120</start-time>
+                <end-time>00:00:36,590</end-time>
+                <translation/>
+                <original>分かり易い政治を求める大衆が全体主義をもたらす</original>
+                <spell/>
+            </t>
+            <t index="10" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:37,450</start-time>
+                <end-time>00:00:41,410</end-time>
+                <translation/>
+                <original>アーレントの主張は今再び注目を浴びています</original>
+                <spell/>
+            </t>
+            <t index="11" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:43,730</start-time>
+                <end-time>00:00:45,000</end-time>
+                <translation/>
+                <original>100分で名著</original>
+                <spell/>
+            </t>
+            <t index="12" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:45,660</start-time>
+                <end-time>00:00:47,440</end-time>
+                <translation/>
+                <original>現代社会にも潜む</original>
+                <spell/>
+            </t>
+            <t index="13" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:00:47,520</start-time>
+                <end-time>00:00:50,200</end-time>
+                <translation/>
+                <original>全体主義の危機に迫っていきます</original>
+                <spell/>
+            </t>
+            <t index="14" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:18,240</start-time>
+                <end-time>00:01:21,630</end-time>
+                <translation/>
+                <original>100分で名著司会の島津有理子ですです</original>
+                <spell/>
+            </t>
+            <t index="15" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:22,230</start-time>
+                <end-time>00:01:24,620</end-time>
+                <translation/>
+                <original>今回紹介する名著はこちら</original>
+                <spell/>
+            </t>
+            <t index="16" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:24,910</start-time>
+                <end-time>00:01:28,220</end-time>
+                <translation/>
+                <original>ハンナアレントの全体主義の起源です</original>
+                <spell/>
+            </t>
+            <t index="17" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:28,350</start-time>
+                <end-time>00:01:30,960</end-time>
+                <translation/>
+                <original>全体主義っていう言葉自体は</original>
+                <spell/>
+            </t>
+            <t index="18" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:30,970</start-time>
+                <end-time>00:01:31,820</end-time>
+                <translation/>
+                <original>それこそ</original>
+                <spell/>
+            </t>
+            <t index="19" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:31,850</start-time>
+                <end-time>00:01:35,880</end-time>
+                <translation/>
+                <original>トランプ、大統領誕生あたりから聞かれるようになったんですけど、この</original>
+                <spell/>
+            </t>
+            <t index="20" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:35,890</start-time>
+                <end-time>00:01:38,720</end-time>
+                <translation/>
+                <original>本自体はちょっと知識がないですね</original>
+                <spell/>
+            </t>
+            <t index="21" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:38,790</start-time>
+                <end-time>00:01:40,200</end-time>
+                <translation/>
+                <original>私も知りませんでした</original>
+                <spell/>
+            </t>
+            <t index="22" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:40,390</start-time>
+                <end-time>00:01:42,450</end-time>
+                <translation/>
+                <original>これ第2次大戦直後に描かれまして</original>
+                <spell/>
+            </t>
+            <t index="23" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:42,480</start-time>
+                <end-time>00:01:45,550</end-time>
+                <translation/>
+                <original>アーレントの名を世界的に知らしめることになった</original>
+                <spell/>
+            </t>
+            <t index="24" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:45,560</start-time>
+                <end-time>00:01:48,860</end-time>
+                <translation/>
+                <original>政治哲学書なんですが、今また注目を集めているという</original>
+                <spell/>
+            </t>
+            <t index="25" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:48,890</start-time>
+                <end-time>00:01:50,620</end-time>
+                <translation/>
+                <original>ことなんですよね</original>
+                <spell/>
+            </t>
+            <t index="26" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:51,010</start-time>
+                <end-time>00:01:54,800</end-time>
+                <translation/>
+                <original>アメリカでは年の初めに相当売れたみたいな話</original>
+                <spell/>
+            </t>
+            <t index="27" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:54,810</start-time>
+                <end-time>00:01:55,520</end-time>
+                <translation/>
+                <original>は聞きました</original>
+                <spell/>
+            </t>
+            <t index="28" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:55,530</start-time>
+                <end-time>00:01:57,060</end-time>
+                <translation/>
+                <original>はい、それでは</original>
+                <spell/>
+            </t>
+            <t index="29" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:57,300</start-time>
+                <end-time>00:01:59,000</end-time>
+                <translation/>
+                <original>指南役の先生をご紹介しましょう</original>
+                <spell/>
+            </t>
+            <t index="30" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:01:59,030</start-time>
+                <end-time>00:02:02,060</end-time>
+                <translation/>
+                <original>金沢大学教授の仲正昌樹さんです</original>
+                <spell/>
+            </t>
+            <t index="31" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:02,980</start-time>
+                <end-time>00:02:05,770</end-time>
+                <translation/>
+                <original>今日はよろしくお願いいたします</original>
+                <spell/>
+            </t>
+            <t index="32" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:08,370</start-time>
+                <end-time>00:02:10,040</end-time>
+                <translation/>
+                <original>哲学者の仲間様</original>
+                <spell/>
+            </t>
+            <t index="33" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:10,050</start-time>
+                <end-time>00:02:10,580</end-time>
+                <translation/>
+                <original>佐木さん</original>
+                <spell/>
+            </t>
+            <t index="34" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:11,990</start-time>
+                <end-time>00:02:15,500</end-time>
+                <translation/>
+                <original>政治思想史、社会哲学を研究する中</original>
+                <spell/>
+            </t>
+            <t index="35" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:15,870</start-time>
+                <end-time>00:02:19,370</end-time>
+                <translation/>
+                <original>アーレントの思想に注目</original>
+                <spell/>
+            </t>
+            <t index="36" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:19,380</start-time>
+                <end-time>00:02:22,280</end-time>
+                <translation/>
+                <original>未来が見通せない不安な現代であるからこそ</original>
+                <spell/>
+            </t>
+            <t index="37" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:22,510</start-time>
+                <end-time>00:02:25,960</end-time>
+                <translation/>
+                <original>今そのよ見直しが必要なのだと、いいます</original>
+                <spell/>
+            </t>
+            <t index="38" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:28,320</start-time>
+                <end-time>00:02:31,650</end-time>
+                <translation/>
+                <original>まずは全体主義の起源の基本情報を見て行きましょう</original>
+                <spell/>
+            </t>
+            <t index="39" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:31,800</start-time>
+                <end-time>00:02:36,030</end-time>
+                <translation/>
+                <original>全体主義の起源は1951年に出版されました</original>
+                <spell/>
+            </t>
+            <t index="40" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:36,200</start-time>
+                <end-time>00:02:39,140</end-time>
+                <translation/>
+                <original>著者はドイツ出身の政治哲学者</original>
+                <spell/>
+            </t>
+            <t index="41" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:39,170</start-time>
+                <end-time>00:02:42,060</end-time>
+                <translation/>
+                <original>思想家のハンナアーレントです</original>
+                <spell/>
+            </t>
+            <t index="42" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:42,070</start-time>
+                <end-time>00:02:46,040</end-time>
+                <translation/>
+                <original>歴史的考察を加えながら、全体主義とは何かという問題を提起し</original>
+                <spell/>
+            </t>
+            <t index="43" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:46,070</start-time>
+                <end-time>00:02:49,650</end-time>
+                <translation/>
+                <original>政治哲学者として世界に名前を知られるようになりました</original>
+                <spell/>
+            </t>
+            <t index="44" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:50,370</start-time>
+                <end-time>00:02:54,450</end-time>
+                <translation/>
+                <original>仲間さん、このアーレントが全体主義という言葉を広めた</original>
+                <spell/>
+            </t>
+            <t index="45" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:54,480</start-time>
+                <end-time>00:02:56,180</end-time>
+                <translation/>
+                <original>と思って良いんでしょうかね</original>
+                <spell/>
+            </t>
+            <t index="46" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:02:56,190</start-time>
+                <end-time>00:03:00,390</end-time>
+                <translation/>
+                <original>あの全体主義という言葉を最初に使い始めたのは、おそらくイタリアの</original>
+                <spell/>
+            </t>
+            <t index="47" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:00,400</start-time>
+                <end-time>00:03:02,110</end-time>
+                <translation/>
+                <original>ファシズム政権だとか</original>
+                <spell/>
+            </t>
+            <t index="48" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:02,170</start-time>
+                <end-time>00:03:05,150</end-time>
+                <translation/>
+                <original>ドイツのナチス関係の知識人たち</original>
+                <spell/>
+            </t>
+            <t index="49" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:05,180</start-time>
+                <end-time>00:03:07,820</end-time>
+                <translation/>
+                <original>で、どちらかというと、自分たちのポジション</original>
+                <spell/>
+            </t>
+            <t index="50" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:07,880</start-time>
+                <end-time>00:03:11,360</end-time>
+                <translation/>
+                <original>体制のことをポジティブに表現する言葉だったんですけど、それを</original>
+                <spell/>
+            </t>
+            <t index="51" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:11,390</start-time>
+                <end-time>00:03:15,780</end-time>
+                <translation/>
+                <original>西側の人たちはむしろあの彼らの大勢の異様さを表す言葉</original>
+                <spell/>
+            </t>
+            <t index="52" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:15,790</start-time>
+                <end-time>00:03:17,810</end-time>
+                <translation/>
+                <original>として使用するようになって</original>
+                <spell/>
+            </t>
+            <t index="53" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:17,840</start-time>
+                <end-time>00:03:20,150</end-time>
+                <translation/>
+                <original>じゃあどこがどう違っていて</original>
+                <spell/>
+            </t>
+            <t index="54" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:20,180</start-time>
+                <end-time>00:03:23,280</end-time>
+                <translation/>
+                <original>彼らも、もともとヨーロッパ人のはずなのに、どこでこう</original>
+                <spell/>
+            </t>
+            <t index="55" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:23,320</start-time>
+                <end-time>00:03:27,540</end-time>
+                <translation/>
+                <original>違ったもんできちゃったんだろうと、そういう疑問を持ってた人多かったと思うんですね</original>
+                <spell/>
+            </t>
+            <t index="56" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:27,550</start-time>
+                <end-time>00:03:31,420</end-time>
+                <translation/>
+                <original>そういう状況の中で、この全体主義っていうのがどうやってこう</original>
+                <spell/>
+            </t>
+            <t index="57" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:31,430</start-time>
+                <end-time>00:03:32,850</end-time>
+                <translation/>
+                <original>結実していたかと</original>
+                <spell/>
+            </t>
+            <t index="58" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:32,950</start-time>
+                <end-time>00:03:37,120</end-time>
+                <translation/>
+                <original>他人ごとではなくて、自分たちの文化の中に内在している問題だという</original>
+                <spell/>
+            </t>
+            <t index="59" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:37,130</start-time>
+                <end-time>00:03:39,980</end-time>
+                <translation/>
+                <original>事を、あの広く意識させたあと</original>
+                <spell/>
+            </t>
+            <t index="60" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:40,230</start-time>
+                <end-time>00:03:42,240</end-time>
+                <translation/>
+                <original>なんかもうむちむちな話</original>
+                <spell/>
+            </t>
+            <t index="61" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:42,250</start-time>
+                <end-time>00:03:46,600</end-time>
+                <translation/>
+                <original>大変申し訳ないんですけど、それこそ僕がこの言葉を知ったのは最近で</original>
+                <spell/>
+            </t>
+            <t index="62" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:46,850</start-time>
+                <end-time>00:03:50,710</end-time>
+                <translation/>
+                <original>それこそトランプ、大統領をはじめとしてちょっと全体主義</original>
+                <spell/>
+            </t>
+            <t index="63" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:50,740</start-time>
+                <end-time>00:03:53,730</end-time>
+                <translation/>
+                <original>的な空気が流れてるみたいな比喩で聞いたんですが</original>
+                <spell/>
+            </t>
+            <t index="64" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:54,140</start-time>
+                <end-time>00:03:55,120</end-time>
+                <translation/>
+                <original>その時に</original>
+                <spell/>
+            </t>
+            <t index="65" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:55,280</start-time>
+                <end-time>00:03:59,580</end-time>
+                <translation/>
+                <original>全体主義っていう言葉だけ全く無知な状態で聞くと</original>
+                <spell/>
+            </t>
+            <t index="66" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:03:59,610</start-time>
+                <end-time>00:04:03,620</end-time>
+                <translation/>
+                <original>個人主義みたいなことより、良い言葉になんとなく聞こえたんです</original>
+                <spell/>
+            </t>
+            <t index="67" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:03,740</start-time>
+                <end-time>00:04:06,010</end-time>
+                <translation/>
+                <original>でも先生がおっしゃるのを聞いて</original>
+                <spell/>
+            </t>
+            <t index="68" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:06,240</start-time>
+                <end-time>00:04:09,280</end-time>
+                <translation/>
+                <original>最初は別に悪い方向性の言葉でも</original>
+                <spell/>
+            </t>
+            <t index="69" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:09,310</start-time>
+                <end-time>00:04:11,790</end-time>
+                <translation/>
+                <original>なく、発声はしてるわけですよ</original>
+                <spell/>
+            </t>
+            <t index="70" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:11,800</start-time>
+                <end-time>00:04:15,170</end-time>
+                <translation/>
+                <original>国家と1体化したいという欲求が、実は、この</original>
+                <spell/>
+            </t>
+            <t index="71" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:15,730</start-time>
+                <end-time>00:04:19,780</end-time>
+                <translation/>
+                <original>地下水脈のようにこうだんだんだんだんと強まっていって</original>
+                <spell/>
+            </t>
+            <t index="72" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:19,810</start-time>
+                <end-time>00:04:23,700</end-time>
+                <translation/>
+                <original>そういう大衆の願望があの動かして</original>
+                <spell/>
+            </t>
+            <t index="73" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:23,710</start-time>
+                <end-time>00:04:27,950</end-time>
+                <translation/>
+                <original>行ったようなあの政治運動、あるいは体制として全体主義を</original>
+                <spell/>
+            </t>
+            <t index="74" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:27,960</start-time>
+                <end-time>00:04:31,440</end-time>
+                <translation/>
+                <original>とらえている前方の頃のね</original>
+                <spell/>
+            </t>
+            <t index="75" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:33,010</start-time>
+                <end-time>00:04:34,110</end-time>
+                <translation/>
+                <original>イメージっていうのは</original>
+                <spell/>
+            </t>
+            <t index="76" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:34,180</start-time>
+                <end-time>00:04:38,400</end-time>
+                <translation/>
+                <original>すごく特殊な思想を持った人が、みんなを強制的に巻き込んでいくって</original>
+                <spell/>
+            </t>
+            <t index="77" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:38,410</start-time>
+                <end-time>00:04:42,520</end-time>
+                <translation/>
+                <original>イメージで、ある時に選挙で選ばれた人だって気づいて</original>
+                <spell/>
+            </t>
+            <t index="78" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:42,630</start-time>
+                <end-time>00:04:47,720</end-time>
+                <translation/>
+                <original>ビックリするんですけど、大衆の方が望んでる</original>
+                <spell/>
+            </t>
+            <t index="79" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:47,730</start-time>
+                <end-time>00:04:50,780</end-time>
+                <translation/>
+                <original>今のまあ、日本でも世界でも</original>
+                <spell/>
+            </t>
+            <t index="80" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:50,810</start-time>
+                <end-time>00:04:55,280</end-time>
+                <translation/>
+                <original>それ何年前からあの閉塞感という言葉よく聞くようになりました</original>
+                <spell/>
+            </t>
+            <t index="81" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:55,310</start-time>
+                <end-time>00:04:58,400</end-time>
+                <translation/>
+                <original>閉塞感をあの打ち破るために、何かこう</original>
+                <spell/>
+            </t>
+            <t index="82" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:04:59,240</start-time>
+                <end-time>00:05:00,900</end-time>
+                <translation/>
+                <original>刺激を与えて欲しいと</original>
+                <spell/>
+            </t>
+            <t index="83" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:00,960</start-time>
+                <end-time>00:05:04,250</end-time>
+                <translation/>
+                <original>だんだんだんだんとこの閉塞感とそれ</original>
+                <spell/>
+            </t>
+            <t index="84" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:04,280</start-time>
+                <end-time>00:05:05,880</end-time>
+                <translation/>
+                <original>を打ち破ってくれる</original>
+                <spell/>
+            </t>
+            <t index="85" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:06,140</start-time>
+                <end-time>00:05:10,210</end-time>
+                <translation/>
+                <original>あのより強いカリスマを求めるようなこのメンタリティーがこうどんどん</original>
+                <spell/>
+            </t>
+            <t index="86" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:10,220</start-time>
+                <end-time>00:05:11,650</end-time>
+                <translation/>
+                <original>どんどん高まっていくと</original>
+                <spell/>
+            </t>
+            <t index="87" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:11,880</start-time>
+                <end-time>00:05:15,570</end-time>
+                <translation/>
+                <original>そういうようなあの状況があの今</original>
+                <spell/>
+            </t>
+            <t index="88" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:15,600</start-time>
+                <end-time>00:05:18,630</end-time>
+                <translation/>
+                <original>日本だけじゃなくて、まあアメリカもそうだし</original>
+                <spell/>
+            </t>
+            <t index="89" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:18,730</start-time>
+                <end-time>00:05:21,620</end-time>
+                <translation/>
+                <original>あのヨーロッパの国、いろんな国でも</original>
+                <spell/>
+            </t>
+            <t index="90" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:21,650</start-time>
+                <end-time>00:05:23,390</end-time>
+                <translation/>
+                <original>漂ってんじゃないかと思うんですね</original>
+                <spell/>
+            </t>
+            <t index="91" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:23,790</start-time>
+                <end-time>00:05:27,970</end-time>
+                <translation/>
+                <original>ちょっとゾッとする入り口が見えてきたところで、ちょっとゆっくりと、はい</original>
+                <spell/>
+            </t>
+            <t index="92" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:28,560</start-time>
+                <end-time>00:05:31,850</end-time>
+                <translation/>
+                <original>では、全体主義の起源を執筆したアーレント</original>
+                <spell/>
+            </t>
+            <t index="93" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:31,860</start-time>
+                <end-time>00:05:34,760</end-time>
+                <translation/>
+                <original>とはどんな人物なのかをまず見てみましょう</original>
+                <spell/>
+            </t>
+            <t index="94" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:37,650</start-time>
+                <end-time>00:05:40,550</end-time>
+                <translation/>
+                <original>ハンナアーレントは、1906年</original>
+                <spell/>
+            </t>
+            <t index="95" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:40,750</start-time>
+                <end-time>00:05:44,000</end-time>
+                <translation/>
+                <original>ドイツの裕福なユダヤ人家庭に生まれました</original>
+                <spell/>
+            </t>
+            <t index="96" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:46,760</start-time>
+                <end-time>00:05:50,510</end-time>
+                <translation/>
+                <original>自由主義的な考えを持っていたアーレントの一家は</original>
+                <spell/>
+            </t>
+            <t index="97" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:50,910</start-time>
+                <end-time>00:05:53,150</end-time>
+                <translation/>
+                <original>特に宗教に関心を持たず</original>
+                <spell/>
+            </t>
+            <t index="98" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:05:53,660</start-time>
+                <end-time>00:05:57,970</end-time>
+                <translation/>
+                <original>家でユダヤ人という言葉を聞くこともなく育ちました</original>
+                <spell/>
+            </t>
+            <t index="99" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:00,450</start-time>
+                <end-time>00:06:01,720</end-time>
+                <translation/>
+                <original>アーレントにとって</original>
+                <spell/>
+            </t>
+            <t index="100" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:01,960</start-time>
+                <end-time>00:06:05,320</end-time>
+                <translation/>
+                <original>ユダヤ人であることは、ただの事実に過ぎず</original>
+                <spell/>
+            </t>
+            <t index="101" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:06:05,770</start-time>
+                <end-time>00:06:09,300</end-time>
+                <translation/>
+                <original>社会との軋轢を感じることはありませんでした</original>
+                <spell/>
+            </t>
+            <t index="102" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:12,360</start-time>
+                <end-time>00:06:16,110</end-time>
+                <translation/>
+                <original>アーレントがユダヤ人問題への関心を深めたのは</original>
+                <spell/>
+            </t>
+            <t index="103" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:16,590</start-time>
+                <end-time>00:06:18,610</end-time>
+                <translation/>
+                <original>哲学を勉強する過程で</original>
+                <spell/>
+            </t>
+            <t index="104" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:18,950</start-time>
+                <end-time>00:06:21,270</end-time>
+                <translation/>
+                <original>ユダヤ国家の建設を目指す</original>
+                <spell/>
+            </t>
+            <t index="105" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:21,300</start-time>
+                <end-time>00:06:24,810</end-time>
+                <translation/>
+                <original>シオニストたちと交流を持つようになったからでした</original>
+                <spell/>
+            </t>
+            <t index="106" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:26,980</start-time>
+                <end-time>00:06:31,840</end-time>
+                <translation/>
+                <original>そんな中、1933年ヒトラー内閣が成立</original>
+                <spell/>
+            </t>
+            <t index="107" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:06:32,810</start-time>
+                <end-time>00:06:35,760</end-time>
+                <translation/>
+                <original>台頭したナチスはユダヤ人を敵視</original>
+                <spell/>
+            </t>
+            <t index="108" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:36,690</start-time>
+                <end-time>00:06:39,300</end-time>
+                <translation/>
+                <original>状況は次第に悪化して行きます</original>
+                <spell/>
+            </t>
+            <t index="109" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:42,550</start-time>
+                <end-time>00:06:44,310</end-time>
+                <translation/>
+                <original>アーレントはベルリンで</original>
+                <spell/>
+            </t>
+            <t index="110" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:44,380</start-time>
+                <end-time>00:06:48,650</end-time>
+                <translation/>
+                <original>シオニストの非合法活動に協力したとして逮捕されますが</original>
+                <spell/>
+            </t>
+            <t index="111" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:48,880</start-time>
+                <end-time>00:06:51,880</end-time>
+                <translation/>
+                <original>8日後に釈放</original>
+                <spell/>
+            </t>
+            <t index="112" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:51,890</start-time>
+                <end-time>00:06:54,710</end-time>
+                <translation/>
+                <original>すぐにドイツを脱出し、フランスに逃れます</original>
+                <spell/>
+            </t>
+            <t index="113" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:06:59,440</start-time>
+                <end-time>00:07:02,820</end-time>
+                <translation/>
+                <original>その後、ナチスドイツはニュルンベルク法に、より</original>
+                <spell/>
+            </t>
+            <t index="114" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:03,050</start-time>
+                <end-time>00:07:05,520</end-time>
+                <translation/>
+                <original>ユダヤ人の公民権を剥奪</original>
+                <spell/>
+            </t>
+            <t index="115" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:06,430</start-time>
+                <end-time>00:07:09,560</end-time>
+                <translation/>
+                <original>さらに水晶の夜と呼ばれた事件では</original>
+                <spell/>
+            </t>
+            <t index="116" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:09,910</start-time>
+                <end-time>00:07:10,940</end-time>
+                <translation/>
+                <original>ドイツ各地で</original>
+                <spell/>
+            </t>
+            <t index="117" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:07:11,260</start-time>
+                <end-time>00:07:15,520</end-time>
+                <translation/>
+                <original>ユダヤ人の住宅ユダヤ教のシナゴーグが焼かれました</original>
+                <spell/>
+            </t>
+            <t index="118" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:21,020</start-time>
+                <end-time>00:07:23,310</end-time>
+                <translation/>
+                <original>翌年、ナチスのポーランド</original>
+                <spell/>
+            </t>
+            <t index="119" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:23,320</start-time>
+                <end-time>00:07:26,570</end-time>
+                <translation/>
+                <original>侵攻に、より第2次世界大戦がはじまると</original>
+                <spell/>
+            </t>
+            <t index="120" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:27,200</start-time>
+                <end-time>00:07:31,570</end-time>
+                <translation/>
+                <original>アーレントにとってはフランスも安住の地ではなくなりました</original>
+                <spell/>
+            </t>
+            <t index="121" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:33,630</start-time>
+                <end-time>00:07:36,260</end-time>
+                <translation/>
+                <original>ドイツ出身者は敵国人として</original>
+                <spell/>
+            </t>
+            <t index="122" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:36,500</start-time>
+                <end-time>00:07:39,480</end-time>
+                <translation/>
+                <original>フランス南部の収容所に送られたのです</original>
+                <spell/>
+            </t>
+            <t index="123" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:41,640</start-time>
+                <end-time>00:07:44,870</end-time>
+                <translation/>
+                <original>1940年パリが占領されると、</original>
+                <spell/>
+            </t>
+            <t index="124" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:45,270</start-time>
+                <end-time>00:07:50,010</end-time>
+                <translation/>
+                <original>アーレントは混乱に乗じて夫とともにアメリカに亡命</original>
+                <spell/>
+            </t>
+            <t index="125" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:07:51,880</start-time>
+                <end-time>00:07:55,910</end-time>
+                <translation/>
+                <original>反ユダヤ主義に抵抗する文筆活動を始めます</original>
+                <spell/>
+            </t>
+            <t index="126" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:07:57,430</start-time>
+                <end-time>00:08:00,230</end-time>
+                <translation/>
+                <original>そこで</original>
+                <spell/>
+            </t>
+            <t index="127" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:00,260</start-time>
+                <end-time>00:08:03,440</end-time>
+                <translation/>
+                <original>アーレントは驚くべきニュースを耳にします</original>
+                <spell/>
+            </t>
+            <t index="128" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:04,460</start-time>
+                <end-time>00:08:06,090</end-time>
+                <translation/>
+                <original>ユダヤ人収容所で</original>
+                <spell/>
+            </t>
+            <t index="129" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:06,120</start-time>
+                <end-time>00:08:10,310</end-time>
+                <translation/>
+                <original>何100万人もの、大量虐殺が行われたというのです</original>
+                <spell/>
+            </t>
+            <t index="130" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:12,580</start-time>
+                <end-time>00:08:16,300</end-time>
+                <translation/>
+                <original>想像を超えたユダヤ人への絶滅計画</original>
+                <spell/>
+            </t>
+            <t index="131" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:17,410</start-time>
+                <end-time>00:08:20,060</end-time>
+                <translation/>
+                <original>アーレントはそれが真実と知ると</original>
+                <spell/>
+            </t>
+            <t index="132" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:20,190</start-time>
+                <end-time>00:08:22,280</end-time>
+                <translation/>
+                <original>大変な衝撃を受けます</original>
+                <spell/>
+            </t>
+            <t index="133" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:25,840</start-time>
+                <end-time>00:08:28,970</end-time>
+                <translation/>
+                <original>決して起こってはならないことが起こった</original>
+                <spell/>
+            </t>
+            <t index="134" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:30,510</start-time>
+                <end-time>00:08:34,480</end-time>
+                <translation/>
+                <original>アーレントは突きつけられた事実を理解しようと試みます</original>
+                <spell/>
+            </t>
+            <t index="135" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:36,640</start-time>
+                <end-time>00:08:38,670</end-time>
+                <translation/>
+                <original>そして大戦終結後</original>
+                <spell/>
+            </t>
+            <t index="136" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:39,090</start-time>
+                <end-time>00:08:43,440</end-time>
+                <translation/>
+                <original>ドイツに残されたヒトラー政権の膨大な資料を調べ上げ</original>
+                <spell/>
+            </t>
+            <t index="137" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:08:43,960</start-time>
+                <end-time>00:08:48,010</end-time>
+                <translation/>
+                <original>大著全体主義の起源を書き上げたのです</original>
+                <spell/>
+            </t>
+            <t index="138" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:08:49,710</start-time>
+                <end-time>00:08:51,880</end-time>
+                <translation/>
+                <original>なかませさんアーレントが子供の頃は</original>
+                <spell/>
+            </t>
+            <t index="139" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:51,910</start-time>
+                <end-time>00:08:55,650</end-time>
+                <translation/>
+                <original>ユダヤ人であることを特に意識せずに暮らすことができたようですね</original>
+                <spell/>
+            </t>
+            <t index="140" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:55,680</start-time>
+                <end-time>00:08:59,160</end-time>
+                <translation/>
+                <original>あのまあ、ヨーロッパの市民、特にあのフランスとか</original>
+                <spell/>
+            </t>
+            <t index="141" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:08:59,170</start-time>
+                <end-time>00:09:00,200</end-time>
+                <translation/>
+                <original>ドイツとか</original>
+                <spell/>
+            </t>
+            <t index="142" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:01,060</start-time>
+                <end-time>00:09:05,270</end-time>
+                <translation/>
+                <original>あのユダヤ人があのかなりこう、普通の人たちの中に溶け込んでいった</original>
+                <spell/>
+            </t>
+            <t index="143" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:05,280</start-time>
+                <end-time>00:09:06,660</end-time>
+                <translation/>
+                <original>社会の中では</original>
+                <spell/>
+            </t>
+            <t index="144" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:06,690</start-time>
+                <end-time>00:09:10,640</end-time>
+                <translation/>
+                <original>ユダヤ人自身もそれからあのまあ、周りの人たちも</original>
+                <spell/>
+            </t>
+            <t index="145" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:10,670</start-time>
+                <end-time>00:09:23,760</end-time>
+                <translation/>
+                <original>自分達がユダヤ人を差別しているとか、差別されてるっていう意識は、そんな強く持ってなかったフシもあるんですけれど、ホロコーストってやっぱり特殊なのは収容所にわざわざ何10万人も集めて、まあ殺しているわけ</original>
+                <spell/>
+            </t>
+            <t index="146" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:24,020</start-time>
+                <end-time>00:09:27,190</end-time>
+                <translation/>
+                <original>なんでわざわざそんなことをしないといけないのかと</original>
+                <spell/>
+            </t>
+            <t index="147" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:27,860</start-time>
+                <end-time>00:09:30,050</end-time>
+                <translation/>
+                <original>理にかなってない取りになってない</original>
+                <spell/>
+            </t>
+            <t index="148" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:30,080</start-time>
+                <end-time>00:09:34,160</end-time>
+                <translation/>
+                <original>あのそれがやっぱりわかんなかったんだと思うんですよね</original>
+                <spell/>
+            </t>
+            <t index="149" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:34,420</start-time>
+                <end-time>00:09:42,980</end-time>
+                <translation/>
+                <original>この全体主義の起源について、なんかこうたった1つの期限があるというふうには考えてないんですよね</original>
+                <spell/>
+            </t>
+            <t index="150" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:43,010</start-time>
+                <end-time>00:09:45,600</end-time>
+                <translation/>
+                <original>いろんな要素があって、ヨーロッパ人</original>
+                <spell/>
+            </t>
+            <t index="151" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:45,630</start-time>
+                <end-time>00:09:49,830</end-time>
+                <translation/>
+                <original>のこの不安を高めていったと言うなりに行って、あの</original>
+                <spell/>
+            </t>
+            <t index="152" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:50,140</start-time>
+                <end-time>00:09:54,010</end-time>
+                <translation/>
+                <original>最初はこういう事だったのが、次はこういう段階にエスカレート</original>
+                <spell/>
+            </t>
+            <t index="153" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:54,020</start-time>
+                <end-time>00:09:55,070</end-time>
+                <translation/>
+                <original>していたと</original>
+                <spell/>
+            </t>
+            <t index="154" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:55,130</start-time>
+                <end-time>00:09:59,300</end-time>
+                <translation/>
+                <original>でそれがなぜこういう風にエスカレートしていったのかっていうのをその細かく</original>
+                <spell/>
+            </t>
+            <t index="155" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:09:59,310</start-time>
+                <end-time>00:10:00,880</end-time>
+                <translation/>
+                <original>分析して行きながら</original>
+                <spell/>
+            </t>
+            <t index="156" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:01,110</start-time>
+                <end-time>00:10:04,340</end-time>
+                <translation/>
+                <original>まあ多分おそらく読んで人に</original>
+                <spell/>
+            </t>
+            <t index="157" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:04,370</start-time>
+                <end-time>00:10:08,740</end-time>
+                <translation/>
+                <original>じゃあここをこうエスカレートさせないようにするにはどうするのかってでも考えて</original>
+                <spell/>
+            </t>
+            <t index="158" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:08,750</start-time>
+                <end-time>00:10:12,520</end-time>
+                <translation/>
+                <original>ほしいという動機で書いたんじゃないかと思うんですよね</original>
+                <spell/>
+            </t>
+            <t index="159" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:12,660</start-time>
+                <end-time>00:10:14,260</end-time>
+                <translation/>
+                <original>まあなんかそうやって考えると</original>
+                <spell/>
+            </t>
+            <t index="160" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:14,610</start-time>
+                <end-time>00:10:16,070</end-time>
+                <translation/>
+                <original>自分の国今</original>
+                <spell/>
+            </t>
+            <t index="161" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:16,100</start-time>
+                <end-time>00:10:19,760</end-time>
+                <translation/>
+                <original>今の日本はどの段階にあるんだろーみたいなこともちょっと</original>
+                <spell/>
+            </t>
+            <t index="162" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:19,840</start-time>
+                <end-time>00:10:21,300</end-time>
+                <translation/>
+                <original>考えちゃうからなんですね</original>
+                <spell/>
+            </t>
+            <t index="163" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:21,310</start-time>
+                <end-time>00:10:23,260</end-time>
+                <translation/>
+                <original>後から振り返ることができても、今</original>
+                <spell/>
+            </t>
+            <t index="164" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:23,470</start-time>
+                <end-time>00:10:26,580</end-time>
+                <translation/>
+                <original>を理解する、ある意味、そのための本でおそらく</original>
+                <spell/>
+            </t>
+            <t index="165" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:27,140</start-time>
+                <end-time>00:10:29,990</end-time>
+                <translation/>
+                <original>今月これを取り上げているのは、おそらくそういうことなんだろうと</original>
+                <spell/>
+            </t>
+            <t index="166" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:30,000</start-time>
+                <end-time>00:10:30,570</end-time>
+                <translation/>
+                <original>思います</original>
+                <spell/>
+            </t>
+            <t index="167" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:31,460</start-time>
+                <end-time>00:10:32,450</end-time>
+                <translation/>
+                <original>さあ、それでは</original>
+                <spell/>
+            </t>
+            <t index="168" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:32,480</start-time>
+                <end-time>00:10:36,490</end-time>
+                <translation/>
+                <original>全体主義の起源の第1感反ユダヤ主義の中身を見て</original>
+                <spell/>
+            </t>
+            <t index="169" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:36,500</start-time>
+                <end-time>00:10:37,310</end-time>
+                <translation/>
+                <original>行きましょう</original>
+                <spell/>
+            </t>
+            <t index="170" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:37,340</start-time>
+                <end-time>00:10:39,770</end-time>
+                <translation/>
+                <original>朗読は田中美里さんです</original>
+                <spell/>
+            </t>
+            <t index="171" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:42,990</start-time>
+                <end-time>00:10:47,020</end-time>
+                <translation/>
+                <original>反ユダヤ主義とユダヤ人憎悪は同じものではない</original>
+                <spell/>
+            </t>
+            <t index="172" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:10:48,240</start-time>
+                <end-time>00:10:50,040</end-time>
+                <translation/>
+                <original>ユダヤ人憎悪というものは</original>
+                <spell/>
+            </t>
+            <t index="173" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:50,610</start-time>
+                <end-time>00:10:52,490</end-time>
+                <translation/>
+                <original>昔からずっと存在したが</original>
+                <spell/>
+            </t>
+            <t index="174" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:52,890</start-time>
+                <end-time>00:10:54,140</end-time>
+                <translation/>
+                <original>はい、ユダヤ主義は</original>
+                <spell/>
+            </t>
+            <t index="175" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:54,470</start-time>
+                <end-time>00:10:58,720</end-time>
+                <translation/>
+                <original>その政治的およびイデオロギー的意味において</original>
+                <spell/>
+            </t>
+            <t index="176" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:10:59,190</start-time>
+                <end-time>00:11:01,180</end-time>
+                <translation/>
+                <original>19世紀の現象である</original>
+                <spell/>
+            </t>
+            <t index="177" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:05,450</start-time>
+                <end-time>00:11:09,550</end-time>
+                <translation/>
+                <original>アーレントは19世紀に生まれた反ユダヤ主義が</original>
+                <spell/>
+            </t>
+            <t index="178" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:09,930</start-time>
+                <end-time>00:11:12,790</end-time>
+                <translation/>
+                <original>それまでのユダヤ人に対する反感とは</original>
+                <spell/>
+            </t>
+            <t index="179" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:12,990</start-time>
+                <end-time>00:11:15,770</end-time>
+                <translation/>
+                <original>根本的に違うものだと考えました</original>
+                <spell/>
+            </t>
+            <t index="180" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:18,900</start-time>
+                <end-time>00:11:21,160</end-time>
+                <translation/>
+                <original>従来のユダヤ人のイメージは</original>
+                <spell/>
+            </t>
+            <t index="181" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:21,760</start-time>
+                <end-time>00:11:28,100</end-time>
+                <translation/>
+                <original>聖書でイエスを10字架にかけた罪深き民</original>
+                <spell/>
+            </t>
+            <t index="182" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:28,110</start-time>
+                <end-time>00:11:33,040</end-time>
+                <translation/>
+                <original>キリスト教が禁じた利子をとって金を貸す</original>
+                <spell/>
+            </t>
+            <t index="183" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:33,090</start-time>
+                <end-time>00:11:34,400</end-time>
+                <translation/>
+                <original>金融業で儲けるマイノリティでした</original>
+                <spell/>
+            </t>
+            <t index="184" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:36,660</start-time>
+                <end-time>00:11:38,600</end-time>
+                <translation/>
+                <original>17、１8世紀には</original>
+                <spell/>
+            </t>
+            <t index="185" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:38,890</start-time>
+                <end-time>00:11:42,820</end-time>
+                <translation/>
+                <original>各地の王家に金を貸す宮廷ユダヤ人として</original>
+                <spell/>
+            </t>
+            <t index="186" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:43,000</start-time>
+                <end-time>00:11:45,280</end-time>
+                <translation/>
+                <original>高い地位を得る者も現れます</original>
+                <spell/>
+            </t>
+            <t index="187" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:46,910</start-time>
+                <end-time>00:11:49,340</end-time>
+                <translation/>
+                <original>しかし、オークのユダヤ人の富は</original>
+                <spell/>
+            </t>
+            <t index="188" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:49,560</start-time>
+                <end-time>00:11:54,040</end-time>
+                <translation/>
+                <original>象をと蔑みの対象となり、差別を受けていたのです</original>
+                <spell/>
+            </t>
+            <t index="189" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:11:56,800</start-time>
+                <end-time>00:12:00,470</end-time>
+                <translation/>
+                <original>そうした立場を、大きく変えたのが19世紀</original>
+                <spell/>
+            </t>
+            <t index="190" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:01,120</start-time>
+                <end-time>00:12:05,110</end-time>
+                <translation/>
+                <original>ナポレオン戦争後に生まれていった国民国家でした</original>
+                <spell/>
+            </t>
+            <t index="191" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:07,300</start-time>
+                <end-time>00:12:08,530</end-time>
+                <translation/>
+                <original>国民国家とは</original>
+                <spell/>
+            </t>
+            <t index="192" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:08,740</start-time>
+                <end-time>00:12:10,190</end-time>
+                <translation/>
+                <original>言語、歴史</original>
+                <spell/>
+            </t>
+            <t index="193" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:10,280</start-time>
+                <end-time>00:12:14,300</end-time>
+                <translation/>
+                <original>文化を共有する人々によって構成された国家のこと</original>
+                <spell/>
+            </t>
+            <t index="194" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:16,690</start-time>
+                <end-time>00:12:18,360</end-time>
+                <translation/>
+                <original>ナポレオン戦争で敗れ</original>
+                <spell/>
+            </t>
+            <t index="195" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:18,560</start-time>
+                <end-time>00:12:21,560</end-time>
+                <translation/>
+                <original>フランス人に支配された各国の人々が</original>
+                <spell/>
+            </t>
+            <t index="196" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:21,950</start-time>
+                <end-time>00:12:24,280</end-time>
+                <translation/>
+                <original>国民意識に目覚めていくことで</original>
+                <spell/>
+            </t>
+            <t index="197" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:24,600</start-time>
+                <end-time>00:12:26,800</end-time>
+                <translation/>
+                <original>国民国家が生まれたのです</original>
+                <spell/>
+            </t>
+            <t index="198" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:29,360</start-time>
+                <end-time>00:12:33,400</end-time>
+                <translation/>
+                <original>そうした状況の中で、ユダヤ人の立場も変化します</original>
+                <spell/>
+            </t>
+            <t index="199" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:34,570</start-time>
+                <end-time>00:12:38,860</end-time>
+                <translation/>
+                <original>ロスチャイルド系に代表されるユダヤ人銀行家が台頭</original>
+                <spell/>
+            </t>
+            <t index="200" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:39,600</start-time>
+                <end-time>00:12:43,040</end-time>
+                <translation/>
+                <original>ヨーロッパ全土にわたるネットワークを築きあげます</original>
+                <spell/>
+            </t>
+            <t index="201" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:44,170</start-time>
+                <end-time>00:12:48,460</end-time>
+                <translation/>
+                <original>そしてそれまで差別を受けていたユダヤ人の国民にも</original>
+                <spell/>
+            </t>
+            <t index="202" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:48,750</start-time>
+                <end-time>00:12:51,220</end-time>
+                <translation/>
+                <original>法律上の人権が与えられました</original>
+                <spell/>
+            </t>
+            <t index="203" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:55,650</start-time>
+                <end-time>00:12:57,340</end-time>
+                <translation/>
+                <original>しかしそれこそが</original>
+                <spell/>
+            </t>
+            <t index="204" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:12:57,650</start-time>
+                <end-time>00:13:01,870</end-time>
+                <translation/>
+                <original>新たな反ユダヤ主義を生み出すきっかけとなったのです</original>
+                <spell/>
+            </t>
+            <t index="205" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:05,240</start-time>
+                <end-time>00:13:09,900</end-time>
+                <translation/>
+                <original>まさに国民国家がその発展の頂点において</original>
+                <spell/>
+            </t>
+            <t index="206" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:13:10,610</start-time>
+                <end-time>00:13:14,900</end-time>
+                <translation/>
+                <original>ユダヤ人に法律上の同権を与えたという事実の中には</original>
+                <spell/>
+            </t>
+            <t index="207" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:15,750</start-time>
+                <end-time>00:13:19,120</end-time>
+                <translation/>
+                <original>すでに奇妙な矛盾が潜んでいたのである</original>
+                <spell/>
+            </t>
+            <t index="208" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:20,550</start-time>
+                <end-time>00:13:22,700</end-time>
+                <translation/>
+                <original>同質的な住民の内部では</original>
+                <spell/>
+            </t>
+            <t index="209" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:23,030</start-time>
+                <end-time>00:13:26,160</end-time>
+                <translation/>
+                <original>ユダヤ人は疑いもなく異分子であり</original>
+                <spell/>
+            </t>
+            <t index="210" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:13:26,520</start-time>
+                <end-time>00:13:30,080</end-time>
+                <translation/>
+                <original>そのため同権を認めてやろうとするのであれば</original>
+                <spell/>
+            </t>
+            <t index="211" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:30,570</start-time>
+                <end-time>00:13:33,400</end-time>
+                <translation/>
+                <original>直ちに同化させできることなら</original>
+                <spell/>
+            </t>
+            <t index="212" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:33,810</start-time>
+                <end-time>00:13:36,630</end-time>
+                <translation/>
+                <original>消滅させてしまわねばならなかったのである</original>
+                <spell/>
+            </t>
+            <t index="213" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:39,850</start-time>
+                <end-time>00:13:44,200</end-time>
+                <translation/>
+                <original>アーレントは、反ユダヤ人が国民国家の成立によって生まれたと</original>
+                <spell/>
+            </t>
+            <t index="214" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:44,520</start-time>
+                <end-time>00:13:45,980</end-time>
+                <translation/>
+                <original>言ってるわけですよね</original>
+                <spell/>
+            </t>
+            <t index="215" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:46,250</start-time>
+                <end-time>00:13:47,600</end-time>
+                <translation/>
+                <original>国民国家は</original>
+                <spell/>
+            </t>
+            <t index="216" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:47,670</start-time>
+                <end-time>00:13:51,810</end-time>
+                <translation/>
+                <original>あの英語で言うとネーションステートっていうのは元々</original>
+                <spell/>
+            </t>
+            <t index="217" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:51,840</start-time>
+                <end-time>00:13:55,820</end-time>
+                <translation/>
+                <original>あの生まれっていう意味のラテン語からきている言葉で</original>
+                <spell/>
+            </t>
+            <t index="218" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:55,850</start-time>
+                <end-time>00:13:59,670</end-time>
+                <translation/>
+                <original>文化を共有していると、そういうことを明確に自覚して</original>
+                <spell/>
+            </t>
+            <t index="219" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:13:59,680</start-time>
+                <end-time>00:14:02,460</end-time>
+                <translation/>
+                <original>いる人たちのあの集合体ですよね</original>
+                <spell/>
+            </t>
+            <t index="220" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:02,830</start-time>
+                <end-time>00:14:07,200</end-time>
+                <translation/>
+                <original>それに、対してまあ、国家というのは官僚組織とか警察とか軍隊とか</original>
+                <spell/>
+            </t>
+            <t index="221" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:07,210</start-time>
+                <end-time>00:14:08,940</end-time>
+                <translation/>
+                <original>そういう組織のことをさします</original>
+                <spell/>
+            </t>
+            <t index="222" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:09,040</start-time>
+                <end-time>00:14:12,240</end-time>
+                <translation/>
+                <original>そのネーションステートっていうのはネーションと</original>
+                <spell/>
+            </t>
+            <t index="223" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:12,660</start-time>
+                <end-time>00:14:15,740</end-time>
+                <translation/>
+                <original>国家というのを単位として一致させようと</original>
+                <spell/>
+            </t>
+            <t index="224" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:15,770</start-time>
+                <end-time>00:14:18,080</end-time>
+                <translation/>
+                <original>じゃあ、なぜそれが問題になるかというと</original>
+                <spell/>
+            </t>
+            <t index="225" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:18,200</start-time>
+                <end-time>00:14:20,700</end-time>
+                <translation/>
+                <original>ヨーロッパ、特にあの</original>
+                <spell/>
+            </t>
+            <t index="226" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:20,930</start-time>
+                <end-time>00:14:23,970</end-time>
+                <translation/>
+                <original>まあイギリス除いた、大陸の部分っていうのは</original>
+                <spell/>
+            </t>
+            <t index="227" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:24,090</start-time>
+                <end-time>00:14:27,290</end-time>
+                <translation/>
+                <original>これ、あの自然な国境ってないですから</original>
+                <spell/>
+            </t>
+            <t index="228" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:27,320</start-time>
+                <end-time>00:14:29,270</end-time>
+                <translation/>
+                <original>あのいろんなそのnation</original>
+                <spell/>
+            </t>
+            <t index="229" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:14:29,300</start-time>
+                <end-time>00:14:32,090</end-time>
+                <translation/>
+                <original>意識を持った人たちが、あの混住してる</original>
+                <spell/>
+            </t>
+            <t index="230" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:32,220</start-time>
+                <end-time>00:14:33,730</end-time>
+                <translation/>
+                <original>ところが多いわけですね</original>
+                <spell/>
+            </t>
+            <t index="231" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:33,880</start-time>
+                <end-time>00:14:37,410</end-time>
+                <translation/>
+                <original>必ずしも本当にネイションとステートが一致はしてないかったっていう</original>
+                <spell/>
+            </t>
+            <t index="232" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:37,440</start-time>
+                <end-time>00:14:38,750</end-time>
+                <translation/>
+                <original>目指すんだけれども</original>
+                <spell/>
+            </t>
+            <t index="233" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:38,780</start-time>
+                <end-time>00:14:42,270</end-time>
+                <translation/>
+                <original>なかなか現実的にはできないものだっていうことなんですね</original>
+                <spell/>
+            </t>
+            <t index="234" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:43,950</start-time>
+                <end-time>00:14:46,800</end-time>
+                <translation/>
+                <original>国民国家がどのように出来ていったのか</original>
+                <spell/>
+            </t>
+            <t index="235" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:47,340</start-time>
+                <end-time>00:14:49,180</end-time>
+                <translation/>
+                <original>ドイツを例に見てみましょう</original>
+                <spell/>
+            </t>
+            <t index="236" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:14:51,140</start-time>
+                <end-time>00:14:54,750</end-time>
+                <translation/>
+                <original>ドイツのルーツである神聖ローマ帝国のなかには</original>
+                <spell/>
+            </t>
+            <t index="237" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:54,950</start-time>
+                <end-time>00:14:57,150</end-time>
+                <translation/>
+                <original>さまざまな文化の人々が住み</original>
+                <spell/>
+            </t>
+            <t index="238" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:14:57,780</start-time>
+                <end-time>00:15:01,510</end-time>
+                <translation/>
+                <original>やがて、それぞれの両親が治める、小さな国が</original>
+                <spell/>
+            </t>
+            <t index="239" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:01,720</start-time>
+                <end-time>00:15:03,030</end-time>
+                <translation/>
+                <original>数多くできました</original>
+                <spell/>
+            </t>
+            <t index="240" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:04,540</start-time>
+                <end-time>00:15:06,910</end-time>
+                <translation/>
+                <original>19世紀のナポレオン戦争で</original>
+                <spell/>
+            </t>
+            <t index="241" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:07,000</start-time>
+                <end-time>00:15:09,430</end-time>
+                <translation/>
+                <original>神聖ローマ帝国は消滅</original>
+                <spell/>
+            </t>
+            <t index="242" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:10,260</start-time>
+                <end-time>00:15:13,490</end-time>
+                <translation/>
+                <original>ドイツ人という意識を持つ地域の集まり</original>
+                <spell/>
+            </t>
+            <t index="243" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:13,880</start-time>
+                <end-time>00:15:15,590</end-time>
+                <translation/>
+                <original>ドイツ連邦が結成</original>
+                <spell/>
+            </t>
+            <t index="244" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:17,170</start-time>
+                <end-time>00:15:19,880</end-time>
+                <translation/>
+                <original>1871年にはドイツ統一</original>
+                <spell/>
+            </t>
+            <t index="245" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:21,210</start-time>
+                <end-time>00:15:22,860</end-time>
+                <translation/>
+                <original>しかし、その中に</original>
+                <spell/>
+            </t>
+            <t index="246" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:23,040</start-time>
+                <end-time>00:15:26,080</end-time>
+                <translation/>
+                <original>ドイツ人とは異質とみなされた人々</original>
+                <spell/>
+            </t>
+            <t index="247" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:26,360</start-time>
+                <end-time>00:15:28,140</end-time>
+                <translation/>
+                <original>ユダヤ人がいたのです</original>
+                <spell/>
+            </t>
+            <t index="248" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:32,160</start-time>
+                <end-time>00:15:34,330</end-time>
+                <translation/>
+                <original>じゃユダヤ人っていうのは何なんだと</original>
+                <spell/>
+            </t>
+            <t index="249" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:34,360</start-time>
+                <end-time>00:15:36,010</end-time>
+                <translation/>
+                <original>で要するにユダヤ人</original>
+                <spell/>
+            </t>
+            <t index="250" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:36,170</start-time>
+                <end-time>00:15:39,120</end-time>
+                <translation/>
+                <original>の人たちっていうのはね、あのドイツ人</original>
+                <spell/>
+            </t>
+            <t index="251" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:39,160</start-time>
+                <end-time>00:15:43,520</end-time>
+                <translation/>
+                <original>同士が自分たちはやっぱり一緒だってことをあの確認するために</original>
+                <spell/>
+            </t>
+            <t index="252" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:43,550</start-time>
+                <end-time>00:15:45,070</end-time>
+                <translation/>
+                <original>だんだんとこう</original>
+                <spell/>
+            </t>
+            <t index="253" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:45,080</start-time>
+                <end-time>00:15:46,410</end-time>
+                <translation/>
+                <original>異分子がなんかこう入り込んで</original>
+                <spell/>
+            </t>
+            <t index="254" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:46,450</start-time>
+                <end-time>00:15:49,240</end-time>
+                <translation/>
+                <original>きてるっていう意識にどうもこう</original>
+                <spell/>
+            </t>
+            <t index="255" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:49,270</start-time>
+                <end-time>00:15:52,790</end-time>
+                <translation/>
+                <original>進んでいったような、そういう感じがあるんだと思うんです</original>
+                <spell/>
+            </t>
+            <t index="256" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:53,370</start-time>
+                <end-time>00:15:56,310</end-time>
+                <translation/>
+                <original>囲ったせいで全部ドイツ人です</original>
+                <spell/>
+            </t>
+            <t index="257" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:56,340</start-time>
+                <end-time>00:15:59,450</end-time>
+                <translation/>
+                <original>で一応表向きになるわけですよね</original>
+                <spell/>
+            </t>
+            <t index="258" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:15:59,480</start-time>
+                <end-time>00:16:01,830</end-time>
+                <translation/>
+                <original>でも、みんな内心でも違うじゃん</original>
+                <spell/>
+            </t>
+            <t index="259" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:02,300</start-time>
+                <end-time>00:16:05,170</end-time>
+                <translation/>
+                <original>みたいな方がちょっと深刻になっていくっていう事ですか</original>
+                <spell/>
+            </t>
+            <t index="260" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:05,260</start-time>
+                <end-time>00:16:06,510</end-time>
+                <translation/>
+                <original>そういう事はですね</original>
+                <spell/>
+            </t>
+            <t index="261" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:06,540</start-time>
+                <end-time>00:16:08,970</end-time>
+                <translation/>
+                <original>ユダヤ的なその慣習というのは、もう一切</original>
+                <spell/>
+            </t>
+            <t index="262" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:08,980</start-time>
+                <end-time>00:16:13,440</end-time>
+                <translation/>
+                <original>もうやめてもらうと、ユダヤ人同士の付き合いみたいなものも</original>
+                <spell/>
+            </t>
+            <t index="263" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:13,450</start-time>
+                <end-time>00:16:15,190</end-time>
+                <translation/>
+                <original>まあ、これも一切やめて</original>
+                <spell/>
+            </t>
+            <t index="264" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:15,200</start-time>
+                <end-time>00:16:17,630</end-time>
+                <translation/>
+                <original>まあ、普通のドイツ人みたいになってくれなきゃ困ると</original>
+                <spell/>
+            </t>
+            <t index="265" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:17,660</start-time>
+                <end-time>00:16:21,910</end-time>
+                <translation/>
+                <original>まあそうじゃないとあなた達が言ってもらうと、もう安心できないと</original>
+                <spell/>
+            </t>
+            <t index="266" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:22,170</start-time>
+                <end-time>00:16:25,310</end-time>
+                <translation/>
+                <original>で、そういうことをやっぱりこう押し付け</original>
+                <spell/>
+            </t>
+            <t index="267" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:25,560</start-time>
+                <end-time>00:16:28,270</end-time>
+                <translation/>
+                <original>ようなことになってたんだと思うんですね</original>
+                <spell/>
+            </t>
+            <t index="268" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:28,480</start-time>
+                <end-time>00:16:30,510</end-time>
+                <translation/>
+                <original>でもただ、これそう</original>
+                <spell/>
+            </t>
+            <t index="269" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:30,700</start-time>
+                <end-time>00:16:32,060</end-time>
+                <translation/>
+                <original>圧力を受けて</original>
+                <spell/>
+            </t>
+            <t index="270" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:32,090</start-time>
+                <end-time>00:16:36,590</end-time>
+                <translation/>
+                <original>あのまあしょうがないかじゃあまあ、あの普通のドイツ人になるかって</original>
+                <spell/>
+            </t>
+            <t index="271" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:36,600</start-time>
+                <end-time>00:16:37,260</end-time>
+                <translation/>
+                <original>いうよー</original>
+                <spell/>
+            </t>
+            <t index="272" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:37,310</start-time>
+                <end-time>00:16:40,550</end-time>
+                <translation/>
+                <original>人たちも言うとすれば、逆にこう自分のユダヤ意識</original>
+                <spell/>
+            </t>
+            <t index="273" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:40,580</start-time>
+                <end-time>00:16:42,380</end-time>
+                <translation/>
+                <original>みたいなものを持つ人とか</original>
+                <spell/>
+            </t>
+            <t index="274" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:43,860</start-time>
+                <end-time>00:16:48,260</end-time>
+                <translation/>
+                <original>何かちょっと泥沼への入り口の臭いはものすごくしますね</original>
+                <spell/>
+            </t>
+            <t index="275" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:48,270</start-time>
+                <end-time>00:16:52,530</end-time>
+                <translation/>
+                <original>このアーレントは反ユダヤ主義についてこんなふうに言っているんです</original>
+                <spell/>
+            </t>
+            <t index="276" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:54,190</start-time>
+                <end-time>00:16:56,620</end-time>
+                <translation/>
+                <original>国際的な商業カーストとして</original>
+                <spell/>
+            </t>
+            <t index="277" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:57,280</start-time>
+                <end-time>00:16:58,370</end-time>
+                <translation/>
+                <original>いたるところで</original>
+                <spell/>
+            </t>
+            <t index="278" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:16:58,820</start-time>
+                <end-time>00:17:03,090</end-time>
+                <translation/>
+                <original>利害を等しくする家族的コンツェルンとしてのユダヤ人</original>
+                <spell/>
+            </t>
+            <t index="279" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:03,360</start-time>
+                <end-time>00:17:07,830</end-time>
+                <translation/>
+                <original>というイメージが繰り返し現れ、やがてこうしたイメージは</original>
+                <spell/>
+            </t>
+            <t index="280" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:08,410</start-time>
+                <end-time>00:17:12,270</end-time>
+                <translation/>
+                <original>王座の影に隠れた隠密の世界勢力</original>
+                <spell/>
+            </t>
+            <t index="281" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:13,070</start-time>
+                <end-time>00:17:13,720</end-time>
+                <translation/>
+                <original>あるいは</original>
+                <spell/>
+            </t>
+            <t index="282" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:14,360</start-time>
+                <end-time>00:17:17,890</end-time>
+                <translation/>
+                <original>世界のあらゆる出来事の裏で糸を引いている</original>
+                <spell/>
+            </t>
+            <t index="283" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:18,340</start-time>
+                <end-time>00:17:22,910</end-time>
+                <translation/>
+                <original>洗脳の秘密結社といった幻想へと変容した</original>
+                <spell/>
+            </t>
+            <t index="284" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:23,670</start-time>
+                <end-time>00:17:25,480</end-time>
+                <translation/>
+                <original>その権力とされるものを</original>
+                <spell/>
+            </t>
+            <t index="285" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:25,990</start-time>
+                <end-time>00:17:30,260</end-time>
+                <translation/>
+                <original>一切の社会的秩序の破壊のために利用するのではないかと</original>
+                <spell/>
+            </t>
+            <t index="286" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:31,050</start-time>
+                <end-time>00:17:33,910</end-time>
+                <translation/>
+                <original>否応なしに疑われたのである</original>
+                <spell/>
+            </t>
+            <t index="287" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:36,640</start-time>
+                <end-time>00:17:37,900</end-time>
+                <translation/>
+                <original>ね、あの</original>
+                <spell/>
+            </t>
+            <t index="288" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:38,290</start-time>
+                <end-time>00:17:39,620</end-time>
+                <translation/>
+                <original>こういうあの</original>
+                <spell/>
+            </t>
+            <t index="289" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:39,650</start-time>
+                <end-time>00:17:43,480</end-time>
+                <translation/>
+                <original>を未知の世界勢力とかって、こういうなんか大げさなイメージに</original>
+                <spell/>
+            </t>
+            <t index="290" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:43,490</start-time>
+                <end-time>00:17:47,560</end-time>
+                <translation/>
+                <original>なってきたのは、弁護士だと会社だとか、あの学校の</original>
+                <spell/>
+            </t>
+            <t index="291" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:47,570</start-time>
+                <end-time>00:17:49,690</end-time>
+                <translation/>
+                <original>先生とか、まあ大学教授とか</original>
+                <spell/>
+            </t>
+            <t index="292" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:49,860</start-time>
+                <end-time>00:17:53,660</end-time>
+                <translation/>
+                <original>そういうものにで、そのユダヤ人のはものすごく高いんですよね</original>
+                <spell/>
+            </t>
+            <t index="293" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:53,670</start-time>
+                <end-time>00:17:57,440</end-time>
+                <translation/>
+                <original>こう影に隠れて、どうもなんかこう結託して</original>
+                <spell/>
+            </t>
+            <t index="294" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:17:57,500</start-time>
+                <end-time>00:18:01,420</end-time>
+                <translation/>
+                <original>なんかヨーロッパ各国で、あのどんどん上り詰めてんじゃないかと</original>
+                <spell/>
+            </t>
+            <t index="295" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:01,450</start-time>
+                <end-time>00:18:05,360</end-time>
+                <translation/>
+                <original>なんかそういうイメージが、なんかこう膨らみやすい状況は</original>
+                <spell/>
+            </t>
+            <t index="296" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:05,370</start-time>
+                <end-time>00:18:06,520</end-time>
+                <translation/>
+                <original>あったわね</original>
+                <spell/>
+            </t>
+            <t index="297" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:06,550</start-time>
+                <end-time>00:18:07,370</end-time>
+                <translation/>
+                <original>おそらく</original>
+                <spell/>
+            </t>
+            <t index="298" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:07,420</start-time>
+                <end-time>00:18:08,330</end-time>
+                <translation/>
+                <original>自分は</original>
+                <spell/>
+            </t>
+            <t index="299" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:08,360</start-time>
+                <end-time>00:18:12,550</end-time>
+                <translation/>
+                <original>ドイツ人なのにうまくいかないとしたら一杯いるわけで、その時に</original>
+                <spell/>
+            </t>
+            <t index="300" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:12,620</start-time>
+                <end-time>00:18:14,150</end-time>
+                <translation/>
+                <original>こういうもの</original>
+                <spell/>
+            </t>
+            <t index="301" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:14,160</start-time>
+                <end-time>00:18:17,210</end-time>
+                <translation/>
+                <original>を見つけちゃったりまして、ここは煽られたりとかすると、それは</original>
+                <spell/>
+            </t>
+            <t index="302" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:17,680</start-time>
+                <end-time>00:18:19,460</end-time>
+                <translation/>
+                <original>そこに行きますよね</original>
+                <spell/>
+            </t>
+            <t index="303" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:19,590</start-time>
+                <end-time>00:18:20,740</end-time>
+                <translation/>
+                <original>特にまあ、今でもそう</original>
+                <spell/>
+            </t>
+            <t index="304" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:20,770</start-time>
+                <end-time>00:18:24,810</end-time>
+                <translation/>
+                <original>ジャーナリストとかが、もうユダヤ人が占めているとなると、ちょっともうすぐ働き</original>
+                <spell/>
+            </t>
+            <t index="305" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:24,820</start-time>
+                <end-time>00:18:25,610</end-time>
+                <translation/>
+                <original>やすいですよね</original>
+                <spell/>
+            </t>
+            <t index="306" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:26,650</start-time>
+                <end-time>00:18:27,820</end-time>
+                <translation/>
+                <original>そんな中</original>
+                <spell/>
+            </t>
+            <t index="307" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:27,940</start-time>
+                <end-time>00:18:31,890</end-time>
+                <translation/>
+                <original>反ユダヤ主義を象徴するような事件が起こります</original>
+                <spell/>
+            </t>
+            <t index="308" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:37,480</start-time>
+                <end-time>00:18:41,010</end-time>
+                <translation/>
+                <original>1894年フランス陸軍隊アルフレドドレフュスが</original>
+                <spell/>
+            </t>
+            <t index="309" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:41,320</start-time>
+                <end-time>00:18:44,810</end-time>
+                <translation/>
+                <original>ドイツのスパイである容疑をかけられ逮捕されます</original>
+                <spell/>
+            </t>
+            <t index="310" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:46,860</start-time>
+                <end-time>00:18:50,220</end-time>
+                <translation/>
+                <original>フランス陸軍の機密情報が記されたメモが</original>
+                <spell/>
+            </t>
+            <t index="311" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:50,460</start-time>
+                <end-time>00:18:53,020</end-time>
+                <translation/>
+                <original>ドイツの外交官の屋敷から発見</original>
+                <spell/>
+            </t>
+            <t index="312" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:53,030</start-time>
+                <end-time>00:18:57,260</end-time>
+                <translation/>
+                <original>され、筆跡が似ていることからドレフュスが疑われた</original>
+                <spell/>
+            </t>
+            <t index="313" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:18:57,270</start-time>
+                <end-time>00:18:57,760</end-time>
+                <translation/>
+                <original>のです</original>
+                <spell/>
+            </t>
+            <t index="314" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:00,120</start-time>
+                <end-time>00:19:02,190</end-time>
+                <translation/>
+                <original>ドレフュスは無罪を主張</original>
+                <spell/>
+            </t>
+            <t index="315" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:02,820</start-time>
+                <end-time>00:19:05,860</end-time>
+                <translation/>
+                <original>物的証拠も状況証拠も薄弱でした</original>
+                <spell/>
+            </t>
+            <t index="316" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:06,880</start-time>
+                <end-time>00:19:07,970</end-time>
+                <translation/>
+                <original>逮捕の理由は</original>
+                <spell/>
+            </t>
+            <t index="317" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:08,360</start-time>
+                <end-time>00:19:12,230</end-time>
+                <translation/>
+                <original>彼がただ1人のユダヤ人士官であったこと</original>
+                <spell/>
+            </t>
+            <t index="318" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:14,070</start-time>
+                <end-time>00:19:16,710</end-time>
+                <translation/>
+                <original>この時、反ユダヤ系の新聞は</original>
+                <spell/>
+            </t>
+            <t index="319" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:17,340</start-time>
+                <end-time>00:19:21,590</end-time>
+                <translation/>
+                <original>ユダヤ人は国家を裏切る陰謀を巡らせていると主張</original>
+                <spell/>
+            </t>
+            <t index="320" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:22,080</start-time>
+                <end-time>00:19:24,410</end-time>
+                <translation/>
+                <original>軍部の弱腰も避難します</original>
+                <spell/>
+            </t>
+            <t index="321" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:26,660</start-time>
+                <end-time>00:19:30,910</end-time>
+                <translation/>
+                <original>証拠不10分のままドレフュスの判決は終身刑</original>
+                <spell/>
+            </t>
+            <t index="322" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:31,910</start-time>
+                <end-time>00:19:34,240</end-time>
+                <translation/>
+                <original>練兵場で軍刀をへし折られ</original>
+                <spell/>
+            </t>
+            <t index="323" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:34,670</start-time>
+                <end-time>00:19:37,240</end-time>
+                <translation/>
+                <original>南米の離島へと送られたのです</original>
+                <spell/>
+            </t>
+            <t index="324" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:40,090</start-time>
+                <end-time>00:19:42,420</end-time>
+                <translation/>
+                <original>アーレントは、この事件を通じ</original>
+                <spell/>
+            </t>
+            <t index="325" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:42,790</start-time>
+                <end-time>00:19:45,020</end-time>
+                <translation/>
+                <original>国民国家に同化しようとした</original>
+                <spell/>
+            </t>
+            <t index="326" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:45,030</start-time>
+                <end-time>00:19:48,280</end-time>
+                <translation/>
+                <original>ユダヤ人をパリアという言葉で表現</original>
+                <spell/>
+            </t>
+            <t index="327" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:49,250</start-time>
+                <end-time>00:19:49,860</end-time>
+                <translation/>
+                <original>それは</original>
+                <spell/>
+            </t>
+            <t index="328" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:50,110</start-time>
+                <end-time>00:19:51,460</end-time>
+                <translation/>
+                <original>体制外におかれ</original>
+                <spell/>
+            </t>
+            <t index="329" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:51,630</start-time>
+                <end-time>00:19:55,020</end-time>
+                <translation/>
+                <original>人間扱いされない人を意味する言葉でした</original>
+                <spell/>
+            </t>
+            <t index="330" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:19:57,530</start-time>
+                <end-time>00:20:00,310</end-time>
+                <translation/>
+                <original>不幸なドレフュス大尉の事件は</original>
+                <spell/>
+            </t>
+            <t index="331" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:01,040</start-time>
+                <end-time>00:20:02,270</end-time>
+                <translation/>
+                <original>人権などなく</original>
+                <spell/>
+            </t>
+            <t index="332" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:03,080</start-time>
+                <end-time>00:20:06,690</end-time>
+                <translation/>
+                <original>社会が法の保護の外に置いておこうとしてきた</original>
+                <spell/>
+            </t>
+            <t index="333" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:07,360</start-time>
+                <end-time>00:20:12,290</end-time>
+                <translation/>
+                <original>あのパリアの名残が全てのユダヤ人の男爵</original>
+                <spell/>
+            </t>
+            <t index="334" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:13,100</start-time>
+                <end-time>00:20:14,690</end-time>
+                <translation/>
+                <original>すべてのユダヤ人富豪</original>
+                <spell/>
+            </t>
+            <t index="335" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:15,450</start-time>
+                <end-time>00:20:18,640</end-time>
+                <translation/>
+                <original>すべてのユダヤ人のナショナリストの中に</original>
+                <spell/>
+            </t>
+            <t index="336" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:19,400</start-time>
+                <end-time>00:20:21,230</end-time>
+                <translation/>
+                <original>今なお潜んでいることを</original>
+                <spell/>
+            </t>
+            <t index="337" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:21,750</start-time>
+                <end-time>00:20:23,990</end-time>
+                <translation/>
+                <original>全世界に証明してしまった</original>
+                <spell/>
+            </t>
+            <t index="338" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:20:26,340</start-time>
+                <end-time>00:20:28,390</end-time>
+                <translation/>
+                <original>ユダヤ人の男爵っていうのは</original>
+                <spell/>
+            </t>
+            <t index="339" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:28,670</start-time>
+                <end-time>00:20:31,690</end-time>
+                <translation/>
+                <original>特にあの銀行かなどお金で</original>
+                <spell/>
+            </t>
+            <t index="340" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:31,720</start-time>
+                <end-time>00:20:36,260</end-time>
+                <translation/>
+                <original>買うような形で、その男爵の称号を持っていることって結構あったんだ</original>
+                <spell/>
+            </t>
+            <t index="341" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:36,300</start-time>
+                <end-time>00:20:40,470</end-time>
+                <translation/>
+                <original>ユダヤ人のナショナリストっていうのはフランスだとか、そのドイツだとか</original>
+                <spell/>
+            </t>
+            <t index="342" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:40,510</start-time>
+                <end-time>00:20:44,350</end-time>
+                <translation/>
+                <original>それぞれのまあ一応属しているところのあのネーション</original>
+                <spell/>
+            </t>
+            <t index="343" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:44,360</start-time>
+                <end-time>00:20:46,830</end-time>
+                <translation/>
+                <original>ステートに対する忠誠を</original>
+                <spell/>
+            </t>
+            <t index="344" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:46,910</start-time>
+                <end-time>00:20:49,740</end-time>
+                <translation/>
+                <original>持っているという意味でのナショナリストなんですけれど</original>
+                <spell/>
+            </t>
+            <t index="345" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:20:49,770</start-time>
+                <end-time>00:20:53,210</end-time>
+                <translation/>
+                <original>自分はもう男爵で、もう帰属だし</original>
+                <spell/>
+            </t>
+            <t index="346" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:53,240</start-time>
+                <end-time>00:20:57,330</end-time>
+                <translation/>
+                <original>で、あのナショナリストとして、まあ、これだけそのフランスとか</original>
+                <spell/>
+            </t>
+            <t index="347" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:57,340</start-time>
+                <end-time>00:20:58,800</end-time>
+                <translation/>
+                <original>ドイツ愛してんだから</original>
+                <spell/>
+            </t>
+            <t index="348" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:20:58,850</start-time>
+                <end-time>00:21:03,360</end-time>
+                <translation/>
+                <original>もうこれでそんな差別をされるはずがないだろうと思ってたのが</original>
+                <spell/>
+            </t>
+            <t index="349" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:03,410</start-time>
+                <end-time>00:21:07,560</end-time>
+                <translation/>
+                <original>実は、このドレフュス事件をきっかけにユダヤ人だからお前</original>
+                <spell/>
+            </t>
+            <t index="350" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:07,570</start-time>
+                <end-time>00:21:09,380</end-time>
+                <translation/>
+                <original>こういうことやってるんだろうと</original>
+                <spell/>
+            </t>
+            <t index="351" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:09,390</start-time>
+                <end-time>00:21:12,900</end-time>
+                <translation/>
+                <original>それまでこう築いてきたものはもう何の関係もなくなってしまうと</original>
+                <spell/>
+            </t>
+            <t index="352" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:13,100</start-time>
+                <end-time>00:21:16,790</end-time>
+                <translation/>
+                <original>このドレフュス事件のあの直前ぐらいに</original>
+                <spell/>
+            </t>
+            <t index="353" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:17,210</start-time>
+                <end-time>00:21:19,360</end-time>
+                <translation/>
+                <original>あのフランスでそのパナマ</original>
+                <spell/>
+            </t>
+            <t index="354" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:21:19,390</start-time>
+                <end-time>00:21:23,130</end-time>
+                <translation/>
+                <original>の運河疑獄くっていうのがあるんですけど、ユダヤ資本が</original>
+                <spell/>
+            </t>
+            <t index="355" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:21:23,170</start-time>
+                <end-time>00:21:25,660</end-time>
+                <translation/>
+                <original>なんかかねだしてて、どうもあいつらが</original>
+                <spell/>
+            </t>
+            <t index="356" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:25,690</start-time>
+                <end-time>00:21:29,280</end-time>
+                <translation/>
+                <original>なんかこうわざとやったんじゃないかっていうことを産まれた</original>
+                <spell/>
+            </t>
+            <t index="357" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:29,290</start-time>
+                <end-time>00:21:30,220</end-time>
+                <translation/>
+                <original>時期に</original>
+                <spell/>
+            </t>
+            <t index="358" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:30,320</start-time>
+                <end-time>00:21:34,170</end-time>
+                <translation/>
+                <original>もうこれ、怒ったもんだから、あ、やっぱりユダヤ人は後</original>
+                <spell/>
+            </t>
+            <t index="359" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:35,290</start-time>
+                <end-time>00:21:36,980</end-time>
+                <translation/>
+                <original>でこれだからなんかこう</original>
+                <spell/>
+            </t>
+            <t index="360" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:37,010</start-time>
+                <end-time>00:21:41,480</end-time>
+                <translation/>
+                <original>どっかの扇動家がなんかこう計画的に作ったというよりは</original>
+                <spell/>
+            </t>
+            <t index="361" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:41,510</start-time>
+                <end-time>00:21:44,430</end-time>
+                <translation/>
+                <original>もうなんかその国民がそういうものを</original>
+                <spell/>
+            </t>
+            <t index="362" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:44,460</start-time>
+                <end-time>00:21:48,250</end-time>
+                <translation/>
+                <original>あの信じてぐっとこう盛り上がってしまうような</original>
+                <spell/>
+            </t>
+            <t index="363" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:21:48,280</start-time>
+                <end-time>00:21:52,050</end-time>
+                <translation/>
+                <original>もうしょうじがすぐにあったんだということが、この</original>
+                <spell/>
+            </t>
+            <t index="364" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:21:52,110</start-time>
+                <end-time>00:21:52,930</end-time>
+                <translation/>
+                <original>話のまあ、味噌</original>
+                <spell/>
+            </t>
+            <t index="365" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:53,730</start-time>
+                <end-time>00:21:56,970</end-time>
+                <translation/>
+                <original>うまいカタカナ陰謀論自分ならこうなんじゃないか</original>
+                <spell/>
+            </t>
+            <t index="366" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:21:56,980</start-time>
+                <end-time>00:22:00,890</end-time>
+                <translation/>
+                <original>こういう可能性もあるよねっていうパーツががっとこうはまった時の</original>
+                <spell/>
+            </t>
+            <t index="367" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:01,170</start-time>
+                <end-time>00:22:05,820</end-time>
+                <translation/>
+                <original>ある意味の気持ちよさそうだったんだって思った</original>
+                <spell/>
+            </t>
+            <t index="368" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:06,290</start-time>
+                <end-time>00:22:07,460</end-time>
+                <translation/>
+                <original>そこから</original>
+                <spell/>
+            </t>
+            <t index="369" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:08,120</start-time>
+                <end-time>00:22:10,130</end-time>
+                <translation/>
+                <original>みんな離れられなくなりますよね</original>
+                <spell/>
+            </t>
+            <t index="370" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:10,160</start-time>
+                <end-time>00:22:13,290</end-time>
+                <translation/>
+                <original>最初におっしゃった閉塞感みたいな状況の中で</original>
+                <spell/>
+            </t>
+            <t index="371" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:14,480</start-time>
+                <end-time>00:22:15,900</end-time>
+                <translation/>
+                <original>猛烈加速しますよね</original>
+                <spell/>
+            </t>
+            <t index="372" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:15,910</start-time>
+                <end-time>00:22:16,570</end-time>
+                <translation/>
+                <original>陰謀論</original>
+                <spell/>
+            </t>
+            <t index="373" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:16,660</start-time>
+                <end-time>00:22:20,460</end-time>
+                <translation/>
+                <original>まあ、やっぱりあの経済的にやっぱりこう行き詰った時に</original>
+                <spell/>
+            </t>
+            <t index="374" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:20,490</start-time>
+                <end-time>00:22:24,390</end-time>
+                <translation/>
+                <original>これやっぱりなんかは足引っ張ってるやつがいるんじゃないかと</original>
+                <spell/>
+            </t>
+            <t index="375" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:24,420</start-time>
+                <end-time>00:22:26,910</end-time>
+                <translation/>
+                <original>単に物じゃなくて、その異物が</original>
+                <spell/>
+            </t>
+            <t index="376" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:26,940</start-time>
+                <end-time>00:22:29,070</end-time>
+                <translation/>
+                <original>自分たちのそのポテンシャルを</original>
+                <spell/>
+            </t>
+            <t index="377" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:29,420</start-time>
+                <end-time>00:22:32,130</end-time>
+                <translation/>
+                <original>まあ、あの奪っていると</original>
+                <spell/>
+            </t>
+            <t index="378" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:32,140</start-time>
+                <end-time>00:22:36,010</end-time>
+                <translation/>
+                <original>そうするとこの異物は覗かないといけない物だっていう発想にこうなっていきます</original>
+                <spell/>
+            </t>
+            <t index="379" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:22:36,340</start-time>
+                <end-time>00:22:37,270</end-time>
+                <translation/>
+                <original>敵ですよね</original>
+                <spell/>
+            </t>
+            <t index="380" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:22:37,280</start-time>
+                <end-time>00:22:38,170</end-time>
+                <translation/>
+                <original>敵ですよね</original>
+                <spell/>
+            </t>
+            <t index="381" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                    <mark top="默认标记">默认标记</mark>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:22:39,240</start-time>
+                <end-time>00:22:41,910</end-time>
+                <translation/>
+                <original>単に嫌な奴じゃなくててきなんですね</original>
+                <spell/>
+            </t>
+            <t index="382" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:42,570</start-time>
+                <end-time>00:22:46,650</end-time>
+                <translation/>
+                <original>排除しなければ自分たちにそうを与えると</original>
+                <spell/>
+            </t>
+            <t index="383" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:46,770</start-time>
+                <end-time>00:22:50,210</end-time>
+                <translation/>
+                <original>やっぱりそういうような回路が一旦出来上がってしまうと</original>
+                <spell/>
+            </t>
+            <t index="384" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:50,530</start-time>
+                <end-time>00:22:52,080</end-time>
+                <translation/>
+                <original>やっぱりそれを</original>
+                <spell/>
+            </t>
+            <t index="385" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:52,750</start-time>
+                <end-time>00:22:56,770</end-time>
+                <translation/>
+                <original>そういう発想をやっぱ同じようなことが起こると、今度はそれはもっと、大きな</original>
+                <spell/>
+            </t>
+            <t index="386" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:56,780</start-time>
+                <end-time>00:22:58,560</end-time>
+                <translation/>
+                <original>規模でまた再現すると</original>
+                <spell/>
+            </t>
+            <t index="387" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:22:58,710</start-time>
+                <end-time>00:23:03,160</end-time>
+                <translation/>
+                <original>自分たちとはその異なる人たちを排除したいっていう気持ちとか動きっていうのは本当</original>
+                <spell/>
+            </t>
+            <t index="388" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:03,170</start-time>
+                <end-time>00:23:06,410</end-time>
+                <translation/>
+                <original>に今の現代でも世界各地にみられますよね</original>
+                <spell/>
+            </t>
+            <t index="389" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:06,440</start-time>
+                <end-time>00:23:08,830</end-time>
+                <translation/>
+                <original>社会の大多数は</original>
+                <spell/>
+            </t>
+            <t index="390" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:09,010</start-time>
+                <end-time>00:23:13,480</end-time>
+                <translation/>
+                <original>やっぱりこう自分に対して共感してくれるような人たち</original>
+                <spell/>
+            </t>
+            <t index="391" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:23:13,490</start-time>
+                <end-time>00:23:16,830</end-time>
+                <translation/>
+                <original>で、自分にとっててきっていうのを</original>
+                <spell/>
+            </t>
+            <t index="392" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:17,280</start-time>
+                <end-time>00:23:17,990</end-time>
+                <translation/>
+                <original>何て言うかな</original>
+                <spell/>
+            </t>
+            <t index="393" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:18,000</start-time>
+                <end-time>00:23:20,930</end-time>
+                <translation/>
+                <original>あのごく少数のあの</original>
+                <spell/>
+            </t>
+            <t index="394" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:21,560</start-time>
+                <end-time>00:23:25,070</end-time>
+                <translation/>
+                <original>特殊なグループに、なんかまとめて考えていくと</original>
+                <spell/>
+            </t>
+            <t index="395" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:25,100</start-time>
+                <end-time>00:23:26,780</end-time>
+                <translation/>
+                <original>まあ大体こう</original>
+                <spell/>
+            </t>
+            <t index="396" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:26,790</start-time>
+                <end-time>00:23:28,010</end-time>
+                <translation/>
+                <original>気持ちが落ち着いてきますよね</original>
+                <spell/>
+            </t>
+            <t index="397" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:30,640</start-time>
+                <end-time>00:23:33,290</end-time>
+                <translation/>
+                <original>立ち向かうのをちょっと本当にあの</original>
+                <spell/>
+            </t>
+            <t index="398" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:34,630</start-time>
+                <end-time>00:23:36,500</end-time>
+                <translation/>
+                <original>気合を入れて頑張るんですね</original>
+                <spell/>
+            </t>
+            <t index="399" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:36,900</start-time>
+                <end-time>00:23:40,210</end-time>
+                <translation/>
+                <original>さあ、次回またさらに読み進めていきたいと思います</original>
+                <spell/>
+            </t>
+            <t index="400" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <marks>
+                    <mark top="默认标记">默认标记</mark>
+                </marks>
+                <start-time>00:23:40,220</start-time>
+                <end-time>00:23:42,030</end-time>
+                <translation/>
+                <original>なかまつさん、今日はありがとうございました</original>
+                <spell/>
+            </t>
+            <t index="401" time="" vertical="0" id="" hasRuby="0" torder="1">
+                <start-time>00:23:42,040</start-time>
+                <end-time>00:23:42,740</end-time>
+                <translation/>
+                <original>ありがとうございました</original>
+                <spell/>
+            </t>
+        </part>
+    </body>
+</ysj>

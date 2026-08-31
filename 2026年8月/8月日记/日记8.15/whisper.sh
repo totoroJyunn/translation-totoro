@@ -18,7 +18,7 @@ for file in *.mp4; do
         
         # 2. 运行 whisper-cli
         echo "[2/3] 正在生成字幕..."
-        whisper-cli -m "$MODEL_PATH" -f "$wav_file" -l ja -osrt -et 2.0 -lpt -0.5
+        whisper-cli -m "$MODEL_PATH" -f "$wav_file" -l chinese -osrt -et 2.0 -lpt -0.5
         
         # 3. 清理临时的 wav 文件
         echo "[3/3] 清理临时文件..."
