@@ -1,4 +1,23 @@
+# macOS
+.DS_Store
+
+# 视频文件
 *.mp4
+*.MP4
+*.mov
+*.MOV
+*.mkv
+
+# 音频文件
+*.mp3
+*.m4a
+*.m4b
+*.wav
+
+# 电子书
 *.epub
 *.pdf
-*.MOV
+
+# Python
+.venv/
+__pycache__/
