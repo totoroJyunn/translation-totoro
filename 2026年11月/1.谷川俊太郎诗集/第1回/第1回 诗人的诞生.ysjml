@@ -1,0 +1,3618 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ysj>
+    <head>
+        <version>3</version>
+        <srt-meta>
+            <sub-font>PingFangSC-Regular</sub-font>
+            <sub-font-size>45</sub-font-size>
+            <sub-color>#FFFFFF</sub-color>
+            <sub-bold>no</sub-bold>
+            <sub-italic>no</sub-italic>
+            <sub-border-size>3</sub-border-size>
+            <sub-border-color>#000000</sub-border-color>
+            <sub-shadow-offset>0</sub-shadow-offset>
+            <sub-shadow-color>#000000</sub-shadow-color>
+            <sub-align-x>center</sub-align-x>
+            <sub-align-y>bottom</sub-align-y>
+            <sub-spacing>0</sub-spacing>
+            <sub-margin-x>25</sub-margin-x>
+            <sub-margin-y>22</sub-margin-y>
+        </srt-meta>
+        <meta>
+            <title>人人译视界字幕工程文件，人人译视界-智能协同翻译平台</title>
+            <format>srt</format>
+            <charset>UTF-8</charset>
+            <source-lang>jp</source-lang>
+            <target-lang>cn</target-lang>
+            <target-dub>target</target-dub>
+            <video>
+                <path>/Users/ttl/Documents/git/shiyi/translation-totoro/100分de名著/2026年10月/5.谷川俊太郎/１００分ｄｅ名著　“谷川俊太郎詩集”　（２）「生活」と「人生」のはざまで.mp4</path>
+            </video>
+            <lock t="" lock-time="0" lock-content="0" pwd=""/>
+            <task type="1" id="" token=""/>
+            <replace-space enable="false">
+                <orig tailCheck="false" middleReplaceCount="1" middleCheck="false" tailReplaceChars="。？！.?!" middleReplaceChars="、，；,;"/>
+                <trans tailCheck="false" middleReplaceCount="1" middleCheck="false" tailReplaceChars="。？！.?!" middleReplaceChars="、，；,;"/>
+            </replace-space>
+            <correction updateTime="0">
+                <id/>
+                <path/>
+            </correction>
+            <marks>
+                <mark top="" color="#4affff" builtin="1" inUse="1">默认标记</mark>
+                <mark top="" color="#339966" builtin="1">硬字幕</mark>
+                <mark top="" color="#ccffff" builtin="1">歌词</mark>
+                <mark top="" color="#ffcccc" builtin="1">遮幅</mark>
+                <mark top="" color="#ffff99" builtin="1">敏感词</mark>
+                <mark top="" color="#ccccff" builtin="1">翻译错误</mark>
+                <mark top="翻译错误" color="#ff9966" builtin="1">错译</mark>
+                <mark top="翻译错误" color="#ff6666" builtin="1">表达不当</mark>
+                <mark top="翻译错误" color="#ffcccc" builtin="1">语法错误</mark>
+                <mark top="" color="#ffcc99" builtin="1">低错</mark>
+                <mark top="低错" color="#ccff99" builtin="1">漏译</mark>
+                <mark top="低错" color="#cccccc" builtin="1">格式错误</mark>
+                <mark top="低错" color="#99ccff" builtin="1">标点错误</mark>
+                <mark top="低错" color="#66cc99" builtin="1">断句不合理</mark>
+                <mark top="低错" color="#ff9900" builtin="1">字符长度不合规</mark>
+                <mark top="" color="#ccff00" builtin="1">听写错误</mark>
+                <mark top="听写错误" color="#cc3399" builtin="1">听错</mark>
+                <mark top="听写错误" color="#993366" builtin="1">漏听</mark>
+                <mark top="" color="#666633" builtin="1">时间轴错误</mark>
+                <mark top="时间轴错误" color="#cccc99" builtin="1">时间轴不准</mark>
+                <mark top="时间轴错误" color="#009966" builtin="1">时间轴重叠</mark>
+                <mark top="" color="#0099cc" builtin="1">小语种</mark>
+                <mark top="小语种" color="#006600" builtin="1">英语</mark>
+                <mark top="小语种" color="#336699" builtin="1">法语</mark>
+                <mark top="小语种" color="#ff0033" builtin="1">西语</mark>
+                <mark top="小语种" color="#663399" builtin="1">俄语</mark>
+                <mark top="小语种" color="#333333" builtin="1">韩语</mark>
+                <mark top="小语种" color="#996666" builtin="1">日语</mark>
+            </marks>
+            <characters/>
+            <detect-slices/>
+            <dub-dictionaries/>
+            <dubSerialNo/>
+        </meta>
+    </head>
+    <body stage="SubtitleEdit">
+        <part updateMethod="0" lastModifyTime="0">
+            <t vertical="0" torder="1" id="" index="1" hasRuby="0" time="">
+                <start-time>00:00:05,275</start-time>
+                <end-time>00:00:08,333</end-time>
+                <translation>越过天空</translation>
+                <original>空をこえて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="2" hasRuby="0" time="">
+                <start-time>00:00:08,333</start-time>
+                <end-time>00:00:12,175</end-time>
+                <translation>啦啦啦 飞向群星的彼方</translation>
+                <original>ラララ星のかなた</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="3" hasRuby="0" time="">
+                <start-time>00:00:12,175</start-time>
+                <end-time>00:00:15,800</end-time>
+                <translation>出发吧 阿童木</translation>
+                <original>行くぞアトム</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="4" hasRuby="0" time="">
+                <start-time>00:00:15,800</start-time>
+                <end-time>00:00:21,175</end-time>
+                <translation>喷气引擎的极限</translation>
+                <original>ジェットの限り</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="5" hasRuby="0" time="">
+                <start-time>00:00:21,175</start-time>
+                <end-time>00:00:24,495</end-time>
+                <translation>曾经有一位热爱宇宙的少年</translation>
+                <original>かつて宇宙が大好きだった一人の少年は</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="6" hasRuby="0" time="">
+                <start-time>00:00:24,495</start-time>
+                <end-time>00:00:26,375</end-time>
+                <translation>长大成人后</translation>
+                <original>大人になり</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="7" hasRuby="0" time="">
+                <start-time>00:00:26,375</start-time>
+                <end-time>00:00:30,650</end-time>
+                <translation>为这首家喻户晓的歌曲填了词</translation>
+                <original>誰もが知るこの曲を作詞しました</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="8" hasRuby="0" time="">
+                <start-time>00:00:30,650</start-time>
+                <end-time>00:00:33,675</end-time>
+                <translation>他就是诗人谷川俊太郎
+詩人谷川俊太郎です</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="9" hasRuby="0" time="">
+                <start-time>00:00:36,580</start-time>
+                <end-time>00:00:40,725</end-time>
+                <translation>一直引领诗歌世界的谷川俊太郎
+詩の世界をリードし続けた谷川俊太郎</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="10" hasRuby="0" time="">
+                <start-time>00:00:42,625</start-time>
+                <end-time>00:00:46,775</end-time>
+                <translation>自二十岁惊艳文坛以来</translation>
+                <original>20歳で鮮烈なデビューを飾って以来</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="11" hasRuby="0" time="">
+                <start-time>00:00:46,775</start-time>
+                <end-time>00:00:49,375</end-time>
+                <translation>他为合唱曲和校歌作词
+合唱曲や校歌の作詞</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="12" hasRuby="0" time="">
+                <start-time>00:00:51,125</start-time>
+                <end-time>00:00:54,275</end-time>
+                <translation>翻译绘本和儿童文学作品
+絵本や児童文学の翻訳など</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="13" hasRuby="0" time="">
+                <start-time>00:00:54,275</start-time>
+                <end-time>00:00:59,160</end-time>
+                <translation>以诗歌为起点展开了广泛的创作活动</translation>
+                <original>詩を足掛かりに幅広い創作活動を行ってきました</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="14" hasRuby="0" time="">
+                <start-time>00:01:01,660</start-time>
+                <end-time>00:01:05,300</end-time>
+                <translation>源自敏锐感性的谷川诗作</translation>
+                <original>鋭い感性から生まれる谷川の詩は</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="15" hasRuby="0" time="">
+                <start-time>00:01:05,300</start-time>
+                <end-time>00:01:07,900</end-time>
+                <translation>跨越时代和体裁的界限</translation>
+                <original>時代やジャンルの垣根を越えて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="16" hasRuby="0" time="">
+                <start-time>00:01:07,900</start-time>
+                <end-time>00:01:10,100</end-time>
+                <translation>被一代代读者阅读至今</translation>
+                <original>多くの人に読み継がれています</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="17" hasRuby="0" time="">
+                <start-time>00:01:13,025</start-time>
+                <end-time>00:01:18,050</end-time>
+                <translation>诗人谷川俊太郎究竟是如何诞生的</translation>
+                <original>いかにして詩人谷川俊太郎は生まれたのか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="18" hasRuby="0" time="">
+                <start-time>00:01:18,050</start-time>
+                <end-time>00:01:20,575</end-time>
+                <translation>让我们追溯谷川诗歌的源头</translation>
+                <original>谷川の源流をたどってみましょう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="19" hasRuby="0" time="">
+                <start-time>00:01:38,950</start-time>
+                <end-time>00:01:44,933</end-time>
+                <translation>第1回 诗人的诞生
+第1回 詩人の誕生</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="20" hasRuby="0" time="">
+                <start-time>00:01:45,870</start-time>
+                <end-time>00:01:49,200</end-time>
+                <translation>-100分de名著主持人安部美智子 -伊集院光
+-100分de名著司会の安部みちこです　-伊集院光です</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="21" hasRuby="0" time="">
+                <start-time>00:01:49,200</start-time>
+                <end-time>00:01:52,625</end-time>
+                <translation>本月我们要介绍的是2013年出版的
+今月は2013年に出版された</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="22" hasRuby="0" time="">
+                <start-time>00:01:52,625</start-time>
+                <end-time>00:01:55,475</end-time>
+                <translation>谷川老师的《自选谷川俊太郎诗集》
+谷川さん自選の『谷川俊太郎詩集』を取り上げます</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="23" hasRuby="0" time="">
+                <start-time>00:01:55,475</start-time>
+                <end-time>00:01:57,775</end-time>
+                <translation>伊集院 谷川你当然知道吧</translation>
+                <original>伊集院さん、谷川さんはご存じですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="24" hasRuby="0" time="">
+                <start-time>00:01:57,775</start-time>
+                <end-time>00:02:01,050</end-time>
+                <translation>刚才播放的《铁臂阿童木》就是他的作品</translation>
+                <original>それこそ今流れた『鉄腕アトム』もそうですし</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="25" hasRuby="0" time="">
+                <start-time>00:02:01,050</start-time>
+                <end-time>00:02:02,850</end-time>
+                <translation>前阵子我在广播节目里</translation>
+                <original>この間ねラジオで</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="26" hasRuby="0" time="">
+                <start-time>00:02:02,850</start-time>
+                <end-time>00:02:05,900</end-time>
+                <translation>向听众征集最想让孩子读的绘本
+自分の子供に絶対読ませたい絵本は何ですか</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="27" hasRuby="0" time="">
+                <start-time>00:02:05,900</start-time>
+                <end-time>00:02:09,000</end-time>
+                <translation>结果很多人在投稿</translation>
+                <original>っていう投稿を募集したら</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="28" hasRuby="0" time="">
+                <start-time>00:02:09,000</start-time>
+                <end-time>00:02:10,925</end-time>
+                <translation>提到了谷川老师
+谷川先生の</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="29" hasRuby="0" time="">
+                <start-time>00:02:10,925</start-time>
+                <end-time>00:02:16,050</end-time>
+                <translation>各种各样的童话或者说绘本</translation>
+                <original>もういろんな種類の童話というか絵本が出てきて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="30" hasRuby="0" time="">
+                <start-time>00:02:16,050</start-time>
+                <end-time>00:02:18,650</end-time>
+                <translation>我才发现他影响了这么多人</translation>
+                <original>こんなにいろんな人に影響を与えてるんだ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="31" hasRuby="0" time="">
+                <start-time>00:02:18,650</start-time>
+                <end-time>00:02:19,933</end-time>
+                <translation>是啊</translation>
+                <original>そうなんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="32" hasRuby="0" time="">
+                <start-time>00:02:19,933</start-time>
+                <end-time>00:02:23,650</end-time>
+                <translation>他的活动不限于诗歌 还涉及各个领域</translation>
+                <original>詩にとどまらないいろんなジャンルで活躍された方なんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="33" hasRuby="0" time="">
+                <start-time>00:02:23,650</start-time>
+                <end-time>00:02:27,650</end-time>
+                <translation>这个月就让我们沉浸在谷川先生的诗歌世界中</translation>
+                <original>さあ今月は谷川さんの詩の世界に浸っていこうと思います</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="34" hasRuby="0" time="">
+                <start-time>00:02:27,650</start-time>
+                <end-time>00:02:31,050</end-time>
+                <translation>为我们领读的是评论家兼诗人若松英辅老师
+指南役は批評家で詩人の若松英輔さんです</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="35" hasRuby="0" time="">
+                <start-time>00:02:31,050</start-time>
+                <end-time>00:02:32,525</end-time>
+                <translation>若松老师 请多指教</translation>
+                <original>若松さんよろしくお願いします</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="36" hasRuby="0" time="">
+                <start-time>00:02:32,525</start-time>
+                <end-time>00:02:33,655</end-time>
+                <translation>大家请多指教</translation>
+                <original>(一同に)よろしくお願いします</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="37" hasRuby="0" time="">
+                <start-time>00:02:37,405</start-time>
+                <end-time>00:02:40,666</end-time>
+                <translation>作为诗人也出版了许多著作的</translation>
+                <original>詩人としても多くの著作を発表している</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="38" hasRuby="0" time="">
+                <start-time>00:02:40,666</start-time>
+                <end-time>00:02:42,150</end-time>
+                <translation>若松英辅老师
+若松英輔さん</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="39" hasRuby="0" time="">
+                <start-time>00:02:43,800</start-time>
+                <end-time>00:02:47,300</end-time>
+                <translation>他认为谷川彻底改变了
+谷川が日本人の詩の常識を</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="40" hasRuby="0" time="">
+                <start-time>00:02:47,300</start-time>
+                <end-time>00:02:49,035</end-time>
+                <translation>日本人对于诗歌的传统观念</translation>
+                <original>大きく変えたと考えています</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="41" hasRuby="0" time="">
+                <start-time>00:02:51,460</start-time>
+                <end-time>00:02:52,875</end-time>
+                <translation>在谷川先生出现之前</translation>
+                <original>谷川さんが出てくるまでは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="42" hasRuby="0" time="">
+                <start-time>00:02:52,875</start-time>
+                <end-time>00:02:54,800</end-time>
+                <translation>诗歌越难懂越好</translation>
+                <original>詩っていうのは難しい方が</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="43" hasRuby="0" time="">
+                <start-time>00:02:54,800</start-time>
+                <end-time>00:02:57,175</end-time>
+                <translation>甚至会有这种氛围</translation>
+                <original>いいというような雰囲気すらあった</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="44" hasRuby="0" time="">
+                <start-time>00:02:57,175</start-time>
+                <end-time>00:02:59,033</end-time>
+                <translation>但谷川先生出现之后</translation>
+                <original>だけど谷川さんが出てきて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="45" hasRuby="0" time="">
+                <start-time>00:02:59,033</start-time>
+                <end-time>00:03:01,125</end-time>
+                <translation>我们平日所说的</translation>
+                <original>私たちが日頃話している</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="46" hasRuby="0" time="">
+                <start-time>00:03:01,125</start-time>
+                <end-time>00:03:04,225</end-time>
+                <translation>这些话语也可以成为诗的语言</translation>
+                <original>そういう言葉も詩の言葉として用いることができるんだ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="47" hasRuby="0" time="">
+                <start-time>00:03:04,225</start-time>
+                <end-time>00:03:07,325</end-time>
+                <translation>我想人们开始有了这样的认识</translation>
+                <original>というふうになったんだと思うんですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="48" hasRuby="0" time="">
+                <start-time>00:03:07,325</start-time>
+                <end-time>00:03:09,500</end-time>
+                <translation>用浅显易懂的话语写成的诗</translation>
+                <original>分かりやすい言葉で書かれている詩</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="49" hasRuby="0" time="">
+                <start-time>00:03:09,500</start-time>
+                <end-time>00:03:11,875</end-time>
+                <translation>原来是比较晚近才出现的啊</translation>
+                <original>って割と最近なんですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="50" hasRuby="0" time="">
+                <start-time>00:03:11,875</start-time>
+                <end-time>00:03:16,066</end-time>
+                <translation>所以我们总觉得要费心琢磨学过的词句</translation>
+                <original>だから何か私たちはこう習った言葉を一生懸命工夫して</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="51" hasRuby="0" time="">
+                <start-time>00:03:16,066</start-time>
+                <end-time>00:03:18,100</end-time>
+                <translation>写出一些漂亮的作品才行</translation>
+                <original>格好いいものを書かなきゃいけない</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="52" hasRuby="0" time="">
+                <start-time>00:03:18,100</start-time>
+                <end-time>00:03:20,725</end-time>
+                <translation>但其实并不是这样</translation>
+                <original>って何かそんなふうに思いがちですけどいやそうじゃないって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="53" hasRuby="0" time="">
+                <start-time>00:03:20,725</start-time>
+                <end-time>00:03:21,966</end-time>
+                <translation>你在生活中</translation>
+                <original>あなたが生きて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="54" hasRuby="0" time="">
+                <start-time>00:03:21,966</start-time>
+                <end-time>00:03:23,766</end-time>
+                <translation>所遇见的那些话语</translation>
+                <original>あなたが出会った言葉を</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="55" hasRuby="0" time="">
+                <start-time>00:03:23,766</start-time>
+                <end-time>00:03:25,600</end-time>
+                <translation>试着用它们写诗不是很好吗</translation>
+                <original>用いてみるといいんじゃないか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="56" hasRuby="0" time="">
+                <start-time>00:03:25,600</start-time>
+                <end-time>00:03:27,753</end-time>
+                <translation>因此读过谷川先生的诗后</translation>
+                <original>ですので谷川さんの詩を読んで</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="57" hasRuby="0" time="">
+                <start-time>00:03:27,753</start-time>
+                <end-time>00:03:29,898</end-time>
+                <translation>开始觉得自己也想写写诗的人</translation>
+                <original>私も詩を書いてみようと思った人は</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="58" hasRuby="0" time="">
+                <start-time>00:03:29,898</start-time>
+                <end-time>00:03:31,791</end-time>
+                <translation>我想应该有很多</translation>
+                <original>たくさんいらっしゃるんじゃないかと思うんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="59" hasRuby="0" time="">
+                <start-time>00:03:33,007</start-time>
+                <end-time>00:03:36,618</end-time>
+                <translation>今天我们就从谷川俊太郎留下的诗作中</translation>
+                <original>ということで今日は谷川俊太郎さんの残された詩の中から</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="60" hasRuby="0" time="">
+                <start-time>00:03:36,618</start-time>
+                <end-time>00:03:39,327</end-time>
+                <translation>以他最早期的作品为中心加以解读</translation>
+                <original>最初期のものを中心に読み解いていきます</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="61" hasRuby="0" time="">
+                <start-time>00:03:39,327</start-time>
+                <end-time>00:03:41,694</end-time>
+                <translation>首先来读他最著名的作品之一</translation>
+                <original>まずは最も有名な作品の一つ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="62" hasRuby="0" time="">
+                <start-time>00:03:41,694</start-time>
+                <end-time>00:03:44,348</end-time>
+                <translation>《二十亿光年的孤独》</translation>
+                <original>『二十億光年の孤独』を読んでみましょう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="63" hasRuby="0" time="">
+                <start-time>00:03:44,348</start-time>
+                <end-time>00:03:47,095</end-time>
+                <translation>为我们朗读的是演员昆夏美
+朗読は俳優の昆夏美さんです</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="64" hasRuby="0" time="">
+                <start-time>00:03:50,217</start-time>
+                <end-time>00:03:53,130</end-time>
+                <translation>人类在小小的星球上
+人類は小さな球の上で</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="65" hasRuby="0" time="">
+                <start-time>00:03:53,130</start-time>
+                <end-time>00:03:57,914</end-time>
+                <translation>睡去 醒来 然后工作</translation>
+                <original>眠り起きそして働き</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="66" hasRuby="0" time="">
+                <start-time>00:03:57,914</start-time>
+                <end-time>00:04:00,920</end-time>
+                <translation>有时也渴望火星上能有自己的伙伴</translation>
+                <original>ときどき火星に仲間を欲しがったりする</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="67" hasRuby="0" time="">
+                <start-time>00:04:02,792</start-time>
+                <end-time>00:04:07,537</end-time>
+                <translation>火星人在小小的星球上做些什么</translation>
+                <original>火星人は小さな球の上で何をしているか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="68" hasRuby="0" time="">
+                <start-time>00:04:07,537</start-time>
+                <end-time>00:04:09,868</end-time>
+                <translation>我不知道</translation>
+                <original>僕は知らない</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="69" hasRuby="0" time="">
+                <start-time>00:04:09,868</start-time>
+                <end-time>00:04:13,259</end-time>
+                <translation>或许在涅哩哩 在基噜噜</translation>
+                <original>あるいはネリリしキルルし</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="70" hasRuby="0" time="">
+                <start-time>00:04:13,259</start-time>
+                <end-time>00:04:16,435</end-time>
+                <translation>在哈啦啦吧</translation>
+                <original>ハララしているか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="71" hasRuby="0" time="">
+                <start-time>00:04:16,435</start-time>
+                <end-time>00:04:20,710</end-time>
+                <translation>但他们也时常渴望地球上能有伙伴</translation>
+                <original>しかしときどき地球に仲間を欲しがったりする</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="72" hasRuby="0" time="">
+                <start-time>00:04:20,710</start-time>
+                <end-time>00:04:25,535</end-time>
+                <translation>这一点却是千真万确的</translation>
+                <original>それはまったくたしかなことだ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="73" hasRuby="0" time="">
+                <start-time>00:04:25,535</start-time>
+                <end-time>00:04:27,680</end-time>
+                <translation>万有引力就是</translation>
+                <original>万有引力とは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="74" hasRuby="0" time="">
+                <start-time>00:04:27,680</start-time>
+                <end-time>00:04:31,378</end-time>
+                <translation>相互吸引的孤独之力</translation>
+                <original>ひき合う孤独の力である</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="75" hasRuby="0" time="">
+                <start-time>00:04:31,378</start-time>
+                <end-time>00:04:34,192</end-time>
+                <translation>宇宙是扭曲的</translation>
+                <original>宇宙はひずんでいる</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="76" hasRuby="0" time="">
+                <start-time>00:04:34,192</start-time>
+                <end-time>00:04:37,904</end-time>
+                <translation>因此大家才相互寻求</translation>
+                <original>それ故みんなはもとめ合う</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="77" hasRuby="0" time="">
+                <start-time>00:04:37,904</start-time>
+                <end-time>00:04:41,603</end-time>
+                <translation>宇宙不断膨胀</translation>
+                <original>宇宙はどんどん膨らんでゆく</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="78" hasRuby="0" time="">
+                <start-time>00:04:41,603</start-time>
+                <end-time>00:04:43,933</end-time>
+                <translation>因此大家都感到不安</translation>
+                <original>それ故みんなは不安である</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="79" hasRuby="0" time="">
+                <start-time>00:04:46,574</start-time>
+                <end-time>00:04:49,733</end-time>
+                <translation>面对二十亿光年的孤独
+二十億光年の孤独に</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="80" hasRuby="0" time="">
+                <start-time>00:04:49,733</start-time>
+                <end-time>00:04:51,901</end-time>
+                <translation>我不由得打了个喷嚏</translation>
+                <original>僕は思わずくしゃみをした</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="81" hasRuby="0" time="">
+                <start-time>00:04:56,683</start-time>
+                <end-time>00:04:58,663</end-time>
+                <translation>说起表达对诗歌的感想</translation>
+                <original>なんか詩の感想を言うのって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="82" hasRuby="0" time="">
+                <start-time>00:04:58,663</start-time>
+                <end-time>00:05:01,102</end-time>
+                <translation>可能我们在国语课上
+国語の授業とかで</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="83" hasRuby="0" time="">
+                <start-time>00:05:01,102</start-time>
+                <end-time>00:05:02,616</end-time>
+                <translation>做过太多这样的练习了</translation>
+                <original>やりすぎたというか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="84" hasRuby="0" time="">
+                <start-time>00:05:02,616</start-time>
+                <end-time>00:05:05,109</end-time>
+                <translation>-多少会有点被逼着回答的感觉 -是啊</translation>
+                <original>-ちょっと強迫感もあるかもしれない　-そうですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="85" hasRuby="0" time="">
+                <start-time>00:05:05,109</start-time>
+                <end-time>00:05:07,135</end-time>
+                <translation>若松老师提到 读诗不是答对答错</translation>
+                <original>若松さんきっと丸バツじゃなくて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="86" hasRuby="0" time="">
+                <start-time>00:05:07,135</start-time>
+                <end-time>00:05:09,304</end-time>
+                <translation>应该可以自由地享受</translation>
+                <original>楽しんでいいと思うんですけども</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="87" hasRuby="0" time="">
+                <start-time>00:05:09,304</start-time>
+                <end-time>00:05:10,295</end-time>
+                <translation>那有什么值得注意的地方呢</translation>
+                <original>どんなポイントがあるんですか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="88" hasRuby="0" time="">
+                <start-time>00:05:10,295</start-time>
+                <end-time>00:05:13,655</end-time>
+                <translation>是呢 首先就是不要急着读</translation>
+                <original>そうですねまず急いで読まないことですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="89" hasRuby="0" time="">
+                <start-time>00:05:13,655</start-time>
+                <end-time>00:05:16,808</end-time>
+                <translation>或者说读诗时一定要停下来</translation>
+                <original>あるいは詩を読むときには必ず立ち止まるということを</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="90" hasRuby="0" time="">
+                <start-time>00:05:16,808</start-time>
+                <end-time>00:05:19,448</end-time>
+                <translation>记住这一点也许会有帮助</translation>
+                <original>ちょっと覚えておくといいかもしれないですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="91" hasRuby="0" time="">
+                <start-time>00:05:19,448</start-time>
+                <end-time>00:05:21,378</end-time>
+                <translation>比如这里有空出一行的地方</translation>
+                <original>例えば一行空いてるところありますね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="92" hasRuby="0" time="">
+                <start-time>00:05:21,378</start-time>
+                <end-time>00:05:22,700</end-time>
+                <translation>这里留下了空白</translation>
+                <original>ここに余白</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="93" hasRuby="0" time="">
+                <start-time>00:05:22,700</start-time>
+                <end-time>00:05:24,675</end-time>
+                <translation>让语言之外的东西来诉说</translation>
+                <original>言葉じゃないものが物語るってところを</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="94" hasRuby="0" time="">
+                <start-time>00:05:24,675</start-time>
+                <end-time>00:05:27,677</end-time>
+                <translation>我想这就是诗人有意作出的安排</translation>
+                <original>やっぱり準備してるってことじゃないかなと思いますけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="95" hasRuby="0" time="">
+                <start-time>00:05:27,677</start-time>
+                <end-time>00:05:30,330</end-time>
+                <translation>诗毕竟是语言的艺术</translation>
+                <original>で詩っていうのは言葉の芸術なので</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="96" hasRuby="0" time="">
+                <start-time>00:05:30,330</start-time>
+                <end-time>00:05:31,737</end-time>
+                <translation>是用来品味的</translation>
+                <original>味わうもの</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="97" hasRuby="0" time="">
+                <start-time>00:05:31,737</start-time>
+                <end-time>00:05:33,560</end-time>
+                <translation>刚才听了朗读</translation>
+                <original>今朗読していただいて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="98" hasRuby="0" time="">
+                <start-time>00:05:33,560</start-time>
+                <end-time>00:05:36,235</end-time>
+                <translation>我们感受到了声音的回响</translation>
+                <original>なんか我々響きを感じたり</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="99" hasRuby="0" time="">
+                <start-time>00:05:36,235</start-time>
+                <end-time>00:05:38,184</end-time>
+                <translation>也感受到了沉默</translation>
+                <original>沈黙を感じたり</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="100" hasRuby="0" time="">
+                <start-time>00:05:38,184</start-time>
+                <end-time>00:05:40,529</end-time>
+                <translation>有太多值得品味的东西</translation>
+                <original>味わうべきこといろいろありましたね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="101" hasRuby="0" time="">
+                <start-time>00:05:40,529</start-time>
+                <end-time>00:05:43,200</end-time>
+                <translation>要是把这些全都用在
+それを全部言葉を解釈する</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="102" hasRuby="0" time="">
+                <start-time>00:05:43,200</start-time>
+                <end-time>00:05:44,241</end-time>
+                <translation>解释字句的意义上</translation>
+                <original>って方向に使っちゃうと</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="103" hasRuby="0" time="">
+                <start-time>00:05:44,241</start-time>
+                <end-time>00:05:46,555</end-time>
+                <translation>就有些太可惜了</translation>
+                <original>なんかもったいない気がしますよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="104" hasRuby="0" time="">
+                <start-time>00:05:47,881</start-time>
+                <end-time>00:05:50,033</end-time>
+                <translation>仿佛诗有一个标准答案</translation>
+                <original>詩には正解があって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="105" hasRuby="0" time="">
+                <start-time>00:05:50,033</start-time>
+                <end-time>00:05:53,287</end-time>
+                <translation>我们必须准确地读出来</translation>
+                <original>確実に読み取らなきゃいけないみたいなのも</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="106" hasRuby="0" time="">
+                <start-time>00:05:53,287</start-time>
+                <end-time>00:05:56,289</end-time>
+                <translation>我觉得这和诗本来的样子</translation>
+                <original>やっぱり詩のあり方としては</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="107" hasRuby="0" time="">
+                <start-time>00:05:56,289</start-time>
+                <end-time>00:05:58,366</end-time>
+                <translation>-是不一样的 -是啊</translation>
+                <original>-違うということで　-そうですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="108" hasRuby="0" time="">
+                <start-time>00:05:58,366</start-time>
+                <end-time>00:06:01,462</end-time>
+                <translation>我们读诗的时候</translation>
+                <original>やっぱり僕たちは詩を読んでいくときに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="109" hasRuby="0" time="">
+                <start-time>00:06:01,462</start-time>
+                <end-time>00:06:03,753</end-time>
+                <translation>最好还是能有所触动</translation>
+                <original>ある手応えはあった方がいいと思うんです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="110" hasRuby="0" time="">
+                <start-time>00:06:03,753</start-time>
+                <end-time>00:06:05,228</end-time>
+                <translation>读完觉得这里面好像有些什么</translation>
+                <original>読んで何かあるな</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="111" hasRuby="0" time="">
+                <start-time>00:06:05,228</start-time>
+                <end-time>00:06:06,295</end-time>
+                <translation>这种感觉很重要</translation>
+                <original>これは大事ですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="112" hasRuby="0" time="">
+                <start-time>00:06:06,295</start-time>
+                <end-time>00:06:09,356</end-time>
+                <translation>-但不需要一个标准答案式的回答 -原来如此</translation>
+                <original>-でも正解めいた回答はいらないんだと思います　-なるほど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="113" hasRuby="0" time="">
+                <start-time>00:06:10,722</start-time>
+                <end-time>00:06:12,893</end-time>
+                <translation>换句话说呢</translation>
+                <original>でそれを別な言い方しますとね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="114" hasRuby="0" time="">
+                <start-time>00:06:12,893</start-time>
+                <end-time>00:06:14,997</end-time>
+                <translation>其实不用全部弄明白</translation>
+                <original>なんかね全部分かんなくていいんですよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="115" hasRuby="0" time="">
+                <start-time>00:06:14,997</start-time>
+                <end-time>00:06:18,683</end-time>
+                <translation>只要有一个词能与你产生某种联系就足够了</translation>
+                <original>一つの言葉が何かつながればもう十分だと思います</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="116" hasRuby="0" time="">
+                <start-time>00:06:18,683</start-time>
+                <end-time>00:06:21,537</end-time>
+                <translation>我很能理解您的意思</translation>
+                <original>それすごいおっしゃっていること分かって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="117" hasRuby="0" time="">
+                <start-time>00:06:21,537</start-time>
+                <end-time>00:06:24,981</end-time>
+                <translation>比如从诗里隐约闻到孤独的气息时</translation>
+                <original>例えばうっすらとそれに孤独の匂いがしたときに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="118" hasRuby="0" time="">
+                <start-time>00:06:24,981</start-time>
+                <end-time>00:06:26,866</end-time>
+                <translation>一个享受独处的人
+一人が心地いい人と</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="119" hasRuby="0" time="">
+                <start-time>00:06:26,866</start-time>
+                <end-time>00:06:29,564</end-time>
+                <translation>和一个不喜欢独处的人</translation>
+                <original>一人が心地よくない人で</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="120" hasRuby="0" time="">
+                <start-time>00:06:29,564</start-time>
+                <end-time>00:06:31,266</end-time>
+                <translation>对这首诗的理解</translation>
+                <original>おそらく解釈は</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="121" hasRuby="0" time="">
+                <start-time>00:06:31,266</start-time>
+                <end-time>00:06:33,330</end-time>
+                <translation>-完全相反也无妨 -是的 是的</translation>
+                <original>-真逆になっていいと思うんですね　-そうですそうです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="122" hasRuby="0" time="">
+                <start-time>00:06:33,330</start-time>
+                <end-time>00:06:37,538</end-time>
+                <translation>我们一提到孤独就觉得它不太好</translation>
+                <original>で我々孤独っていうとあまりよろしくないような</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="123" hasRuby="0" time="">
+                <start-time>00:06:37,538</start-time>
+                <end-time>00:06:38,838</end-time>
+                <translation>好像最好不要有孤独</translation>
+                <original>ない方がいいような</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="124" hasRuby="0" time="">
+                <start-time>00:06:38,838</start-time>
+                <end-time>00:06:41,451</end-time>
+                <translation>但孤独真的就是坏事吗</translation>
+                <original>でも本当にそうなのかってことですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="125" hasRuby="0" time="">
+                <start-time>00:06:41,451</start-time>
+                <end-time>00:06:44,467</end-time>
+                <translation>万有引力就是相互吸引的孤独之力</translation>
+                <original>万有引力とはひき合う孤独の力である</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="126" hasRuby="0" time="">
+                <start-time>00:06:44,467</start-time>
+                <end-time>00:06:46,433</end-time>
+                <translation>正是因为独自一人</translation>
+                <original>一人であることによって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="127" hasRuby="0" time="">
+                <start-time>00:06:46,433</start-time>
+                <end-time>00:06:50,310</end-time>
+                <translation>也有可能因此产生联系吧</translation>
+                <original>他の人とつながるってことだって あるわけですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="128" hasRuby="0" time="">
+                <start-time>00:06:50,310</start-time>
+                <end-time>00:06:53,137</end-time>
+                <translation>伊集院 又是怎么理解这首诗的呢</translation>
+                <original>で伊集院さんはこの作品をどう解釈してるんですか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="129" hasRuby="0" time="">
+                <start-time>00:06:53,137</start-time>
+                <end-time>00:06:55,577</end-time>
+                <translation>我最喜欢的还是这首诗里</translation>
+                <original>僕はこの作品で好きだったのはやっぱり</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="130" hasRuby="0" time="">
+                <start-time>00:06:55,577</start-time>
+                <end-time>00:06:58,575</end-time>
+                <translation>涅哩哩 基噜噜 哈啦啦的那一段</translation>
+                <original>ネリリキルルハララのあたりの</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="131" hasRuby="0" time="">
+                <start-time>00:06:58,575</start-time>
+                <end-time>00:07:00,420</end-time>
+                <translation>我把它想成</translation>
+                <original>僕は</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="132" hasRuby="0" time="">
+                <start-time>00:07:00,420</start-time>
+                <end-time>00:07:01,835</end-time>
+                <translation>绞尽脑汁</translation>
+                <original>頭をひねって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="133" hasRuby="0" time="">
+                <start-time>00:07:01,835</start-time>
+                <end-time>00:07:03,818</end-time>
+                <translation>胃里绞痛</translation>
+                <original>胃がキリキリ痛んで</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="134" hasRuby="0" time="">
+                <start-time>00:07:03,818</start-time>
+                <end-time>00:07:05,555</end-time>
+                <translation>心里七上八下</translation>
+                <original>ハラハラしてるんですって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="135" hasRuby="0" time="">
+                <start-time>00:07:05,555</start-time>
+                <end-time>00:07:06,579</end-time>
+                <translation>我是这么理解的</translation>
+                <original>思ってるけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="136" hasRuby="0" time="">
+                <start-time>00:07:06,579</start-time>
+                <end-time>00:07:09,474</end-time>
+                <translation>但如果火星人听到这些话</translation>
+                <original>火星の人がその言葉を聞いて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="137" hasRuby="0" time="">
+                <start-time>00:07:09,474</start-time>
+                <end-time>00:07:11,675</end-time>
+                <translation>会隐约感觉到你现在</translation>
+                <original>なんとなく君が今</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="138" hasRuby="0" time="">
+                <start-time>00:07:11,675</start-time>
+                <end-time>00:07:15,665</end-time>
+                <translation>正遇到什么麻烦 就能明白你的处境</translation>
+                <original>困ってることが分かるよっていうこう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="139" hasRuby="0" time="">
+                <start-time>00:07:15,665</start-time>
+                <end-time>00:07:18,493</end-time>
+                <translation>我觉得这就像在互相传接球</translation>
+                <original>キャッチボールになってるんじゃないか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="140" hasRuby="0" time="">
+                <start-time>00:07:18,493</start-time>
+                <end-time>00:07:20,865</end-time>
+                <translation>远在天边的那个孤独的</translation>
+                <original>遠い遠いとこにいる孤独な</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="141" hasRuby="0" time="">
+                <start-time>00:07:20,865</start-time>
+                <end-time>00:07:22,353</end-time>
+                <translation>连底细都不知道的家伙</translation>
+                <original>得体の知れないあいつも</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="142" hasRuby="0" time="">
+                <start-time>00:07:22,353</start-time>
+                <end-time>00:07:25,515</end-time>
+                <translation>原来也有和我一样的感情</translation>
+                <original>俺と同じ感情のやつがいるっていうことを</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="143" hasRuby="0" time="">
+                <start-time>00:07:25,515</start-time>
+                <end-time>00:07:28,705</end-time>
+                <translation>我觉得这首诗多少表达了这样的意思</translation>
+                <original>この詩はちょっと言ってる</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="144" hasRuby="0" time="">
+                <start-time>00:07:28,705</start-time>
+                <end-time>00:07:31,559</end-time>
+                <translation>-听别人的解读真有意思 -确实很有意思</translation>
+                <original>-人の解釈を聞くのは面白いですね　-いや面白いですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="145" hasRuby="0" time="">
+                <start-time>00:07:31,559</start-time>
+                <end-time>00:07:33,666</end-time>
+                <translation>我想谷川先生希望大家</translation>
+                <original>あのうそういうふうに本当に</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="146" hasRuby="0" time="">
+                <start-time>00:07:33,666</start-time>
+                <end-time>00:07:36,344</end-time>
+                <translation>能这样自由地与诗歌相遇</translation>
+                <original>詩と自由に向き合ってほしいっていうのが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="147" hasRuby="0" time="">
+                <start-time>00:07:36,344</start-time>
+                <end-time>00:07:39,118</end-time>
+                <translation>这应该就是他的心愿</translation>
+                <original>谷川さんの願いだったと思うんですよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="148" hasRuby="0" time="">
+                <start-time>00:07:39,118</start-time>
+                <end-time>00:07:40,633</end-time>
+                <translation>最让我惊讶的是</translation>
+                <original>私が一番びっくりしたのは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="149" hasRuby="0" time="">
+                <start-time>00:07:40,633</start-time>
+                <end-time>00:07:42,950</end-time>
+                <translation>最后那一行</translation>
+                <original>最後の一行なんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="150" hasRuby="0" time="">
+                <start-time>00:07:42,950</start-time>
+                <end-time>00:07:44,200</end-time>
+                <translation>居然是打喷嚏</translation>
+                <original>えくしゃみなの</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="151" hasRuby="0" time="">
+                <start-time>00:07:44,200</start-time>
+                <end-time>00:07:46,113</end-time>
+                <translation>这让我印象特别深刻</translation>
+                <original>っていうのが印象が強かったです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="152" hasRuby="0" time="">
+                <start-time>00:07:46,113</start-time>
+                <end-time>00:07:48,686</end-time>
+                <translation>有一种回到了这边 现实世界的感觉</translation>
+                <original>こっちの世界に帰ってきた感じがありますよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="153" hasRuby="0" time="">
+                <start-time>00:07:48,686</start-time>
+                <end-time>00:07:52,157</end-time>
+                <translation>我倒是想到有人谈论自己就会打喷嚏</translation>
+                <original>僕的には誰かが噂をしてるとくしゃみをする</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="154" hasRuby="0" time="">
+                <start-time>00:07:52,157</start-time>
+                <end-time>00:07:53,511</end-time>
+                <translation>从这个角度来说</translation>
+                <original>みたいなことで言えば</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="155" hasRuby="0" time="">
+                <start-time>00:07:53,511</start-time>
+                <end-time>00:07:55,454</end-time>
+                <translation>虽然自己是孤独的</translation>
+                <original>孤独なんだけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="156" hasRuby="0" time="">
+                <start-time>00:07:55,454</start-time>
+                <end-time>00:07:57,366</end-time>
+                <translation>却能感觉到某处有人和自己想着同一件事</translation>
+                <original>同じことを考えてる人がいる感</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="157" hasRuby="0" time="">
+                <start-time>00:07:57,366</start-time>
+                <end-time>00:07:59,327</end-time>
+                <translation>我也有那么一点这样的感受</translation>
+                <original>みたいなものも僕はちょっと</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="158" hasRuby="0" time="">
+                <start-time>00:07:59,327</start-time>
+                <end-time>00:08:00,922</end-time>
+                <translation>-这很重要啊 -厉害啊 伊集院</translation>
+                <original>-それは大事ですね　-すごいね伊集院さん</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="159" hasRuby="0" time="">
+                <start-time>00:08:00,922</start-time>
+                <end-time>00:08:03,415</end-time>
+                <translation>说到二十亿光年
+二十億光年っていうと</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="160" hasRuby="0" time="">
+                <start-time>00:08:03,415</start-time>
+                <end-time>00:08:06,068</end-time>
+                <translation>总觉得是遥不可及的距离</translation>
+                <original>なんかはるか遠い感じがするんですけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="161" hasRuby="0" time="">
+                <start-time>00:08:06,068</start-time>
+                <end-time>00:08:07,636</end-time>
+                <translation>明明应该不可能联系起来</translation>
+                <original>つながりようがないはずなのに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="162" hasRuby="0" time="">
+                <start-time>00:08:07,636</start-time>
+                <end-time>00:08:09,315</end-time>
+                <translation>却又莫名地连在了一起</translation>
+                <original>なんかつながっちゃうっていう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="163" hasRuby="0" time="">
+                <start-time>00:08:09,315</start-time>
+                <end-time>00:08:12,455</end-time>
+                <translation>其实写下这首诗时</translation>
+                <original>はい、実はこの詩を書いたのは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="164" hasRuby="0" time="">
+                <start-time>00:08:12,455</start-time>
+                <end-time>00:08:14,875</end-time>
+                <translation>谷川才十八岁 正值青春期</translation>
+                <original>思春期真っただ中の18歳でした</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="165" hasRuby="0" time="">
+                <start-time>00:08:14,875</start-time>
+                <end-time>00:08:18,055</end-time>
+                <translation>这首诗究竟是如何诞生的呢</translation>
+                <original>一体どのようにしてこの詩は誕生したんでしょうか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="166" hasRuby="0" time="">
+                <start-time>00:08:20,252</start-time>
+                <end-time>00:08:22,578</end-time>
+                <translation>谷川生前</translation>
+                <original>谷川は生前</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="167" hasRuby="0" time="">
+                <start-time>00:08:22,578</start-time>
+                <end-time>00:08:26,036</end-time>
+                <translation>曾谈到写作《二十亿光年的孤独》时的情景
+『二十億光年の孤独』を書いた当時のことを</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="168" hasRuby="0" time="">
+                <start-time>00:08:26,036</start-time>
+                <end-time>00:08:26,975</end-time>
+                <translation>他这样讲到</translation>
+                <original>こう述べています</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="169" hasRuby="0" time="">
+                <start-time>00:08:28,596</start-time>
+                <end-time>00:08:29,515</end-time>
+                <translation>我啊那时就是</translation>
+                <original>僕はだから</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="170" hasRuby="0" time="">
+                <start-time>00:08:29,515</start-time>
+                <end-time>00:08:31,825</end-time>
+                <translation>正好处在自我意识觉醒的时期</translation>
+                <original>ちょうどその自我に目覚める時期にね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="171" hasRuby="0" time="">
+                <start-time>00:08:31,825</start-time>
+                <end-time>00:08:34,166</end-time>
+                <translation>非常想知道自己究竟身处何方</translation>
+                <original>自分がいったいどういう場所にいるんだろう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="172" hasRuby="0" time="">
+                <start-time>00:08:34,166</start-time>
+                <end-time>00:08:35,993</end-time>
+                <translation>总觉得要确定自己的坐标</translation>
+                <original>って自分の座標を決めたいって気持ちが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="173" hasRuby="0" time="">
+                <start-time>00:08:35,993</start-time>
+                <end-time>00:08:38,553</end-time>
+                <translation>这种愿望非常强烈</translation>
+                <original>すごく強かったんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="174" hasRuby="0" time="">
+                <start-time>00:08:38,553</start-time>
+                <end-time>00:08:41,126</end-time>
+                <translation>于是我就想</translation>
+                <original>それで自分はまあ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="175" hasRuby="0" time="">
+                <start-time>00:08:41,126</start-time>
+                <end-time>00:08:42,305</end-time>
+                <translation>自己住在日本</translation>
+                <original>その日本に住んでいてね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="176" hasRuby="0" time="">
+                <start-time>00:08:42,305</start-time>
+                <end-time>00:08:43,806</end-time>
+                <translation>日本位于亚洲</translation>
+                <original>日本はアジアにあって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="177" hasRuby="0" time="">
+                <start-time>00:08:43,806</start-time>
+                <end-time>00:08:47,974</end-time>
+                <translation>这样不断把自己所处的坐标范围扩大</translation>
+                <original>みたいなことでずっと自分の座標の周囲を広げていくと</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="178" hasRuby="0" time="">
+                <start-time>00:08:47,974</start-time>
+                <end-time>00:08:49,998</end-time>
+                <translation>最后就延伸到了整个宇宙</translation>
+                <original>結局宇宙に行き着いてしまって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="179" hasRuby="0" time="">
+                <start-time>00:08:49,998</start-time>
+                <end-time>00:08:52,584</end-time>
+                <translation>比起社会中的自己</translation>
+                <original>その社会の中での自分よりも先に</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="180" hasRuby="0" time="">
+                <start-time>00:08:52,584</start-time>
+                <end-time>00:08:54,809</end-time>
+                <translation>我先意识到的是宇宙中的自己</translation>
+                <original>宇宙の中の自分というものを意識した</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="181" hasRuby="0" time="">
+                <start-time>00:08:54,809</start-time>
+                <end-time>00:08:56,555</end-time>
+                <translation>大概是这么回事吧</translation>
+                <original>ということだと思うんですけどね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="182" hasRuby="0" time="">
+                <start-time>00:08:58,659</start-time>
+                <end-time>00:09:00,303</end-time>
+                <translation>将宇宙当作背景
+宇宙の中に</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="183" hasRuby="0" time="">
+                <start-time>00:09:00,303</start-time>
+                <end-time>00:09:03,814</end-time>
+                <translation>投射青春期自我的谷川
+思春期の自分を投影した谷川</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="184" hasRuby="0" time="">
+                <start-time>00:09:03,814</start-time>
+                <end-time>00:09:06,200</end-time>
+                <translation>1931年</translation>
+                <original>1931年</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="185" hasRuby="0" time="">
+                <start-time>00:09:06,200</start-time>
+                <end-time>00:09:09,068</end-time>
+                <translation>是昭和时代的代表性哲学家之一
+昭和を代表する哲学者の一人で</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="186" hasRuby="0" time="">
+                <start-time>00:09:09,068</start-time>
+                <end-time>00:09:14,035</end-time>
+                <translation>宫泽贤治研究者谷川彻三的孩子
+宮沢賢治の研究者だった谷川徹三のもとに生まれます</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="187" hasRuby="0" time="">
+                <start-time>00:09:16,996</start-time>
+                <end-time>00:09:18,891</end-time>
+                <translation>在太平洋战争等事件
+太平洋戦争をはじめ</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="188" hasRuby="0" time="">
+                <start-time>00:09:18,891</start-time>
+                <end-time>00:09:21,276</end-time>
+                <translation>令社会动荡不安的年代
+社会不安が取り巻く時代に</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="189" hasRuby="0" time="">
+                <start-time>00:09:21,276</start-time>
+                <end-time>00:09:24,435</end-time>
+                <translation>他却度过了衣食无忧的童年
+何不自由ない生活を送った少年期</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="190" hasRuby="0" time="">
+                <start-time>00:09:26,002</start-time>
+                <end-time>00:09:29,633</end-time>
+                <translation>另一方面 他又难以融入同龄孩子的群体
+一方で子供同士の社会になじめず</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="191" hasRuby="0" time="">
+                <start-time>00:09:29,633</start-time>
+                <end-time>00:09:33,204</end-time>
+                <translation>并曾因此感到无力
+無力感を抱いていたという自身の子供時代を</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="192" hasRuby="0" time="">
+                <start-time>00:09:33,204</start-time>
+                <end-time>00:09:34,678</end-time>
+                <translation>他这样回顾自己的童年</translation>
+                <original>こう振り返っています</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="193" hasRuby="0" time="">
+                <start-time>00:09:36,299</start-time>
+                <end-time>00:09:37,566</end-time>
+                <translation>对我来说 我自己就在这里</translation>
+                <original>僕の場合には自分がいて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="194" hasRuby="0" time="">
+                <start-time>00:09:37,566</start-time>
+                <end-time>00:09:39,502</end-time>
+                <translation>而在我之外就是宇宙的一片漆黑</translation>
+                <original>その先は宇宙の真っ暗闇だったというところがあるので</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="195" hasRuby="0" time="">
+                <start-time>00:09:40,909</start-time>
+                <end-time>00:09:44,488</end-time>
+                <translation>怎么说呢 周围几乎是一片黑暗</translation>
+                <original>例えばねほとんど周りが暗いんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="196" hasRuby="0" time="">
+                <start-time>00:09:44,488</start-time>
+                <end-time>00:09:47,566</end-time>
+                <translation>只有远方有一点微光</translation>
+                <original>それで向こうの方に少し光があると</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="197" hasRuby="0" time="">
+                <start-time>00:09:47,566</start-time>
+                <end-time>00:09:50,264</end-time>
+                <translation>那时我眼中的世界大概就是这样</translation>
+                <original>いうふうな感じで僕は世の中が見えてたような気がするもんね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="198" hasRuby="0" time="">
+                <start-time>00:09:50,264</start-time>
+                <end-time>00:09:51,818</end-time>
+                <translation>在那个时候</translation>
+                <original>その頃は</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="199" hasRuby="0" time="">
+                <start-time>00:09:53,721</start-time>
+                <end-time>00:09:56,400</end-time>
+                <translation>他喜欢制作模型飞机
+好きなことは模型飛行機</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="200" hasRuby="0" time="">
+                <start-time>00:09:56,400</start-time>
+                <end-time>00:09:58,439</end-time>
+                <translation>还喜欢组装收音机</translation>
+                <original>そしてラジオの組み立て</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="201" hasRuby="0" time="">
+                <start-time>00:10:00,181</start-time>
+                <end-time>00:10:04,402</end-time>
+                <translation>进入高中后 朋友邀请他尝试写诗</translation>
+                <original>高校に入ると友人の詩作りに誘われます</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="202" hasRuby="0" time="">
+                <start-time>00:10:05,715</start-time>
+                <end-time>00:10:08,798</end-time>
+                <translation>虽然起初只是听从朋友的建议</translation>
+                <original>勧められるがままに始めた詩でしたが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="203" hasRuby="0" time="">
+                <start-time>00:10:08,798</start-time>
+                <end-time>00:10:12,497</end-time>
+                <translation>但渐渐地他发现诗歌</translation>
+                <original>やがて詩も模型と同じものだと</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="204" hasRuby="0" time="">
+                <start-time>00:10:12,497</start-time>
+                <end-time>00:10:13,972</end-time>
+                <translation>原来也和制作模型一样</translation>
+                <original>谷川は気がつきます</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="205" hasRuby="0" time="">
+                <start-time>00:10:15,874</start-time>
+                <end-time>00:10:19,224</end-time>
+                <translation>从眼前的世界截取一小部分
+自分の前にある世界の一部を切り取り</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="206" hasRuby="0" time="">
+                <start-time>00:10:19,224</start-time>
+                <end-time>00:10:21,975</end-time>
+                <translation>再把词语作为零件组装起来</translation>
+                <original>言葉という部品を組み立てると</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="207" hasRuby="0" time="">
+                <start-time>00:10:21,975</start-time>
+                <end-time>00:10:24,759</end-time>
+                <translation>便可以创造一个模型般的世界</translation>
+                <original>模型のような世界が作れる</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="208" hasRuby="0" time="">
+                <start-time>00:10:24,759</start-time>
+                <end-time>00:10:27,155</end-time>
+                <translation>他由此感受到了创作的快乐</translation>
+                <original>そんな快感を抱いたのです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="209" hasRuby="0" time="">
+                <start-time>00:10:29,741</start-time>
+                <end-time>00:10:33,778</end-time>
+                <translation>就这样谷川迷上了诗歌创作</translation>
+                <original>こうして詩作にのめり込んでいった谷川</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="210" hasRuby="0" time="">
+                <start-time>00:10:33,778</start-time>
+                <end-time>00:10:37,370</end-time>
+                <translation>最早察觉到他天赋的人</translation>
+                <original>その才能にいち早く気づいたのが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="211" hasRuby="0" time="">
+                <start-time>00:10:37,370</start-time>
+                <end-time>00:10:39,175</end-time>
+                <translation>是他的父亲彻三
+父徹三でした</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="212" hasRuby="0" time="">
+                <start-time>00:10:41,521</start-time>
+                <end-time>00:10:44,499</end-time>
+                <translation>这就是谷川当年的笔记本</translation>
+                <original>こちらは当時の谷川のノート</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="213" hasRuby="0" time="">
+                <start-time>00:10:46,147</start-time>
+                <end-time>00:10:50,020</end-time>
+                <translation>彻三读到儿子写在上面的诗后</translation>
+                <original>そこに書かれた息子の詩を目にした徹三は</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="214" hasRuby="0" time="">
+                <start-time>00:10:50,020</start-time>
+                <end-time>00:10:54,108</end-time>
+                <translation>立刻拿给自己熟识的诗人看</translation>
+                <original>すぐに交流のあった詩人に渡します</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="215" hasRuby="0" time="">
+                <start-time>00:10:54,108</start-time>
+                <end-time>00:10:55,866</end-time>
+                <translation>正是父亲的这一举动</translation>
+                <original>この行動こそが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="216" hasRuby="0" time="">
+                <start-time>00:10:55,866</start-time>
+                <end-time>00:10:58,739</end-time>
+                <translation>让谷川的诗走向了世人</translation>
+                <original>谷川の詩を世に送り出したのでしょう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="217" hasRuby="0" time="">
+                <start-time>00:11:01,069</start-time>
+                <end-time>00:11:04,373</end-time>
+                <translation>其实这部诗集的诞生背后
+実はこの詩集誕生の背景には</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="218" hasRuby="0" time="">
+                <start-time>00:11:04,373</start-time>
+                <end-time>00:11:07,376</end-time>
+                <translation>还有另一层来自父亲的影响</translation>
+                <original>もう一つ父親の影響がありました</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="219" hasRuby="0" time="">
+                <start-time>00:11:10,070</start-time>
+                <end-time>00:11:13,075</end-time>
+                <translation>写满诗篇的笔记本里还有这样一句话</translation>
+                <original>詩を綴ったノートにはこんな一文が</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="220" hasRuby="0" time="">
+                <start-time>00:11:16,050</start-time>
+                <end-time>00:11:17,694</end-time>
+                <translation>年轻时的谷川
+若き谷川は</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="221" hasRuby="0" time="">
+                <start-time>00:11:17,694</start-time>
+                <end-time>00:11:22,230</end-time>
+                <translation>曾抄下宫泽贤治《银河铁道之夜》中的一段话
+宮沢賢治『銀河鉄道の夜』の一節を書き写していました</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="222" hasRuby="0" time="">
+                <start-time>00:11:26,323</start-time>
+                <end-time>00:11:28,362</end-time>
+                <translation>无法轻易用语言划分
+簡単に言葉で分節化して</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="223" hasRuby="0" time="">
+                <start-time>00:11:28,362</start-time>
+                <end-time>00:11:31,217</end-time>
+                <translation>也无法为之命名的情感确实存在</translation>
+                <original>名付けられないような 感情というものがある</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="224" hasRuby="0" time="">
+                <start-time>00:11:32,784</start-time>
+                <end-time>00:11:36,033</end-time>
+                <translation>那种情感里还有许多</translation>
+                <original>その感情には言葉では表せない</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="225" hasRuby="0" time="">
+                <start-time>00:11:36,033</start-time>
+                <end-time>00:11:37,595</end-time>
+                <translation>无法用语言表达的东西</translation>
+                <original>いろんなものが入っている</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="226" hasRuby="0" time="">
+                <start-time>00:11:40,556</start-time>
+                <end-time>00:11:43,144</end-time>
+                <translation>谷川深有同感
+大きな共感を抱いた谷川は</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="227" hasRuby="0" time="">
+                <start-time>00:11:43,144</start-time>
+                <end-time>00:11:44,510</end-time>
+                <translation>于是开始把那种情感</translation>
+                <original>そんな感情を</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="228" hasRuby="0" time="">
+                <start-time>00:11:44,510</start-time>
+                <end-time>00:11:47,775</end-time>
+                <translation>写进自己的诗里</translation>
+                <original>自らの詩に表現するようになったのです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="229" hasRuby="0" time="">
+                <start-time>00:11:49,691</start-time>
+                <end-time>00:11:53,744</end-time>
+                <translation>在那片蓝天传来波涛声的地方</translation>
+                <original>あの青い空の波の音が聞こえるあたりに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="230" hasRuby="0" time="">
+                <start-time>00:11:53,744</start-time>
+                <end-time>00:11:56,639</end-time>
+                <translation>某件不得了的东西</translation>
+                <original>何かとんでもないおとし物を</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="231" hasRuby="0" time="">
+                <start-time>00:11:56,639</start-time>
+                <end-time>00:11:58,717</end-time>
+                <translation>好像被我遗落在那里</translation>
+                <original>僕はしてきてしまったらしい</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="232" hasRuby="0" time="">
+                <start-time>00:12:00,445</start-time>
+                <end-time>00:12:02,266</end-time>
+                <translation>在透明的过去的车站
+透明な過去の駅で</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="233" hasRuby="0" time="">
+                <start-time>00:12:03,110</start-time>
+                <end-time>00:12:06,569</end-time>
+                <translation>站到失物招领处的窗口前
+遺失物係の前に立ったら</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="234" hasRuby="0" time="">
+                <start-time>00:12:06,569</start-time>
+                <end-time>00:12:11,933</end-time>
+                <translation>我却变得更加悲伤了</translation>
+                <original>僕は余計に悲しくなってしまった</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="235" hasRuby="0" time="">
+                <start-time>00:12:13,200</start-time>
+                <end-time>00:12:15,400</end-time>
+                <translation>那种想知道自己坐标的感受</translation>
+                <original>あの座標を知りたいっていう感覚は</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="236" hasRuby="0" time="">
+                <start-time>00:12:15,400</start-time>
+                <end-time>00:12:17,049</end-time>
+                <translation>-我多少能理解了 -懂的</translation>
+                <original>-ちょっと分かりましたね　-わかる</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="237" hasRuby="0" time="">
+                <start-time>00:12:17,049</start-time>
+                <end-time>00:12:19,367</end-time>
+                <translation>-能理解吧 中学时代 -会想自己究竟是谁
+-分かりますよね中高生の頃　-自分は何者で</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="238" hasRuby="0" time="">
+                <start-time>00:12:19,367</start-time>
+                <end-time>00:12:22,825</end-time>
+                <translation>为什么会存在于世上</translation>
+                <original>何のために存在してって思いますからね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="239" hasRuby="0" time="">
+                <start-time>00:12:22,825</start-time>
+                <end-time>00:12:25,966</end-time>
+                <translation>仰望宇宙时会想 我在这宇宙里究竟算什么</translation>
+                <original>宇宙を見上げて俺はこの宇宙の中で何なんだ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="240" hasRuby="0" time="">
+                <start-time>00:12:25,966</start-time>
+                <end-time>00:12:28,614</end-time>
+                <translation>那种感觉多少还是</translation>
+                <original>っていうのは何となく</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="241" hasRuby="0" time="">
+                <start-time>00:12:28,614</start-time>
+                <end-time>00:12:30,973</end-time>
+                <translation>-能够感同身受 -这就是出发点吧</translation>
+                <original>-共感できますね　-そこがスタートですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="242" hasRuby="0" time="">
+                <start-time>00:12:30,973</start-time>
+                <end-time>00:12:33,761</end-time>
+                <translation>说到底就是还不明白自己是谁</translation>
+                <original>やっぱり自分がわからないってことですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="243" hasRuby="0" time="">
+                <start-time>00:12:33,761</start-time>
+                <end-time>00:12:36,267</end-time>
+                <translation>首先不知道自己身在何处</translation>
+                <original>あのうまずどこにいるのかわからない</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="244" hasRuby="0" time="">
+                <start-time>00:12:36,267</start-time>
+                <end-time>00:12:38,853</end-time>
+                <translation>也不知道自己究竟是什么人</translation>
+                <original>自分が何者なのか分からない</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="245" hasRuby="0" time="">
+                <start-time>00:12:38,853</start-time>
+                <end-time>00:12:42,029</end-time>
+                <translation>可自己又确实存在着</translation>
+                <original>だけど自分は存在してるってことですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="246" hasRuby="0" time="">
+                <start-time>00:12:42,029</start-time>
+                <end-time>00:12:45,275</end-time>
+                <translation>也就是说 当自己成为一个谜的时候</translation>
+                <original>すなわち自分が謎であるっていうのは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="247" hasRuby="0" time="">
+                <start-time>00:12:45,275</start-time>
+                <end-time>00:12:46,827</end-time>
+                <translation>问题就由此产生了</translation>
+                <original>そこには問いがあるんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="248" hasRuby="0" time="">
+                <start-time>00:12:46,827</start-time>
+                <end-time>00:12:48,944</end-time>
+                <translation>我想有了疑问</translation>
+                <original>問いがあるところからは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="249" hasRuby="0" time="">
+                <start-time>00:12:48,944</start-time>
+                <end-time>00:12:50,821</end-time>
+                <translation>就能诞生出各种各样的东西</translation>
+                <original>いろんなものが生まれると思います</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="250" hasRuby="0" time="">
+                <start-time>00:12:50,821</start-time>
+                <end-time>00:12:52,100</end-time>
+                <translation>谷川先生想必也是</translation>
+                <original>谷川さんはやっぱり</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="251" hasRuby="0" time="">
+                <start-time>00:12:52,100</start-time>
+                <end-time>00:12:54,720</end-time>
+                <translation>通过写诗和表达</translation>
+                <original>詩を書いて表現するってことによって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="252" hasRuby="0" time="">
+                <start-time>00:12:54,720</start-time>
+                <end-time>00:12:56,811</end-time>
+                <translation>不断深入寻找</translation>
+                <original>本当の自分であることを</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="253" hasRuby="0" time="">
+                <start-time>00:12:56,811</start-time>
+                <end-time>00:12:59,572</end-time>
+                <translation>如何成为真正的自己</translation>
+                <original>深く探していたんだろうと思いますね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="254" hasRuby="0" time="">
+                <start-time>00:12:59,572</start-time>
+                <end-time>00:13:02,158</end-time>
+                <translation>刚才我们介绍了《悲伤》这首诗</translation>
+                <original>そしてこの『かなしみ』という作品を紹介しましたけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="255" hasRuby="0" time="">
+                <start-time>00:13:02,158</start-time>
+                <end-time>00:13:05,026</end-time>
+                <translation>不过后半部分确实很难懂</translation>
+                <original>やっぱり後半難しかったですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="256" hasRuby="0" time="">
+                <start-time>00:13:05,026</start-time>
+                <end-time>00:13:06,933</end-time>
+                <translation>某种不得了的东西</translation>
+                <original>「何かとんでもない」</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="257" hasRuby="0" time="">
+                <start-time>00:13:06,933</start-time>
+                <end-time>00:13:08,899</end-time>
+                <translation>这里很关键</translation>
+                <original>ってここが大事で</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="258" hasRuby="0" time="">
+                <start-time>00:13:08,899</start-time>
+                <end-time>00:13:12,584</end-time>
+                <translation>人其实并不知道自己遗失了什么</translation>
+                <original>やっぱり人っていうのは何を落としたかが分からないんですよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="259" hasRuby="0" time="">
+                <start-time>00:13:12,584</start-time>
+                <end-time>00:13:14,822</end-time>
+                <translation>这一点真好 这种模糊处理也十分巧妙</translation>
+                <original>いいですよねそれもこのぼかし方がうまいのは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="260" hasRuby="0" time="">
+                <start-time>00:13:14,822</start-time>
+                <end-time>00:13:17,266</end-time>
+                <translation>先说某种不得了的东西</translation>
+                <original>「何かとんでもない」で</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="261" hasRuby="0" time="">
+                <start-time>00:13:17,266</start-time>
+                <end-time>00:13:18,481</end-time>
+                <translation>再加上一个似乎</translation>
+                <original>しかも「らしい」なんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="262" hasRuby="0" time="">
+                <start-time>00:13:18,481</start-time>
+                <end-time>00:13:19,365</end-time>
+                <translation>是啊</translation>
+                <original>そうなんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="263" hasRuby="0" time="">
+                <start-time>00:13:19,365</start-time>
+                <end-time>00:13:23,560</end-time>
+                <translation>仿佛连曾经拥有过它的记忆都已模糊不清</translation>
+                <original>だからもうかすかにしか持ってた記憶がない感じとかも</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="264" hasRuby="0" time="">
+                <start-time>00:13:23,560</start-time>
+                <end-time>00:13:25,570</end-time>
+                <translation>这很妙 我也确实这么觉得</translation>
+                <original>いいですよねいや本当にそうだと思います</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="265" hasRuby="0" time="">
+                <start-time>00:13:25,570</start-time>
+                <end-time>00:13:27,245</end-time>
+                <translation>所谓透明的过去的车站
+「透明な過去の駅」って</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="266" hasRuby="0" time="">
+                <start-time>00:13:27,245</start-time>
+                <end-time>00:13:28,599</end-time>
+                <translation>就是看不见的意思吧</translation>
+                <original>見えないってことですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="267" hasRuby="0" time="">
+                <start-time>00:13:28,599</start-time>
+                <end-time>00:13:30,933</end-time>
+                <translation>虽然看不见 但读的人</translation>
+                <original>見えないんですけど読んでる方には</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="268" hasRuby="0" time="">
+                <start-time>00:13:30,933</start-time>
+                <end-time>00:13:33,142</end-time>
+                <translation>却会感觉到那里似乎有什么存在</translation>
+                <original>何かあるって感じするわけなんです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="269" hasRuby="0" time="">
+                <start-time>00:13:33,142</start-time>
+                <end-time>00:13:35,916</end-time>
+                <translation>甚至不知道自己是否曾拥有过它</translation>
+                <original>本当に俺が持ってたのかすら分からないって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="270" hasRuby="0" time="">
+                <start-time>00:13:35,916</start-time>
+                <end-time>00:13:39,414</end-time>
+                <translation>但好像真的遗失了什么</translation>
+                <original>でも何か落としてきてしまったらしいんだって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="271" hasRuby="0" time="">
+                <start-time>00:13:39,414</start-time>
+                <end-time>00:13:42,000</end-time>
+                <translation>我想我们就是这样活着的</translation>
+                <original>我々ってこういうふうに生きてるんだと思いますねやっぱり</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="272" hasRuby="0" time="">
+                <start-time>00:13:42,000</start-time>
+                <end-time>00:13:46,275</end-time>
+                <translation>原来如此 因为总觉得它是重要的东西</translation>
+                <original>なるほどねそれは大事なことだったような気もするから</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="273" hasRuby="0" time="">
+                <start-time>00:13:46,275</start-time>
+                <end-time>00:13:48,554</end-time>
+                <translation>所以才站到失物招领处的窗口前</translation>
+                <original>遺失物係の前に立つんだけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="274" hasRuby="0" time="">
+                <start-time>00:13:48,554</start-time>
+                <end-time>00:13:51,381</end-time>
+                <translation>是因为知道再也找不回来而悲伤</translation>
+                <original>戻ってこないって分かるから悲しいのか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="275" hasRuby="0" time="">
+                <start-time>00:13:51,381</start-time>
+                <end-time>00:13:54,571</end-time>
+                <translation>还是因为觉得无法说清而悲伤 我也不知道</translation>
+                <original>言えないと思うから悲しいのか分からないけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="276" hasRuby="0" time="">
+                <start-time>00:13:54,571</start-time>
+                <end-time>00:13:56,729</end-time>
+                <translation>可我们究竟为什么悲伤呢</translation>
+                <original>我々は何で悲しむのか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="277" hasRuby="0" time="">
+                <start-time>00:13:56,729</start-time>
+                <end-time>00:13:59,066</end-time>
+                <translation>是失去所爱之物的时候吧</translation>
+                <original>それは愛するものを失ったときですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="278" hasRuby="0" time="">
+                <start-time>00:13:59,066</start-time>
+                <end-time>00:14:00,095</end-time>
+                <translation>如果失去无关紧要的东西</translation>
+                <original>何でもないものを失っても</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="279" hasRuby="0" time="">
+                <start-time>00:14:00,095</start-time>
+                <end-time>00:14:01,995</end-time>
+                <translation>我们其实并不会悲伤</translation>
+                <original>我々は本当は悲しまない</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="280" hasRuby="0" time="">
+                <start-time>00:14:01,995</start-time>
+                <end-time>00:14:04,997</end-time>
+                <translation>其中总有一份对那个东西的爱</translation>
+                <original>やっぱりそのものへの愛をどっか含んでるんですよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="281" hasRuby="0" time="">
+                <start-time>00:14:04,997</start-time>
+                <end-time>00:14:06,166</end-time>
+                <translation>原来如此</translation>
+                <original>なるほど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="282" hasRuby="0" time="">
+                <start-time>00:14:06,166</start-time>
+                <end-time>00:14:09,621</end-time>
+                <translation>可我随着年岁渐长</translation>
+                <original>でも僕はちょっと年齢を経て経て</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="283" hasRuby="0" time="">
+                <start-time>00:14:09,621</start-time>
+                <end-time>00:14:14,300</end-time>
+                <translation>已经放弃寻找 甚至忘记自己丢过什么</translation>
+                <original>えっと諦めて落としたことすらも忘れて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="284" hasRuby="0" time="">
+                <start-time>00:14:15,693</start-time>
+                <end-time>00:14:18,144</end-time>
+                <translation>对此无法强烈共鸣 也有些寂寞</translation>
+                <original>すごい共感はしない寂しさもある</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="285" hasRuby="0" time="">
+                <start-time>00:14:18,144</start-time>
+                <end-time>00:14:19,766</end-time>
+                <translation>原来如此</translation>
+                <original>なるほど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="286" hasRuby="0" time="">
+                <start-time>00:14:19,766</start-time>
+                <end-time>00:14:21,266</end-time>
+                <translation>不过读诗确实会有这样的情况</translation>
+                <original>でも詩ってそういうのありますね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="287" hasRuby="0" time="">
+                <start-time>00:14:21,266</start-time>
+                <end-time>00:14:24,617</end-time>
+                <translation>有的诗让人觉得不太合拍 就会匆匆读过去</translation>
+                <original>なんかこれはちょっと違うなってちょっと飛ばし気味に読むものもありますもんね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="288" hasRuby="0" time="">
+                <start-time>00:14:24,617</start-time>
+                <end-time>00:14:26,292</end-time>
+                <translation>刚才您说的确实如此</translation>
+                <original>今のおっしゃるとおりですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="289" hasRuby="0" time="">
+                <start-time>00:14:26,292</start-time>
+                <end-time>00:14:28,436</end-time>
+                <translation>这也许是非常重要的一点</translation>
+                <original>それは何かとても大事なことかもしれない</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="290" hasRuby="0" time="">
+                <start-time>00:14:28,436</start-time>
+                <end-time>00:14:32,912</end-time>
+                <translation>我们不必永远保持同样的感受</translation>
+                <original>私たちはいつも同じように感じなくていいんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="291" hasRuby="0" time="">
+                <start-time>00:14:32,912</start-time>
+                <end-time>00:14:34,333</end-time>
+                <translation>有时候</translation>
+                <original>あるときはこう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="292" hasRuby="0" time="">
+                <start-time>00:14:34,333</start-time>
+                <end-time>00:14:37,147</end-time>
+                <translation>过了十年再读 看到的会完全不同</translation>
+                <original>10年経ったら全く違って見えてくる</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="293" hasRuby="0" time="">
+                <start-time>00:14:37,147</start-time>
+                <end-time>00:14:39,102</end-time>
+                <translation>我想那样就很好</translation>
+                <original>それでいいんだと思いますはい</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="294" hasRuby="0" time="">
+                <start-time>00:14:40,133</start-time>
+                <end-time>00:14:41,824</end-time>
+                <translation>那我们再看看下一首诗吧</translation>
+                <original>じゃあ次の作品見てみましょう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="295" hasRuby="0" time="">
+                <start-time>00:14:41,824</start-time>
+                <end-time>00:14:44,255</end-time>
+                <translation>这也是他的早期作品</translation>
+                <original>同じく初期の作品なんですけれども</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="296" hasRuby="0" time="">
+                <start-time>00:14:44,255</start-time>
+                <end-time>00:14:45,466</end-time>
+                <translation>《悲伤是》</translation>
+                <original>『悲しみは』</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="297" hasRuby="0" time="">
+                <start-time>00:14:45,466</start-time>
+                <end-time>00:14:47,265</end-time>
+                <translation>他还写过这样一首诗</translation>
+                <original>というタイトルの作品も書いています</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="298" hasRuby="0" time="">
+                <start-time>00:14:47,265</start-time>
+                <end-time>00:14:48,375</end-time>
+                <translation>让我们来读一读</translation>
+                <original>やっていきましょう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="299" hasRuby="0" time="">
+                <start-time>00:14:50,814</start-time>
+                <end-time>00:14:52,693</end-time>
+                <translation>悲伤是</translation>
+                <original>悲しみは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="300" hasRuby="0" time="">
+                <start-time>00:14:52,693</start-time>
+                <end-time>00:14:55,400</end-time>
+                <translation>削了些皮的苹果</translation>
+                <original>むきかけのりんご</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="301" hasRuby="0" time="">
+                <start-time>00:14:55,400</start-time>
+                <end-time>00:14:59,541</end-time>
+                <translation>这不是比喻 也不是诗</translation>
+                <original>比喩ではなく詩ではなく</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="302" hasRuby="0" time="">
+                <start-time>00:14:59,541</start-time>
+                <end-time>00:15:01,363</end-time>
+                <translation>只是存在在那里</translation>
+                <original>ただそこに在る</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="303" hasRuby="0" time="">
+                <start-time>00:15:01,363</start-time>
+                <end-time>00:15:04,700</end-time>
+                <translation>削了些皮的苹果</translation>
+                <original>むきかけのりんご</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="304" hasRuby="0" time="">
+                <start-time>00:15:04,700</start-time>
+                <end-time>00:15:08,300</end-time>
+                <translation>悲伤只是存在在那里</translation>
+                <original>悲しみはただそこに在る</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="305" hasRuby="0" time="">
+                <start-time>00:15:08,300</start-time>
+                <end-time>00:15:10,919</end-time>
+                <translation>昨天的晚报
+昨日の夕刊</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="306" hasRuby="0" time="">
+                <start-time>00:15:10,919</start-time>
+                <end-time>00:15:13,250</end-time>
+                <translation>只是存在在那里</translation>
+                <original>ただそこに在る</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="307" hasRuby="0" time="">
+                <start-time>00:15:13,250</start-time>
+                <end-time>00:15:18,289</end-time>
+                <translation>只是存在于那里的炽热乳房</translation>
+                <original>ただそこに在る熱い乳房</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="308" hasRuby="0" time="">
+                <start-time>00:15:18,289</start-time>
+                <end-time>00:15:22,819</end-time>
+                <translation>只是存在于那里的黄昏</translation>
+                <original>ただそこに在る夕暮れ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="309" hasRuby="0" time="">
+                <start-time>00:15:22,819</start-time>
+                <end-time>00:15:26,233</end-time>
+                <translation>悲伤离开了语言</translation>
+                <original>悲しみは言葉を離れ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="310" hasRuby="0" time="">
+                <start-time>00:15:26,233</start-time>
+                <end-time>00:15:28,595</end-time>
+                <translation>离开了心灵
+心を離れ</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="311" hasRuby="0" time="">
+                <start-time>00:15:28,595</start-time>
+                <end-time>00:15:30,833</end-time>
+                <translation>只是存在于这里</translation>
+                <original>ただここに在る</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="312" hasRuby="0" time="">
+                <start-time>00:15:30,833</start-time>
+                <end-time>00:15:32,125</end-time>
+                <translation>今天的事物们</translation>
+                <original>今日のものたち</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="313" hasRuby="0" time="">
+                <start-time>00:15:35,542</start-time>
+                <end-time>00:15:39,571</end-time>
+                <translation>这首诗里 悲伤就是在那里存在着</translation>
+                <original>この詩はやっぱり悲しみっていうのはただそこにあるんだ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="314" hasRuby="0" time="">
+                <start-time>00:15:39,571</start-time>
+                <end-time>00:15:41,355</end-time>
+                <translation>其中只是存在在那里这句话</translation>
+                <original>この「ただそこに在る」っていうのが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="315" hasRuby="0" time="">
+                <start-time>00:15:41,355</start-time>
+                <end-time>00:15:43,940</end-time>
+                <translation>仿佛与各种事物交织在一起</translation>
+                <original>いろんなものに引っかかってくるように見えるんですけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="316" hasRuby="0" time="">
+                <start-time>00:15:43,940</start-time>
+                <end-time>00:15:45,166</end-time>
+                <translation>谷川先生或许是在说</translation>
+                <original>谷川さんおそらく</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="317" hasRuby="0" time="">
+                <start-time>00:15:45,166</start-time>
+                <end-time>00:15:47,960</end-time>
+                <translation>无论看向哪里都有悲伤</translation>
+                <original>どこを見ても悲しみがあるんだって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="318" hasRuby="0" time="">
+                <start-time>00:15:47,960</start-time>
+                <end-time>00:15:49,200</end-time>
+                <translation>那么悲伤</translation>
+                <original>悲しみというのは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="319" hasRuby="0" time="">
+                <start-time>00:15:49,200</start-time>
+                <end-time>00:15:51,525</end-time>
+                <translation>究竟应该被理解成怎样的感情呢</translation>
+                <original>どういう感情だと解釈したらいいんでしょうか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="320" hasRuby="0" time="">
+                <start-time>00:15:51,525</start-time>
+                <end-time>00:15:52,333</end-time>
+                <translation>是啊</translation>
+                <original>そうですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="321" hasRuby="0" time="">
+                <start-time>00:15:52,333</start-time>
+                <end-time>00:15:55,036</end-time>
+                <translation>我认为悲伤是我们人类</translation>
+                <original>やっぱり悲しみっていうのは我々の</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="322" hasRuby="0" time="">
+                <start-time>00:15:55,036</start-time>
+                <end-time>00:15:57,341</end-time>
+                <translation>非常根本的一种感情</translation>
+                <original>本当に根本感情なんだと思うんです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="323" hasRuby="0" time="">
+                <start-time>00:15:57,341</start-time>
+                <end-time>00:15:58,733</end-time>
+                <translation>说到悲伤</translation>
+                <original>悲しみっていうのは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="324" hasRuby="0" time="">
+                <start-time>00:15:58,733</start-time>
+                <end-time>00:16:01,991</end-time>
+                <translation>其实用汉字来写不止这一种写法</translation>
+                <original>実は漢字で書くとこの字だけじゃなくてですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="325" hasRuby="0" time="">
+                <start-time>00:16:01,991</start-time>
+                <end-time>00:16:04,366</end-time>
+                <translation>还可以在爱这个字后面</translation>
+                <original>愛という字に「しみ」っていうふうに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="326" hasRuby="0" time="">
+                <start-time>00:16:04,366</start-time>
+                <end-time>00:16:05,985</end-time>
+                <translation>加上送假名しみ</translation>
+                <original>送り仮名をつけると</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="327" hasRuby="0" time="">
+                <start-time>00:16:05,985</start-time>
+                <end-time>00:16:08,089</end-time>
+                <translation>写成“愛しみ”</translation>
+                <original>「愛しみ」っていうんですよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="328" hasRuby="0" time="">
+                <start-time>00:16:08,089</start-time>
+                <end-time>00:16:10,233</end-time>
+                <translation>还有“美しい（美）”这个词呢</translation>
+                <original>あるいは「美しい」って字ありますよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="329" hasRuby="0" time="">
+                <start-time>00:16:10,233</start-time>
+                <end-time>00:16:13,664</end-time>
+                <translation>也可以写成“美しみ”来表达悲伤</translation>
+                <original>それに「しみ」って書いても「美しみ」っていうんですよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="330" hasRuby="0" time="">
+                <start-time>00:16:13,664</start-time>
+                <end-time>00:16:14,347</end-time>
+                <translation>这或许意味着</translation>
+                <original>それは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="331" hasRuby="0" time="">
+                <start-time>00:16:14,347</start-time>
+                <end-time>00:16:17,617</end-time>
+                <translation>在人类能够拥有的感情当中</translation>
+                <original>おそらく人間が持ち得る感情の中で</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="332" hasRuby="0" time="">
+                <start-time>00:16:17,617</start-time>
+                <end-time>00:16:20,400</end-time>
+                <translation>悲伤也可以是最美丽的感情</translation>
+                <original>最も美しいものでもあると</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="333" hasRuby="0" time="">
+                <start-time>00:16:20,400</start-time>
+                <end-time>00:16:23,206</end-time>
+                <translation>古人想必发现了这一点</translation>
+                <original>いうことを昔の人が発見したんだと思うんです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="334" hasRuby="0" time="">
+                <start-time>00:16:23,206</start-time>
+                <end-time>00:16:25,275</end-time>
+                <translation>读着谷川先生的这首诗</translation>
+                <original>で谷川さんのこの詩を読んでいても</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="335" hasRuby="0" time="">
+                <start-time>00:16:25,275</start-time>
+                <end-time>00:16:26,529</end-time>
+                <translation>仿佛也能感受到世间的爱</translation>
+                <original>何かこの世の愛</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="336" hasRuby="0" time="">
+                <start-time>00:16:26,529</start-time>
+                <end-time>00:16:28,035</end-time>
+                <translation>想必是能感受到吧</translation>
+                <original>それを感じますよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="337" hasRuby="0" time="">
+                <start-time>00:16:29,813</start-time>
+                <end-time>00:16:35,733</end-time>
+                <translation>这世间无论望向哪里都有悲伤</translation>
+                <original>この世界にはどこを見ても哀しみが在る</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="338" hasRuby="0" time="">
+                <start-time>00:16:35,928</start-time>
+                <end-time>00:16:39,100</end-time>
+                <translation>这首诗反而让我振作起来</translation>
+                <original>僕はねちょっと元気出るんですよねこの詩</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="339" hasRuby="0" time="">
+                <start-time>00:16:39,100</start-time>
+                <end-time>00:16:41,726</end-time>
+                <translation>没必要为了悲伤而一再悲伤</translation>
+                <original>悲しむために悲しむことないです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="340" hasRuby="0" time="">
+                <start-time>00:16:41,726</start-time>
+                <end-time>00:16:43,366</end-time>
+                <translation>即使最初的起因
+こう一番最初の発端は</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="341" hasRuby="0" time="">
+                <start-time>00:16:43,366</start-time>
+                <end-time>00:16:45,171</end-time>
+                <translation>是某段非常难过的日子</translation>
+                <original>すごい悲しい頃だったんだけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="342" hasRuby="0" time="">
+                <start-time>00:16:45,171</start-time>
+                <end-time>00:16:48,441</end-time>
+                <translation>悲伤也停留在当初难过的那一刻</translation>
+                <original>悲しみは悲しんだ瞬間のところから動いてないから</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="343" hasRuby="0" time="">
+                <start-time>00:16:48,441</start-time>
+                <end-time>00:16:50,400</end-time>
+                <translation>比如说</translation>
+                <original>なんかそれが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="344" hasRuby="0" time="">
+                <start-time>00:16:50,400</start-time>
+                <end-time>00:16:51,965</end-time>
+                <translation>昨天的晚报上
+昨日の夕刊に</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="345" hasRuby="0" time="">
+                <start-time>00:16:51,965</start-time>
+                <end-time>00:16:55,222</end-time>
+                <translation>刊登了一则非常悲伤的新闻</translation>
+                <original>すごい悲しいニュースが載ってたとして</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="346" hasRuby="0" time="">
+                <start-time>00:16:55,222</start-time>
+                <end-time>00:16:57,446</end-time>
+                <translation>那悲伤已经停留在昨天的晚报里</translation>
+                <original>それはもう昨日の夕刊のところにとどまってる</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="347" hasRuby="0" time="">
+                <start-time>00:16:57,446</start-time>
+                <end-time>00:16:58,433</end-time>
+                <translation>停留在那里</translation>
+                <original>とどまっている</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="348" hasRuby="0" time="">
+                <start-time>00:16:58,433</start-time>
+                <end-time>00:17:00,984</end-time>
+                <translation>就是这么回事</translation>
+                <original>ことじゃんっていうこととか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="349" hasRuby="0" time="">
+                <start-time>00:17:00,984</start-time>
+                <end-time>00:17:02,137</end-time>
+                <translation>那已经是过去的东西了</translation>
+                <original>それ過去のもんで</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="350" hasRuby="0" time="">
+                <start-time>00:17:02,137</start-time>
+                <end-time>00:17:03,266</end-time>
+                <translation>是呢</translation>
+                <original>ああそうですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="351" hasRuby="0" time="">
+                <start-time>00:17:03,266</start-time>
+                <end-time>00:17:05,943</end-time>
+                <translation>我觉得愤怒也一样</translation>
+                <original>あのう怒りとかもそうだと思うんだよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="352" hasRuby="0" time="">
+                <start-time>00:17:05,943</start-time>
+                <end-time>00:17:07,200</end-time>
+                <translation>吵架到了第二天
+2日目の喧嘩って</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="353" hasRuby="0" time="">
+                <start-time>00:17:07,200</start-time>
+                <end-time>00:17:09,427</end-time>
+                <translation>已经不太记得当初为什么生气</translation>
+                <original>なんで怒ってたのかよく分かんないんだな</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="354" hasRuby="0" time="">
+                <start-time>00:17:09,427</start-time>
+                <end-time>00:17:10,714</end-time>
+                <translation>就是那样</translation>
+                <original>あいう感じで</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="355" hasRuby="0" time="">
+                <start-time>00:17:10,714</start-time>
+                <end-time>00:17:12,266</end-time>
+                <translation>生气这个现象本身</translation>
+                <original>いや怒ったっていう現象は</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="356" hasRuby="0" time="">
+                <start-time>00:17:12,266</start-time>
+                <end-time>00:17:14,747</end-time>
+                <translation>已经属于发生时的那个地方</translation>
+                <original>あそこのもんだからみたいな</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="357" hasRuby="0" time="">
+                <start-time>00:17:14,747</start-time>
+                <end-time>00:17:18,714</end-time>
+                <translation>像我经历宠物离世的时候</translation>
+                <original>僕はちょっとペットロスのときとか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="358" hasRuby="0" time="">
+                <start-time>00:17:18,714</start-time>
+                <end-time>00:17:20,433</end-time>
+                <translation>总觉得</translation>
+                <original>どうしても</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="359" hasRuby="0" time="">
+                <start-time>00:17:20,433</start-time>
+                <end-time>00:17:22,614</end-time>
+                <translation>一定要珍惜和宠物共同生活的回忆</translation>
+                <original>ペットとの思い出を大事にしたいから</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="360" hasRuby="0" time="">
+                <start-time>00:17:22,614</start-time>
+                <end-time>00:17:24,233</end-time>
+                <translation>于是不断放大悲伤</translation>
+                <original>悲しみの方を膨らませて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="361" hasRuby="0" time="">
+                <start-time>00:17:24,233</start-time>
+                <end-time>00:17:26,407</end-time>
+                <translation>一直闷闷不乐</translation>
+                <original>ずっと僕はくよくよしてたけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="362" hasRuby="0" time="">
+                <start-time>00:17:26,407</start-time>
+                <end-time>00:17:28,846</end-time>
+                <translation>但那件事终究属于那件事</translation>
+                <original>あれはあれだっていう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="363" hasRuby="0" time="">
+                <start-time>00:17:28,846</start-time>
+                <end-time>00:17:31,660</end-time>
+                <translation>我当时要是能读到这样的诗就好了</translation>
+                <original>こういう詩をその時 見たかったかな</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="364" hasRuby="0" time="">
+                <start-time>00:17:31,660</start-time>
+                <end-time>00:17:33,496</end-time>
+                <translation>原来如此</translation>
+                <original>なるほどね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="365" hasRuby="0" time="">
+                <start-time>00:17:33,496</start-time>
+                <end-time>00:17:35,613</end-time>
+                <translation>我首先发现视频里</translation>
+                <original>私まずVTRの</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="366" hasRuby="0" time="">
+                <start-time>00:17:35,639</start-time>
+                <end-time>00:17:38,717</end-time>
+                <translation>昆小姐朗读时的理解和我完全不同</translation>
+                <original>朗読の昆さんと全然解釈が違っていることに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="367" hasRuby="0" time="">
+                <start-time>00:17:38,717</start-time>
+                <end-time>00:17:40,577</end-time>
+                <translation>这次真让我吃了一惊</translation>
+                <original>まず今回びっくりして</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="368" hasRuby="0" time="">
+                <start-time>00:17:40,577</start-time>
+                <end-time>00:17:43,917</end-time>
+                <translation>因为我读的时候在这里断句</translation>
+                <original>私読んだときはここで切ったんです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="369" hasRuby="0" time="">
+                <start-time>00:17:43,917</start-time>
+                <end-time>00:17:45,636</end-time>
+                <translation>削了些皮的苹果</translation>
+                <original>「むきかけのりんご</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="370" hasRuby="0" time="">
+                <start-time>00:17:45,636</start-time>
+                <end-time>00:17:47,876</end-time>
+                <translation>悲伤只是存在在那里</translation>
+                <original>悲しみはただそこに在る」</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="371" hasRuby="0" time="">
+                <start-time>00:17:47,876</start-time>
+                <end-time>00:17:49,696</end-time>
+                <translation>我还以为这里已经是一句的结束</translation>
+                <original>で丸だと思ってたんですよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="372" hasRuby="0" time="">
+                <start-time>00:17:49,696</start-time>
+                <end-time>00:17:51,296</end-time>
+                <translation>其实这样也完全可以</translation>
+                <original>あのうそれでいいんですよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="373" hasRuby="0" time="">
+                <start-time>00:17:51,296</start-time>
+                <end-time>00:17:52,516</end-time>
+                <translation>因为</translation>
+                <original>というのは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="374" hasRuby="0" time="">
+                <start-time>00:17:52,516</start-time>
+                <end-time>00:17:56,295</end-time>
+                <translation>-允许这种读法 因为下面没有空行 -原来如此</translation>
+                <original>-それでいいからこれは一行空いてないんですよ　-なるほど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="375" hasRuby="0" time="">
+                <start-time>00:17:56,295</start-time>
+                <end-time>00:17:58,942</end-time>
+                <translation>是连在一起的一首诗</translation>
+                <original>一続きの詩ですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="376" hasRuby="0" time="">
+                <start-time>00:17:58,942</start-time>
+                <end-time>00:18:00,674</end-time>
+                <translation>无论在哪里断开</translation>
+                <original>どこで切っていただいても</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="377" hasRuby="0" time="">
+                <start-time>00:18:00,674</start-time>
+                <end-time>00:18:02,766</end-time>
+                <translation>都是读者自己的自由</translation>
+                <original>それは読者の自由ですよっていうのが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="378" hasRuby="0" time="">
+                <start-time>00:18:02,766</start-time>
+                <end-time>00:18:04,754</end-time>
+                <translation>这正是诗人向读者发出的邀请</translation>
+                <original>詩人からの招待状なんですよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="379" hasRuby="0" time="">
+                <start-time>00:18:04,754</start-time>
+                <end-time>00:18:06,674</end-time>
+                <translation>所以若松先生刚才不是说过</translation>
+                <original>だから若松さんが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="380" hasRuby="0" time="">
+                <start-time>00:18:06,674</start-time>
+                <end-time>00:18:09,100</end-time>
+                <translation>首先要慢慢地读</translation>
+                <original>ゆっくり読んでみるとまずいいですよ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="381" hasRuby="0" time="">
+                <start-time>00:18:09,100</start-time>
+                <end-time>00:18:11,453</end-time>
+                <translation>不是说过这句话吗</translation>
+                <original>っておっしゃったじゃないですか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="382" hasRuby="0" time="">
+                <start-time>00:18:11,453</start-time>
+                <end-time>00:18:13,233</end-time>
+                <translation>第二次可以换一种断句读法
+二度目違く読むとか</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="383" hasRuby="0" time="">
+                <start-time>00:18:13,233</start-time>
+                <end-time>00:18:16,212</end-time>
+                <translation>总之只要愿意充分品味</translation>
+                <original>とにかく味わい尽くそうと思ったら</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="384" hasRuby="0" time="">
+                <start-time>00:18:16,212</start-time>
+                <end-time>00:18:18,733</end-time>
+                <translation>就一定会有新的发现</translation>
+                <original>そこに絶対発見ありますね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="385" hasRuby="0" time="">
+                <start-time>00:18:20,932</start-time>
+                <end-time>00:18:24,851</end-time>
+                <translation>谷川早期为了探问自己究竟是什么</translation>
+                <original>初期の谷川さんは自分とは何かと問いかけるために</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="386" hasRuby="0" time="">
+                <start-time>00:18:24,851</start-time>
+                <end-time>00:18:28,851</end-time>
+                <translation>写下了许多歌咏人类根本之物的诗篇</translation>
+                <original>私たち人間にとって根源的なものをうたう詩を数多く書いてきました</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="387" hasRuby="0" time="">
+                <start-time>00:18:28,851</start-time>
+                <end-time>00:18:32,295</end-time>
+                <translation>最后让我们再介绍其中的一首</translation>
+                <original>その中から最後にもう一つご紹介しましょう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="388" hasRuby="0" time="">
+                <start-time>00:18:36,655</start-time>
+                <end-time>00:18:38,866</end-time>
+                <translation>永远</translation>
+                <original>いつまでも</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="389" hasRuby="0" time="">
+                <start-time>00:18:38,866</start-time>
+                <end-time>00:18:41,433</end-time>
+                <translation>那样永远地</translation>
+                <original>そんなにいつまでも</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="390" hasRuby="0" time="">
+                <start-time>00:18:41,433</start-time>
+                <end-time>00:18:45,308</end-time>
+                <translation>紧紧相连 无论多远</translation>
+                <original>むすばれているのだどこまでも</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="391" hasRuby="0" time="">
+                <start-time>00:18:45,308</start-time>
+                <end-time>00:18:48,169</end-time>
+                <translation>那样无论多远 紧紧相连</translation>
+                <original>そんなにどこまでもむすばれているのだ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="392" hasRuby="0" time="">
+                <start-time>00:18:49,608</start-time>
+                <end-time>00:18:52,333</end-time>
+                <translation>为了弱小的人</translation>
+                <original>弱いもののために</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="393" hasRuby="0" time="">
+                <start-time>00:18:52,333</start-time>
+                <end-time>00:18:55,328</end-time>
+                <translation>为了那些彼此相爱却被拆散的人</translation>
+                <original>愛し合いながらもたちきられているもの</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="394" hasRuby="0" time="">
+                <start-time>00:18:56,767</start-time>
+                <end-time>00:19:01,546</end-time>
+                <translation>为了独自生活的人</translation>
+                <original>ひとりで生きているもののために</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="395" hasRuby="0" time="">
+                <start-time>00:19:01,546</start-time>
+                <end-time>00:19:03,800</end-time>
+                <translation>永远</translation>
+                <original>いつまでも</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="396" hasRuby="0" time="">
+                <start-time>00:19:03,800</start-time>
+                <end-time>00:19:08,505</end-time>
+                <translation>那样永远地需要一首唱不完的歌</translation>
+                <original>そんなにいつまでも終らない歌が要るのだ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="397" hasRuby="0" time="">
+                <start-time>00:19:08,505</start-time>
+                <end-time>00:19:12,305</end-time>
+                <translation>为了不让天地相争</translation>
+                <original>天と地とをあらそわせぬために</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="398" hasRuby="0" time="">
+                <start-time>00:19:12,305</start-time>
+                <end-time>00:19:16,305</end-time>
+                <translation>为了让被割断的事物 重新接续原本的联系</translation>
+                <original>たちきられたものをもとのつながりに戻すため</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="399" hasRuby="0" time="">
+                <start-time>00:19:18,624</start-time>
+                <end-time>00:19:22,163</end-time>
+                <translation>让一个人的心回到众人的心中</translation>
+                <original>ひとりの心をひとびとの心に</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="400" hasRuby="0" time="">
+                <start-time>00:19:22,163</start-time>
+                <end-time>00:19:25,203</end-time>
+                <translation>让战壕回到古老的村庄
+塹壕を古い村々に</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="401" hasRuby="0" time="">
+                <start-time>00:19:25,203</start-time>
+                <end-time>00:19:28,163</end-time>
+                <translation>让天空回到无知的鸟儿身边</translation>
+                <original>空を無知な鳥たちに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="402" hasRuby="0" time="">
+                <start-time>00:19:28,163</start-time>
+                <end-time>00:19:31,662</end-time>
+                <translation>让童话回到幼小的孩子身边</translation>
+                <original>お伽話を小さな子らに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="403" hasRuby="0" time="">
+                <start-time>00:19:31,662</start-time>
+                <end-time>00:19:35,242</end-time>
+                <translation>让蜂蜜回到勤劳的蜜蜂身边</translation>
+                <original>蜜を勤勉な蜂たちに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="404" hasRuby="0" time="">
+                <start-time>00:19:35,242</start-time>
+                <end-time>00:19:38,861</end-time>
+                <translation>为了把世界还给无法命名的事物</translation>
+                <original>世界を名づけられぬものにかえすため</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="405" hasRuby="0" time="">
+                <start-time>00:19:38,861</start-time>
+                <end-time>00:19:40,800</end-time>
+                <translation>直到天涯</translation>
+                <original>どこまでも</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="406" hasRuby="0" time="">
+                <start-time>00:19:40,800</start-time>
+                <end-time>00:19:45,260</end-time>
+                <translation>那样直到天涯 紧紧相连</translation>
+                <original>そんなにどこまでもむすばれている</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="407" hasRuby="0" time="">
+                <start-time>00:19:45,260</start-time>
+                <end-time>00:19:49,100</end-time>
+                <translation>仿佛它正要自行终结</translation>
+                <original>まるで自ら終ろうとしているように</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="408" hasRuby="0" time="">
+                <start-time>00:19:49,100</start-time>
+                <end-time>00:19:54,159</end-time>
+                <translation>仿佛它正要成为完整无缺之物</translation>
+                <original>まるで自ら全いものになろうとするように</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="409" hasRuby="0" time="">
+                <start-time>00:19:54,159</start-time>
+                <end-time>00:19:57,859</end-time>
+                <translation>宛如神的设计图 直到天涯</translation>
+                <original>神の設計図のようにどこまでも</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="410" hasRuby="0" time="">
+                <start-time>00:19:57,859</start-time>
+                <end-time>00:20:02,178</end-time>
+                <translation>那样永远地趋于完成</translation>
+                <original>そんなにいつまでも完成しようとしている</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="411" hasRuby="0" time="">
+                <start-time>00:20:02,178</start-time>
+                <end-time>00:20:04,778</end-time>
+                <translation>为了连结万物</translation>
+                <original>すべてをむすぶために</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="412" hasRuby="0" time="">
+                <start-time>00:20:04,778</start-time>
+                <end-time>00:20:09,297</end-time>
+                <translation>让一切都不再彼此割裂</translation>
+                <original>たちきられているものはひとつもないように</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="413" hasRuby="0" time="">
+                <start-time>00:20:09,297</start-time>
+                <end-time>00:20:11,597</end-time>
+                <translation>让所有事物都在同一个名字之下</translation>
+                <original>すべてがひとつの名のもとに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="414" hasRuby="0" time="">
+                <start-time>00:20:11,597</start-time>
+                <end-time>00:20:14,936</end-time>
+                <translation>继续生存下去</translation>
+                <original>生き続けられるように</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="415" hasRuby="0" time="">
+                <start-time>00:20:14,936</start-time>
+                <end-time>00:20:17,100</end-time>
+                <translation>让树与伐木人</translation>
+                <original>樹がきこりと</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="416" hasRuby="0" time="">
+                <start-time>00:20:17,100</start-time>
+                <end-time>00:20:19,256</end-time>
+                <translation>少女与血</translation>
+                <original>少女が血と</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="417" hasRuby="0" time="">
+                <start-time>00:20:19,256</start-time>
+                <end-time>00:20:21,496</end-time>
+                <translation>窗与恋
+窓が恋と</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="418" hasRuby="0" time="">
+                <start-time>00:20:21,496</start-time>
+                <end-time>00:20:24,533</end-time>
+                <translation>歌与另一首歌</translation>
+                <original>歌がもうひとつの歌と</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="419" hasRuby="0" time="">
+                <start-time>00:20:24,533</start-time>
+                <end-time>00:20:27,835</end-time>
+                <translation>不再相互争斗</translation>
+                <original>あらそうことのないように</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="420" hasRuby="0" time="">
+                <start-time>00:20:27,835</start-time>
+                <end-time>00:20:32,834</end-time>
+                <translation>让生命里没有一样东西是多余的</translation>
+                <original>生きるのに不要なもののひとつもないように</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="421" hasRuby="0" time="">
+                <start-time>00:20:32,834</start-time>
+                <end-time>00:20:35,054</end-time>
+                <translation>那样丰饶地</translation>
+                <original>そんなに豊かに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="422" hasRuby="0" time="">
+                <start-time>00:20:35,054</start-time>
+                <end-time>00:20:37,773</end-time>
+                <translation>那样永远地扩展开去</translation>
+                <original>そんなにいつまでもひろがってゆく</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="423" hasRuby="0" time="">
+                <start-time>00:20:37,773</start-time>
+                <end-time>00:20:39,074</end-time>
+                <translation>有这样一种意象</translation>
+                <original>イマージュがある</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="424" hasRuby="0" time="">
+                <start-time>00:20:40,773</start-time>
+                <end-time>00:20:44,412</end-time>
+                <translation>仿佛要让世界来模仿自己</translation>
+                <original>世界に自らを真似させようと</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="425" hasRuby="0" time="">
+                <start-time>00:20:44,412</start-time>
+                <end-time>00:20:47,566</end-time>
+                <translation>以温柔的目光招手相邀</translation>
+                <original>やさしい眼差でさし招く</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="426" hasRuby="0" time="">
+                <start-time>00:20:47,566</start-time>
+                <end-time>00:20:51,433</end-time>
+                <translation>有这样一种意象</translation>
+                <original>イマージュがある</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="427" hasRuby="0" time="">
+                <start-time>00:20:52,251</start-time>
+                <end-time>00:20:53,631</end-time>
+                <translation>这首诗的标题是什么意思呢</translation>
+                <original>タイトルはどういうことなんですか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="428" hasRuby="0" time="">
+                <start-time>00:20:53,631</start-time>
+                <end-time>00:20:56,636</end-time>
+                <translation>这首诗叫作《爱 献给Paul Klee》</translation>
+                <original>あっこれは『愛 パウル・クレーに』ですけれど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="429" hasRuby="0" time="">
+                <start-time>00:20:56,636</start-time>
+                <end-time>00:20:59,730</end-time>
+                <translation>保罗·克利是一位著名的瑞士画家吧</translation>
+                <original>パウル・クレーというのは有名なスイスの画家ということですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="430" hasRuby="0" time="">
+                <start-time>00:20:59,730</start-time>
+                <end-time>00:21:00,576</end-time>
+                <translation>一位画家呢</translation>
+                <original>画家ですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="431" hasRuby="0" time="">
+                <start-time>00:21:00,576</start-time>
+                <end-time>00:21:03,150</end-time>
+                <translation>谷川受他的画作深深震撼</translation>
+                <original>やっぱり絵にとても強い衝撃を受けて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="432" hasRuby="0" time="">
+                <start-time>00:21:03,150</start-time>
+                <end-time>00:21:06,369</end-time>
+                <translation>也可以说被这位画家本人深深打动</translation>
+                <original>あるいは画家に とても強い衝撃を受けて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="433" hasRuby="0" time="">
+                <start-time>00:21:06,369</start-time>
+                <end-time>00:21:08,689</end-time>
+                <translation>于是开始追问爱究竟是什么</translation>
+                <original>愛とは何かということを問うた</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="434" hasRuby="0" time="">
+                <start-time>00:21:08,689</start-time>
+                <end-time>00:21:10,376</end-time>
+                <translation>这就是这样的作品</translation>
+                <original>そういう作品なんですけどね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="435" hasRuby="0" time="">
+                <start-time>00:21:10,376</start-time>
+                <end-time>00:21:12,649</end-time>
+                <translation>诗中提到了“联系”这个词</translation>
+                <original>この中で「つながり」って言葉が</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="436" hasRuby="0" time="">
+                <start-time>00:21:12,649</start-time>
+                <end-time>00:21:16,068</end-time>
+                <translation>还有紧紧相连 意思都非常接近</translation>
+                <original>あるいは「むすばれている」とても近い言葉ですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="437" hasRuby="0" time="">
+                <start-time>00:21:16,068</start-time>
+                <end-time>00:21:17,800</end-time>
+                <translation>说起爱</translation>
+                <original>で愛っていうのは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="438" hasRuby="0" time="">
+                <start-time>00:21:17,800</start-time>
+                <end-time>00:21:20,628</end-time>
+                <translation>我们总会立刻想到喜欢某个人</translation>
+                <original>我々は誰かのことを好きとか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="439" hasRuby="0" time="">
+                <start-time>00:21:20,628</start-time>
+                <end-time>00:21:23,127</end-time>
+                <translation>想把爱和这种感情联系起来</translation>
+                <original>そんなこととすぐ結びつけたがるんですけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="440" hasRuby="0" time="">
+                <start-time>00:21:23,127</start-time>
+                <end-time>00:21:26,547</end-time>
+                <translation>可以把某物和另一物在无形之中连结的</translation>
+                <original>何かと何かを見えない形でも結んでいる</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="441" hasRuby="0" time="">
+                <start-time>00:21:26,547</start-time>
+                <end-time>00:21:28,287</end-time>
+                <translation>那就是爱啊</translation>
+                <original>それが愛なんだって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="442" hasRuby="0" time="">
+                <start-time>00:21:28,287</start-time>
+                <end-time>00:21:29,806</end-time>
+                <translation>我想这才是诗中所说的爱</translation>
+                <original>いうことなんだろうと思うんです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="443" hasRuby="0" time="">
+                <start-time>00:21:29,806</start-time>
+                <end-time>00:21:31,686</end-time>
+                <translation>所以在我们的生活中</translation>
+                <original>だから私たちの中には</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="444" hasRuby="0" time="">
+                <start-time>00:21:31,686</start-time>
+                <end-time>00:21:33,246</end-time>
+                <translation>本应存在着某种</translation>
+                <original>こういう本当に人と人を</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="445" hasRuby="0" time="">
+                <start-time>00:21:33,246</start-time>
+                <end-time>00:21:35,706</end-time>
+                <translation>真正能把人与人连结起来的东西</translation>
+                <original>つなぐような何かが必要なのに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="446" hasRuby="0" time="">
+                <start-time>00:21:35,706</start-time>
+                <end-time>00:21:38,305</end-time>
+                <translation>但这个世界却四分五裂</translation>
+                <original>世界が分断されている</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="447" hasRuby="0" time="">
+                <start-time>00:21:38,305</start-time>
+                <end-time>00:21:40,965</end-time>
+                <translation>我们明明不可缺少这样的联系</translation>
+                <original>こういうものがなくてはならないのに</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="448" hasRuby="0" time="">
+                <start-time>00:21:40,965</start-time>
+                <end-time>00:21:42,520</end-time>
+                <translation>眼前却是一个缺少它的世界</translation>
+                <original>そうじゃない世界が</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="449" hasRuby="0" time="">
+                <start-time>00:21:42,520</start-time>
+                <end-time>00:21:43,940</end-time>
+                <translation>所以他才写下这首诗</translation>
+                <original>目の前にあるから書いてるんです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="450" hasRuby="0" time="">
+                <start-time>00:21:46,783</start-time>
+                <end-time>00:21:48,600</end-time>
+                <translation>我想问一下 这首诗里</translation>
+                <original>一つ聞きたいのがこの</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="451" hasRuby="0" time="">
+                <start-time>00:21:48,600</start-time>
+                <end-time>00:21:50,666</end-time>
+                <translation>最后出现的意象</translation>
+                <original>最後に出てくるイマージュ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="452" hasRuby="0" time="">
+                <start-time>00:21:50,666</start-time>
+                <end-time>00:21:52,463</end-time>
+                <translation>究竟是什么意思呢</translation>
+                <original>これはどういうことなんでしょうか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="453" hasRuby="0" time="">
+                <start-time>00:21:52,463</start-time>
+                <end-time>00:21:55,123</end-time>
+                <translation>平时我们会说“想象”吧</translation>
+                <original>そうですね普通イメージって言いますよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="454" hasRuby="0" time="">
+                <start-time>00:21:55,123</start-time>
+                <end-time>00:21:57,363</end-time>
+                <translation>请试着在脑海中想象一支铅笔</translation>
+                <original>鉛筆をイメージしてみてください</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="455" hasRuby="0" time="">
+                <start-time>00:21:57,363</start-time>
+                <end-time>00:21:59,300</end-time>
+                <translation>你肯定会想到铅笔吧</translation>
+                <original>まあ鉛筆イメージしますよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="456" hasRuby="0" time="">
+                <start-time>00:21:59,300</start-time>
+                <end-time>00:22:00,702</end-time>
+                <translation>这就是普通的形象</translation>
+                <original>それはイメージだと</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="457" hasRuby="0" time="">
+                <start-time>00:22:00,702</start-time>
+                <end-time>00:22:02,642</end-time>
+                <translation>但是所谓意象</translation>
+                <original>でもイマージュっていうのは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="458" hasRuby="0" time="">
+                <start-time>00:22:02,642</start-time>
+                <end-time>00:22:04,966</end-time>
+                <translation>并不是别人赋予我们的东西</translation>
+                <original>他の人から与えられるものじゃなくて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="459" hasRuby="0" time="">
+                <start-time>00:22:04,966</start-time>
+                <end-time>00:22:08,341</end-time>
+                <translation>而是从一个人内心涌现的某种事物</translation>
+                <original>その人の中から湧き上がってくる何かなんです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="460" hasRuby="0" time="">
+                <start-time>00:22:08,341</start-time>
+                <end-time>00:22:10,100</end-time>
+                <translation>是一种独属于自己的东西</translation>
+                <original>固有な何かなんですやっぱり</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="461" hasRuby="0" time="">
+                <start-time>00:22:10,100</start-time>
+                <end-time>00:22:12,621</end-time>
+                <translation>只有那个人才能想象出来</translation>
+                <original>その人だけが想像できるものっていう</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="462" hasRuby="0" time="">
+                <start-time>00:22:12,621</start-time>
+                <end-time>00:22:14,416</end-time>
+                <translation>-我理解得对吗 -对的</translation>
+                <original>-合ってるんですか　-そうですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="463" hasRuby="0" time="">
+                <start-time>00:22:14,416</start-time>
+                <end-time>00:22:19,060</end-time>
+                <translation>所以它首先很难与别人共享</translation>
+                <original>ですのでまず人と共有しづらいんです</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="464" hasRuby="0" time="">
+                <start-time>00:22:19,060</start-time>
+                <end-time>00:22:21,439</end-time>
+                <translation>也正因如此 我们才会写诗</translation>
+                <original>だから我々詩を書くんですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="465" hasRuby="0" time="">
+                <start-time>00:22:21,439</start-time>
+                <end-time>00:22:23,933</end-time>
+                <translation>诗原本就是试图将无法化作语言的东西</translation>
+                <original>詩っていうのはもともと言葉たり得ないものを</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="466" hasRuby="0" time="">
+                <start-time>00:22:23,933</start-time>
+                <end-time>00:22:27,139</end-time>
+                <translation>-化作语言的一种活动 -原来如此</translation>
+                <original>-言葉にしようとする営みなんです　-なるほど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="467" hasRuby="0" time="">
+                <start-time>00:22:27,139</start-time>
+                <end-time>00:22:29,798</end-time>
+                <translation>比如我在广播里说话的时候</translation>
+                <original>ラジオなんかで言葉を喋っているときは</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="468" hasRuby="0" time="">
+                <start-time>00:22:29,798</start-time>
+                <end-time>00:22:31,566</end-time>
+                <translation>我希望能够温和地引导听众</translation>
+                <original>緩やかに誘導したいが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="469" hasRuby="0" time="">
+                <start-time>00:22:31,566</start-time>
+                <end-time>00:22:34,798</end-time>
+                <translation>但又不愿限制他们的想象</translation>
+                <original>縛りたくないっていう考え方なんですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="470" hasRuby="0" time="">
+                <start-time>00:22:34,798</start-time>
+                <end-time>00:22:37,500</end-time>
+                <translation>因此不需要所有人</translation>
+                <original>だからみんなが全く同じ</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="471" hasRuby="0" time="">
+                <start-time>00:22:37,500</start-time>
+                <end-time>00:22:39,317</end-time>
+                <translation>都在脑海中浮现出</translation>
+                <original>写真みたいなものを</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="472" hasRuby="0" time="">
+                <start-time>00:22:39,317</start-time>
+                <end-time>00:22:41,857</end-time>
+                <translation>完全相同的照片般的画面</translation>
+                <original>浮かべている必要は全然なくて</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="473" hasRuby="0" time="">
+                <start-time>00:22:41,857</start-time>
+                <end-time>00:22:45,816</end-time>
+                <translation>大致感觉是那样就行</translation>
+                <original>どうやらそんな感じかなとは思ってます</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="474" hasRuby="0" time="">
+                <start-time>00:22:45,816</start-time>
+                <end-time>00:22:47,336</end-time>
+                <translation>所以如果我们</translation>
+                <original>だからもっと我々が</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="475" hasRuby="0" time="">
+                <start-time>00:22:47,336</start-time>
+                <end-time>00:22:49,536</end-time>
+                <translation>都能把画画得足够巧妙</translation>
+                <original>本当は巧みに絵が描けたら</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="476" hasRuby="0" time="">
+                <start-time>00:22:49,536</start-time>
+                <end-time>00:22:50,995</end-time>
+                <translation>再比较彼此心中感受到的东西</translation>
+                <original>それぞれ何を感じてるかって</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="477" hasRuby="0" time="">
+                <start-time>00:22:50,995</start-time>
+                <end-time>00:22:52,856</end-time>
+                <translation>应该很有趣吧</translation>
+                <original>比べてみると面白いですよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="478" hasRuby="0" time="">
+                <start-time>00:22:52,856</start-time>
+                <end-time>00:22:54,355</end-time>
+                <translation>尽管读的是同一首诗</translation>
+                <original>同じ詩を読んでるけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="479" hasRuby="0" time="">
+                <start-time>00:22:54,355</start-time>
+                <end-time>00:22:56,576</end-time>
+                <translation>画出来的东西却可能截然不同</translation>
+                <original>まるで違った絵が出てくると思います</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="480" hasRuby="0" time="">
+                <start-time>00:22:56,576</start-time>
+                <end-time>00:23:00,954</end-time>
+                <translation>是啊 读这首诗时想到了什么</translation>
+                <original>本当だこの詩を読んで何が浮かんだとか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="481" hasRuby="0" time="">
+                <start-time>00:23:00,954</start-time>
+                <end-time>00:23:02,900</end-time>
+                <translation>或者在家人的回忆里
+家族の思い出の中で</translation>
+                <original/>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="482" hasRuby="0" time="">
+                <start-time>00:23:02,900</start-time>
+                <end-time>00:23:05,174</end-time>
+                <translation>浮现的是哪一段时光</translation>
+                <original>どんな時間のことが浮かんだみたいな</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="483" hasRuby="0" time="">
+                <start-time>00:23:05,174</start-time>
+                <end-time>00:23:07,166</end-time>
+                <translation>这样稍微从字面上走开</translation>
+                <original>ちょっと離れることの方が</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="484" hasRuby="0" time="">
+                <start-time>00:23:07,166</start-time>
+                <end-time>00:23:09,933</end-time>
+                <translation>也许反而更能</translation>
+                <original>詩と親しんでもらうには</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="485" hasRuby="0" time="">
+                <start-time>00:23:09,933</start-time>
+                <end-time>00:23:11,853</end-time>
+                <translation>让人亲近诗歌</translation>
+                <original>正しい気がするな</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="486" hasRuby="0" time="">
+                <start-time>00:23:11,853</start-time>
+                <end-time>00:23:13,732</end-time>
+                <translation>若松先生 听了这些您有什么感想</translation>
+                <original>若松さん今聞いていかがですか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="487" hasRuby="0" time="">
+                <start-time>00:23:13,732</start-time>
+                <end-time>00:23:18,152</end-time>
+                <translation>我们如今生活在一个信息过剩的社会</translation>
+                <original>私たちは今すごい過度な情報社会にいるじゃないですか</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="488" hasRuby="0" time="">
+                <start-time>00:23:18,152</start-time>
+                <end-time>00:23:22,591</end-time>
+                <translation>各种事物都被切分成词语来表达</translation>
+                <original>でいろんなものが区切られた言葉で表現されてますよね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="489" hasRuby="0" time="">
+                <start-time>00:23:22,591</start-time>
+                <end-time>00:23:24,100</end-time>
+                <translation>但是也许</translation>
+                <original>でももしかしたら</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="490" hasRuby="0" time="">
+                <start-time>00:23:24,100</start-time>
+                <end-time>00:23:26,211</end-time>
+                <translation>如果我们断言只有语言能够说出的东西</translation>
+                <original>その言葉で言えるものだけが</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="491" hasRuby="0" time="">
+                <start-time>00:23:26,211</start-time>
+                <end-time>00:23:28,610</end-time>
+                <translation>才是真实的</translation>
+                <original>本当のことだと断定してしまうには</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="492" hasRuby="0" time="">
+                <start-time>00:23:28,610</start-time>
+                <end-time>00:23:31,750</end-time>
+                <translation>我觉得其中就会潜藏一些危险</translation>
+                <original>少し僕は危険をはらんでいるんじゃないかなと思いますので</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="493" hasRuby="0" time="">
+                <start-time>00:23:31,750</start-time>
+                <end-time>00:23:33,770</end-time>
+                <translation>所以我想通过阅读谷川先生的诗</translation>
+                <original>谷川さんの詩を読みながらですね</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="494" hasRuby="0" time="">
+                <start-time>00:23:33,770</start-time>
+                <end-time>00:23:35,966</end-time>
+                <translation>我们或许可以让自己与语言的关系</translation>
+                <original>もう少し言葉との関係を</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="495" hasRuby="0" time="">
+                <start-time>00:23:35,966</start-time>
+                <end-time>00:23:37,929</end-time>
+                <translation>变得更加开阔而丰富</translation>
+                <original>広く豊かに持っていく</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="496" hasRuby="0" time="">
+                <start-time>00:23:37,929</start-time>
+                <end-time>00:23:41,289</end-time>
+                <translation>或许这也是读他的诗能够带给我们的东西</translation>
+                <original>ということができるんじゃないかと思ったりもしてますけど</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="497" hasRuby="0" time="">
+                <start-time>00:23:41,289</start-time>
+                <end-time>00:23:42,848</end-time>
+                <translation>若松老师 非常感谢</translation>
+                <original>若松さんありがとうございました</original>
+                <spell/>
+            </t>
+            <t vertical="0" torder="1" id="" index="498" hasRuby="0" time="">
+                <start-time>00:23:42,848</start-time>
+                <end-time>00:23:43,676</end-time>
+                <translation>谢谢大家</translation>
+                <original>ありがとうございました</original>
+                <spell/>
+            </t>
+        </part>
+    </body>
+</ysj>
